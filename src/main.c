@@ -25,15 +25,19 @@ int WINAPI WinMain(
 
 static Rid windowID;
 
-static void on_quit(Rid button, void* user_data) {
-    (void)button;
+
+// NOTE: All button callbacks have to be this signature
+// NOTE: void name(Rid, const char*, void*). sender is the widget that triggered this callback. char* action is the action name like click, change etc(u may have to consult offical doc for this), void* userdata is custom data registered with callback
+
+static void on_quit(Rid sender, const char* action, void* user_data) {
+    (void)sender;
     (void)user_data;
     Rquit(0);
 }
 
 
-static void toggle_chapter_menu(Rid button, void* user_data) {
-    (void)button;
+static void toggle_chapter_menu(Rid sender, const char* action, void* user_data) {
+    (void)sender;
 	(void)user_data;
 	Rid menu = Rwidget_find(windowID, "chapter_menu");
     //assert(Rwidget_get_visibility(menu), -1);
@@ -51,7 +55,8 @@ static void populate_chapters(Rid chapter_menu) {
 		snprintf(button_name, sizeof(button_name), "chapter_%d", i);
 		printf("Creating button: %s\n", button_name);   
 		Rid button = Rbutton_create(button_name);
-		Rmenu_add_item(chapter_menu, button);
+        // NOTE: this function takes widget id and char*, not another widget
+		Rmenu_add_item(chapter_menu, "test");
 	}
 }
 int main(void) {
