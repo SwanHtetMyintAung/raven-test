@@ -23,28 +23,49 @@ int WINAPI WinMain(
 #endif
 #endif
 
+static Rid windowID;
+
 static void on_quit(Rid button, void* user_data) {
     (void)button;
     (void)user_data;
     Rquit(0);
 }
 
+
+static void toggle_chapter_menu(Rid button, void* user_data) {
+    (void)button;
+	(void)user_data;
+	Rid menu = Rwidget_find(windowID, "chapter_menu");
+    //assert(Rwidget_get_visibility(menu), -1);
+	if (Rwidget_get_visibility(menu) == R_VISIBLE) {
+		Rwidget_set_visibility(menu, R_COLLAPSED);
+	}
+	else {
+		Rwidget_set_visibility(menu, R_VISIBLE);
+	}
+}
+static void populate_chapters(Rid chapter_menu) {
+	// Populate the chapter menu with buttons for each chapter
+	for (int i = 1; i <= 5; ++i) {
+		char button_name[20];
+		snprintf(button_name, sizeof(button_name), "chapter_%d", i);
+		printf("Creating button: %s\n", button_name);   
+		Rid button = Rbutton_create(button_name);
+		Rmenu_add_item(chapter_menu, button);
+	}
+}
 int main(void) {
     if (!Rinit(R_BACKEND_VULKAN)) return 1;
+    Raction_bind("app.quit", on_quit, NULL);
+    Raction_bind("chapter_menu.toggle", toggle_chapter_menu, NULL);
+    windowID = Rwindow_create_from_xml_file("./assets/window.xml");
+    if (windowID == R_INVALID_ID)  return 1; 
 
-    Rid window = Rwindow_create("Hello", 420, 220, R_WINDOW_DEFAULT);
-    Rid box = Rwidget_create(R_WIDGET_VBOX);
-    Rpanel_set_spacing(box, 12);
-    Rslot_set_halign(box, R_HALIGN_CENTER);
-    Rslot_set_valign(box, R_VALIGN_CENTER);
-    Rwindow_set_content(window, box);
-
-    Rwidget_add_child(box, Rlabel_create("Hello from Raven"));
-    Rid quit = Rwidget_add_child(box, Rbutton_create("Quit"));
-    Rbutton_set_clicked_callback(quit, on_quit, NULL);
+    //populate_chapters(Rwidget_find(windowID, "chapter_menu"));
+	populate_chapters(Rwidget_find(windowID, "chapter_menu"));
+	
 
     while (Rwait_frame(-1.0)) {}
     Rshutdown();
-    return Rget_exit_code();
+    return 0;
 }
-

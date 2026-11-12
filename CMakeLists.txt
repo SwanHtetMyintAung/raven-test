@@ -4,7 +4,7 @@
 cmake_minimum_required(VERSION 3.31)
 
 # This is how you create variable in cmake
-set(PROJ_NAME Your_proj_name)
+set(PROJ_NAME kanji-review)
 
 #This is how you use the variable: ${Variable name}
 project(${PROJ_NAME} LANGUAGES C CXX RC)
