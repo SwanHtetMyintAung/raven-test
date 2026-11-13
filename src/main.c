@@ -1,5 +1,8 @@
 #include <Raven.h>
 
+// NOTE: This is the json library from: "https://github.com/DaveGamble/cJSON". Clanker for doc
+#include "../Dependencies/cjson/cJSON.h"
+
 #include <stdbool.h>
 #include <stdint.h>
 #include <stdio.h>
@@ -54,7 +57,8 @@ static void populate_chapters(Rid chapter_menu) {
 		char button_name[20];
 		snprintf(button_name, sizeof(button_name), "chapter_%d", i);
         // NOTE: this function takes widget id and char*, not another widget
-		Rmenu_add_item(chapter_menu, button_name);
+		Rid menu = Rmenu_add_item(chapter_menu, button_name);
+		Rmenu_item_set_clicked_callback(menu, NULL, NULL);
 	}
 }
 
