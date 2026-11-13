@@ -1,0 +1,6004 @@
+{
+  "weeks": [
+    {
+      "week": 1,
+      "days": [
+        {
+          "day": 1,
+          "kanjis": [
+            {
+              "kanji": "駐",
+              "hiragana": "ちゅう",
+              "meaning": "park; stop a vehicle",
+              "examples": [
+                {
+                  "word": "駐車",
+                  "meaning": "park"
+                },
+                {
+                  "word": "駐車場",
+                  "meaning": "a parking lot"
+                }
+              ]
+            },
+            {
+              "kanji": "無",
+              "hiragana": "む・ない",
+              "meaning": "none; without",
+              "examples": [
+                {
+                  "word": "無休",
+                  "meaning": "work without a holiday"
+                },
+                {
+                  "word": "無理(な)",
+                  "meaning": "unreasonable"
+                },
+                {
+                  "word": "無料",
+                  "meaning": "free of charge"
+                },
+                {
+                  "word": "無い",
+                  "meaning": "does not exist; do not have; gone"
+                }
+              ]
+            },
+            {
+              "kanji": "満",
+              "hiragana": "まん",
+              "meaning": "full; satisfied",
+              "examples": [
+                {
+                  "word": "満車",
+                  "meaning": "full (of cars)"
+                },
+                {
+                  "word": "不満(な)",
+                  "meaning": "dissatisfied"
+                },
+                {
+                  "word": "満員",
+                  "meaning": "full (of people)"
+                }
+              ]
+            },
+            {
+              "kanji": "向",
+              "hiragana": "こう・むこう・むかう・むき",
+              "meaning": "direction; face toward",
+              "examples": [
+                {
+                  "word": "方向",
+                  "meaning": "direction"
+                },
+                {
+                  "word": "向かう",
+                  "meaning": "go forward"
+                },
+                {
+                  "word": "向こう",
+                  "meaning": "over there; beyond"
+                },
+                {
+                  "word": "○○向き",
+                  "meaning": "be suitable for ○○"
+                }
+              ]
+            },
+            {
+              "kanji": "禁",
+              "hiragana": "きん",
+              "meaning": "prohibit; forbid",
+              "examples": [
+                {
+                  "word": "禁止",
+                  "meaning": "prohibition"
+                }
+              ]
+            },
+            {
+              "kanji": "関",
+              "hiragana": "かん",
+              "meaning": "connection; relation; concern",
+              "examples": [
+                {
+                  "word": "関心",
+                  "meaning": "interest"
+                },
+                {
+                  "word": "関する",
+                  "meaning": "related"
+                }
+              ]
+            },
+            {
+              "kanji": "係",
+              "hiragana": "けい・かかり",
+              "meaning": "person in charge; relation",
+              "examples": [
+                {
+                  "word": "関係",
+                  "meaning": "relation; connection"
+                },
+                {
+                  "word": "係",
+                  "meaning": "person in charge"
+                }
+              ]
+            },
+            {
+              "kanji": "断",
+              "hiragana": "だん・ことわる",
+              "meaning": "refuse; cut off",
+              "examples": [
+                {
+                  "word": "無断",
+                  "meaning": "without permission"
+                },
+                {
+                  "word": "断る",
+                  "meaning": "refuse"
+                },
+                {
+                  "word": "断水",
+                  "meaning": "suspension of the water supply"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "kanjis": [
+            {
+              "kanji": "横",
+              "hiragana": "おう・よこ",
+              "meaning": "side; horizontal",
+              "examples": [
+                {
+                  "word": "横断",
+                  "meaning": "a crossing"
+                },
+                {
+                  "word": "横",
+                  "meaning": "side"
+                },
+                {
+                  "word": "横断歩道",
+                  "meaning": "a pedestrian crossing"
+                }
+              ]
+            },
+            {
+              "kanji": "押",
+              "hiragana": "おす・おさえる",
+              "meaning": "push; hold down",
+              "examples": [
+                {
+                  "word": "押す",
+                  "meaning": "push"
+                },
+                {
+                  "word": "押し入れ",
+                  "meaning": "a closet"
+                },
+                {
+                  "word": "押さえる",
+                  "meaning": "hold down"
+                }
+              ]
+            },
+            {
+              "kanji": "式",
+              "hiragana": "しき",
+              "meaning": "form; ceremony; formula",
+              "examples": [
+                {
+                  "word": "押しボタン式",
+                  "meaning": "a push-button type"
+                },
+                {
+                  "word": "数式",
+                  "meaning": "a numerical formula"
+                },
+                {
+                  "word": "入学式",
+                  "meaning": "a ceremony to begin the school term"
+                }
+              ]
+            },
+            {
+              "kanji": "信",
+              "hiragana": "しん",
+              "meaning": "believe; trust",
+              "examples": [
+                {
+                  "word": "送信",
+                  "meaning": "transmit"
+                },
+                {
+                  "word": "自信",
+                  "meaning": "confidence"
+                },
+                {
+                  "word": "信じる",
+                  "meaning": "believe"
+                },
+                {
+                  "word": "信号",
+                  "meaning": "a signal; a traffic light"
+                },
+                {
+                  "word": "信用",
+                  "meaning": "trust"
+                }
+              ]
+            },
+            {
+              "kanji": "号",
+              "hiragana": "ごう",
+              "meaning": "number; sign",
+              "examples": [
+                {
+                  "word": "信号",
+                  "meaning": "a signal; a traffic light"
+                },
+                {
+                  "word": "～号車",
+                  "meaning": "carriage number ..."
+                }
+              ]
+            },
+            {
+              "kanji": "確",
+              "hiragana": "かく・たしか・たしかめる",
+              "meaning": "certain; confirm; accurate",
+              "examples": [
+                {
+                  "word": "正確(な)",
+                  "meaning": "correct; accurate"
+                },
+                {
+                  "word": "確かめる",
+                  "meaning": "confirm; verify"
+                },
+                {
+                  "word": "確か(な)",
+                  "meaning": "certain"
+                }
+              ]
+            },
+            {
+              "kanji": "認",
+              "hiragana": "にん・みとめる",
+              "meaning": "recognize; admit; approve",
+              "examples": [
+                {
+                  "word": "確認",
+                  "meaning": "confirmation"
+                },
+                {
+                  "word": "認める",
+                  "meaning": "admit; approve"
+                }
+              ]
+            },
+            {
+              "kanji": "飛",
+              "hiragana": "ひ・とぶ",
+              "meaning": "fly",
+              "examples": [
+                {
+                  "word": "飛行場",
+                  "meaning": "an airport"
+                },
+                {
+                  "word": "飛ぶ",
+                  "meaning": "fly"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "kanjis": [
+            {
+              "kanji": "非",
+              "hiragana": "ひ",
+              "meaning": "emergency; non-; not",
+              "examples": [
+                {
+                  "word": "非常(の)",
+                  "meaning": "emergency"
+                },
+                {
+                  "word": "非常口",
+                  "meaning": "an emergency exit"
+                },
+                {
+                  "word": "非常に",
+                  "meaning": "extremely"
+                }
+              ]
+            },
+            {
+              "kanji": "常",
+              "hiragana": "じょう",
+              "meaning": "usual; ordinary",
+              "examples": [
+                {
+                  "word": "日常(の)",
+                  "meaning": "usual; everyday"
+                },
+                {
+                  "word": "正常(な)",
+                  "meaning": "normal"
+                }
+              ]
+            },
+            {
+              "kanji": "階",
+              "hiragana": "かい",
+              "meaning": "floor; storey",
+              "examples": [
+                {
+                  "word": "～階",
+                  "meaning": "floor"
+                }
+              ]
+            },
+            {
+              "kanji": "段",
+              "hiragana": "だん",
+              "meaning": "step; stairs",
+              "examples": [
+                {
+                  "word": "階段",
+                  "meaning": "stairs"
+                }
+              ]
+            },
+            {
+              "kanji": "箱",
+              "hiragana": "はこ",
+              "meaning": "box",
+              "examples": [
+                {
+                  "word": "箱",
+                  "meaning": "a box"
+                },
+                {
+                  "word": "ごみ箱",
+                  "meaning": "a trash box"
+                }
+              ]
+            },
+            {
+              "kanji": "危",
+              "hiragana": "き・あぶない",
+              "meaning": "danger; dangerous",
+              "examples": [
+                {
+                  "word": "危険(な)",
+                  "meaning": "danger"
+                },
+                {
+                  "word": "危ない",
+                  "meaning": "dangerous"
+                }
+              ]
+            },
+            {
+              "kanji": "険",
+              "hiragana": "けん",
+              "meaning": "danger; risk",
+              "examples": [
+                {
+                  "word": "危険(な)",
+                  "meaning": "danger"
+                }
+              ]
+            },
+            {
+              "kanji": "捨",
+              "hiragana": "すてる",
+              "meaning": "throw away",
+              "examples": [
+                {
+                  "word": "捨てる",
+                  "meaning": "throw away"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "kanjis": [
+            {
+              "kanji": "線",
+              "hiragana": "せん",
+              "meaning": "line",
+              "examples": [
+                {
+                  "word": "線",
+                  "meaning": "a line"
+                },
+                {
+                  "word": "～番線",
+                  "meaning": "line (platform) number ..."
+                }
+              ]
+            },
+            {
+              "kanji": "面",
+              "hiragana": "めん",
+              "meaning": "surface; face; area",
+              "examples": [
+                {
+                  "word": "全面",
+                  "meaning": "whole"
+                },
+                {
+                  "word": "○○方面",
+                  "meaning": "... area"
+                },
+                {
+                  "word": "画面",
+                  "meaning": "a screen"
+                }
+              ]
+            },
+            {
+              "kanji": "普",
+              "hiragana": "ふ",
+              "meaning": "ordinary; common",
+              "examples": [
+                {
+                  "word": "普通(の)",
+                  "meaning": "ordinary"
+                }
+              ]
+            },
+            {
+              "kanji": "各",
+              "hiragana": "かく",
+              "meaning": "each; every",
+              "examples": [
+                {
+                  "word": "各駅",
+                  "meaning": "every station"
+                },
+                {
+                  "word": "各自",
+                  "meaning": "respective; each person"
+                },
+                {
+                  "word": "各国",
+                  "meaning": "each country"
+                }
+              ]
+            },
+            {
+              "kanji": "次",
+              "hiragana": "じ・つぎ",
+              "meaning": "next; following",
+              "examples": [
+                {
+                  "word": "目次",
+                  "meaning": "contents"
+                },
+                {
+                  "word": "次",
+                  "meaning": "next"
+                },
+                {
+                  "word": "次回",
+                  "meaning": "the next time"
+                }
+              ]
+            },
+            {
+              "kanji": "快",
+              "hiragana": "かい",
+              "meaning": "pleasant; comfortable; rapid",
+              "examples": [
+                {
+                  "word": "快速",
+                  "meaning": "rapid; express"
+                }
+              ]
+            },
+            {
+              "kanji": "速",
+              "hiragana": "そく・はやい",
+              "meaning": "speed; fast",
+              "examples": [
+                {
+                  "word": "高速道路",
+                  "meaning": "a highway"
+                },
+                {
+                  "word": "速い",
+                  "meaning": "fast"
+                },
+                {
+                  "word": "速度",
+                  "meaning": "speed"
+                }
+              ]
+            },
+            {
+              "kanji": "過",
+              "hiragana": "か・すぎる",
+              "meaning": "pass; past; exceed",
+              "examples": [
+                {
+                  "word": "通過",
+                  "meaning": "passage; transit"
+                },
+                {
+                  "word": "過ぎる",
+                  "meaning": "pass"
+                },
+                {
+                  "word": "過去",
+                  "meaning": "past"
+                }
+              ]
+            },
+            {
+              "kanji": "鉄",
+              "hiragana": "てつ",
+              "meaning": "iron; steel",
+              "examples": [
+                {
+                  "word": "地下鉄",
+                  "meaning": "a subway"
+                },
+                {
+                  "word": "鉄",
+                  "meaning": "steel"
+                },
+                {
+                  "word": "鉄道",
+                  "meaning": "a railway"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "kanjis": [
+            {
+              "kanji": "指",
+              "hiragana": "し・ゆび",
+              "meaning": "finger; point; specify",
+              "examples": [
+                {
+                  "word": "指定",
+                  "meaning": "specify; designate"
+                },
+                {
+                  "word": "指定席",
+                  "meaning": "a reserved seat"
+                },
+                {
+                  "word": "指",
+                  "meaning": "a finger"
+                },
+                {
+                  "word": "指輪",
+                  "meaning": "a ring"
+                }
+              ]
+            },
+            {
+              "kanji": "定",
+              "hiragana": "てい",
+              "meaning": "set; decide; stable",
+              "examples": [
+                {
+                  "word": "定休日",
+                  "meaning": "a set/regular holiday"
+                },
+                {
+                  "word": "安定",
+                  "meaning": "stable"
+                },
+                {
+                  "word": "不安定",
+                  "meaning": "unstable"
+                }
+              ]
+            },
+            {
+              "kanji": "席",
+              "hiragana": "せき",
+              "meaning": "seat",
+              "examples": [
+                {
+                  "word": "席",
+                  "meaning": "a seat"
+                },
+                {
+                  "word": "出席",
+                  "meaning": "attend"
+                },
+                {
+                  "word": "欠席",
+                  "meaning": "absence"
+                }
+              ]
+            },
+            {
+              "kanji": "由",
+              "hiragana": "ゆう",
+              "meaning": "reason; cause; freedom",
+              "examples": [
+                {
+                  "word": "自由(な)",
+                  "meaning": "free"
+                },
+                {
+                  "word": "理由",
+                  "meaning": "reason"
+                },
+                {
+                  "word": "自由席",
+                  "meaning": "a non-reserved seat"
+                }
+              ]
+            },
+            {
+              "kanji": "番",
+              "hiragana": "ばん",
+              "meaning": "number; turn",
+              "examples": [
+                {
+                  "word": "番号",
+                  "meaning": "a number"
+                },
+                {
+                  "word": "～番線",
+                  "meaning": "line (platform) number ..."
+                },
+                {
+                  "word": "～番",
+                  "meaning": "number ..."
+                }
+              ]
+            },
+            {
+              "kanji": "窓",
+              "hiragana": "まど",
+              "meaning": "window",
+              "examples": [
+                {
+                  "word": "窓",
+                  "meaning": "a window"
+                },
+                {
+                  "word": "窓口",
+                  "meaning": "a teller's window"
+                }
+              ]
+            },
+            {
+              "kanji": "側",
+              "hiragana": "がわ・かわ",
+              "meaning": "side",
+              "examples": [
+                {
+                  "word": "両側",
+                  "meaning": "both sides"
+                },
+                {
+                  "word": "窓側",
+                  "meaning": "a window seat"
+                },
+                {
+                  "word": "右側",
+                  "meaning": "the right side"
+                }
+              ]
+            },
+            {
+              "kanji": "路",
+              "hiragana": "ろ",
+              "meaning": "road; route",
+              "examples": [
+                {
+                  "word": "通路",
+                  "meaning": "an aisle"
+                },
+                {
+                  "word": "線路",
+                  "meaning": "a railway"
+                },
+                {
+                  "word": "道路",
+                  "meaning": "a road"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "kanjis": [
+            {
+              "kanji": "停",
+              "hiragana": "てい",
+              "meaning": "stop; station",
+              "examples": [
+                {
+                  "word": "停車",
+                  "meaning": "stop a vehicle"
+                },
+                {
+                  "word": "バス停",
+                  "meaning": "a bus stop"
+                }
+              ]
+            },
+            {
+              "kanji": "整",
+              "hiragana": "せい",
+              "meaning": "arrange; tidy",
+              "examples": [
+                {
+                  "word": "整理",
+                  "meaning": "tidy"
+                },
+                {
+                  "word": "整理券",
+                  "meaning": "a numbered ticket (issued at cinemas, etc.)"
+                }
+              ]
+            },
+            {
+              "kanji": "券",
+              "hiragana": "けん",
+              "meaning": "ticket; coupon",
+              "examples": [
+                {
+                  "word": "駐車券",
+                  "meaning": "a parking ticket"
+                },
+                {
+                  "word": "乗車券",
+                  "meaning": "a (boarding) ticket"
+                },
+                {
+                  "word": "回数券",
+                  "meaning": "a book of commuter tickets"
+                }
+              ]
+            },
+            {
+              "kanji": "現",
+              "hiragana": "げん・あらわれる",
+              "meaning": "present; appear; cash",
+              "examples": [
+                {
+                  "word": "現金",
+                  "meaning": "cash"
+                },
+                {
+                  "word": "現れる",
+                  "meaning": "appear"
+                },
+                {
+                  "word": "表現",
+                  "meaning": "expression"
+                }
+              ]
+            },
+            {
+              "kanji": "両",
+              "hiragana": "りょう",
+              "meaning": "both",
+              "examples": [
+                {
+                  "word": "両親",
+                  "meaning": "parents"
+                },
+                {
+                  "word": "～両",
+                  "meaning": "cars on a train"
+                }
+              ]
+            },
+            {
+              "kanji": "替",
+              "hiragana": "かえる・かわる",
+              "meaning": "exchange; change",
+              "examples": [
+                {
+                  "word": "取り替える",
+                  "meaning": "exchange"
+                },
+                {
+                  "word": "着替える",
+                  "meaning": "change your clothes"
+                },
+                {
+                  "word": "両替",
+                  "meaning": "exchange"
+                }
+              ]
+            },
+            {
+              "kanji": "優",
+              "hiragana": "ゆう・やさしい",
+              "meaning": "kind; gentle; superior",
+              "examples": [
+                {
+                  "word": "優先席",
+                  "meaning": "a priority seat"
+                },
+                {
+                  "word": "優しい",
+                  "meaning": "kind"
+                },
+                {
+                  "word": "女優",
+                  "meaning": "an actress"
+                }
+              ]
+            },
+            {
+              "kanji": "座",
+              "hiragana": "ざ・すわる",
+              "meaning": "seat; sit",
+              "examples": [
+                {
+                  "word": "座席",
+                  "meaning": "a seat"
+                },
+                {
+                  "word": "座る",
+                  "meaning": "sit"
+                },
+                {
+                  "word": "正座",
+                  "meaning": "sit on the floor Japanese-style"
+                }
+              ]
+            },
+            {
+              "kanji": "降",
+              "hiragana": "こう・おりる・ふる",
+              "meaning": "get off; fall",
+              "examples": [
+                {
+                  "word": "降車口",
+                  "meaning": "exit (for getting off)"
+                },
+                {
+                  "word": "降りる",
+                  "meaning": "get off"
+                },
+                {
+                  "word": "降る",
+                  "meaning": "fall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "kanjis": [
+            {
+              "kanji": "未",
+              "hiragana": "み",
+              "meaning": "not yet; future; undecided",
+              "examples": [
+                {
+                  "word": "未定",
+                  "meaning": "undecided; indefinite"
+                },
+                {
+                  "word": "～未満",
+                  "meaning": "less than ..."
+                },
+                {
+                  "word": "未来",
+                  "meaning": "future"
+                }
+              ]
+            },
+            {
+              "kanji": "末",
+              "hiragana": "まつ",
+              "meaning": "end; final; weekend",
+              "examples": [
+                {
+                  "word": "週末",
+                  "meaning": "the weekend"
+                },
+                {
+                  "word": "年末",
+                  "meaning": "the end of the year"
+                },
+                {
+                  "word": "月末",
+                  "meaning": "the end of the month"
+                }
+              ]
+            },
+            {
+              "kanji": "若",
+              "hiragana": "わかい",
+              "meaning": "young",
+              "examples": [
+                {
+                  "word": "若い",
+                  "meaning": "young"
+                }
+              ]
+            },
+            {
+              "kanji": "晩",
+              "hiragana": "ばん",
+              "meaning": "evening; night",
+              "examples": [
+                {
+                  "word": "晩",
+                  "meaning": "night"
+                },
+                {
+                  "word": "晩ご飯",
+                  "meaning": "dinner"
+                },
+                {
+                  "word": "今晩",
+                  "meaning": "tonight"
+                },
+                {
+                  "word": "毎晩",
+                  "meaning": "every night"
+                }
+              ]
+            },
+            {
+              "kanji": "島",
+              "hiragana": "とう・しま",
+              "meaning": "island",
+              "examples": [
+                {
+                  "word": "○○島",
+                  "meaning": "○○ Island"
+                },
+                {
+                  "word": "島",
+                  "meaning": "an island"
+                }
+              ]
+            },
+            {
+              "kanji": "皿",
+              "hiragana": "さら",
+              "meaning": "plate; dish",
+              "examples": [
+                {
+                  "word": "皿",
+                  "meaning": "a plate"
+                },
+                {
+                  "word": "灰皿",
+                  "meaning": "an ashtray"
+                }
+              ]
+            },
+            {
+              "kanji": "血",
+              "hiragana": "けつ・ち",
+              "meaning": "blood",
+              "examples": [
+                {
+                  "word": "出血",
+                  "meaning": "bleed"
+                },
+                {
+                  "word": "血",
+                  "meaning": "blood"
+                }
+              ]
+            },
+            {
+              "kanji": "助",
+              "hiragana": "じょ・たすける",
+              "meaning": "help; rescue",
+              "examples": [
+                {
+                  "word": "救助",
+                  "meaning": "rescue; help"
+                },
+                {
+                  "word": "助ける",
+                  "meaning": "help"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "days": [
+        {
+          "day": 1,
+          "kanjis": [
+            {
+              "kanji": "準",
+              "hiragana": "じゅん",
+              "meaning": "preparation; standard",
+              "examples": [
+                {
+                  "word": "準備",
+                  "meaning": "preparation"
+                }
+              ]
+            },
+            {
+              "kanji": "備",
+              "hiragana": "び・そなえる",
+              "meaning": "prepare; provide",
+              "examples": [
+                {
+                  "word": "準備",
+                  "meaning": "preparation"
+                },
+                {
+                  "word": "備える",
+                  "meaning": "prepare"
+                }
+              ]
+            },
+            {
+              "kanji": "営",
+              "hiragana": "えい",
+              "meaning": "business; operate",
+              "examples": [
+                {
+                  "word": "営業",
+                  "meaning": "business"
+                }
+              ]
+            },
+            {
+              "kanji": "閉",
+              "hiragana": "へい・しまる・しめる",
+              "meaning": "close; shut",
+              "examples": [
+                {
+                  "word": "開閉",
+                  "meaning": "open and shut"
+                },
+                {
+                  "word": "閉まる",
+                  "meaning": "shut; close"
+                },
+                {
+                  "word": "閉める",
+                  "meaning": "shut; close"
+                }
+              ]
+            },
+            {
+              "kanji": "案",
+              "hiragana": "あん",
+              "meaning": "plan; proposal; information",
+              "examples": [
+                {
+                  "word": "案内",
+                  "meaning": "information"
+                },
+                {
+                  "word": "案",
+                  "meaning": "a suggestion; proposal; plan"
+                }
+              ]
+            },
+            {
+              "kanji": "内",
+              "hiragana": "ない・うち",
+              "meaning": "inside; within",
+              "examples": [
+                {
+                  "word": "家内",
+                  "meaning": "wife"
+                },
+                {
+                  "word": "内側",
+                  "meaning": "inside"
+                },
+                {
+                  "word": "以内",
+                  "meaning": "within ..."
+                },
+                {
+                  "word": "国内",
+                  "meaning": "domestic"
+                }
+              ]
+            },
+            {
+              "kanji": "予",
+              "hiragana": "よ",
+              "meaning": "beforehand; schedule; forecast",
+              "examples": [
+                {
+                  "word": "予定",
+                  "meaning": "a plan; schedule"
+                },
+                {
+                  "word": "予習",
+                  "meaning": "preparation (pre-study)"
+                }
+              ]
+            },
+            {
+              "kanji": "約",
+              "hiragana": "やく",
+              "meaning": "promise; appointment; reservation",
+              "examples": [
+                {
+                  "word": "予約",
+                  "meaning": "an appointment; reservation"
+                },
+                {
+                  "word": "約～",
+                  "meaning": "approximately"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "kanjis": [
+            {
+              "kanji": "煙",
+              "hiragana": "えん・けむり",
+              "meaning": "smoke",
+              "examples": [
+                {
+                  "word": "禁煙",
+                  "meaning": "no smoking"
+                },
+                {
+                  "word": "煙",
+                  "meaning": "smoke"
+                }
+              ]
+            },
+            {
+              "kanji": "当",
+              "hiragana": "とう・あたる",
+              "meaning": "hit; apply; natural",
+              "examples": [
+                {
+                  "word": "本当",
+                  "meaning": "the truth"
+                },
+                {
+                  "word": "当たる",
+                  "meaning": "hit; win"
+                },
+                {
+                  "word": "当○○",
+                  "meaning": "this ○○"
+                },
+                {
+                  "word": "当たり前",
+                  "meaning": "natural; not surprising"
+                }
+              ]
+            },
+            {
+              "kanji": "全",
+              "hiragana": "ぜん",
+              "meaning": "all; whole; entire",
+              "examples": [
+                {
+                  "word": "全部",
+                  "meaning": "all; whole"
+                },
+                {
+                  "word": "全席",
+                  "meaning": "all seats"
+                },
+                {
+                  "word": "安全(な)",
+                  "meaning": "safe"
+                }
+              ]
+            },
+            {
+              "kanji": "客",
+              "hiragana": "きゃく",
+              "meaning": "customer; guest",
+              "examples": [
+                {
+                  "word": "客",
+                  "meaning": "a customer"
+                },
+                {
+                  "word": "お客様",
+                  "meaning": "a customer"
+                }
+              ]
+            },
+            {
+              "kanji": "様",
+              "hiragana": "よう・さま",
+              "meaning": "appearance; manner; honorific",
+              "examples": [
+                {
+                  "word": "様子",
+                  "meaning": "appearance; situation"
+                },
+                {
+                  "word": "○○様",
+                  "meaning": "an honorific added to people's names, particularly in letters"
+                }
+              ]
+            },
+            {
+              "kanji": "解",
+              "hiragana": "かい",
+              "meaning": "understand; explain; solve",
+              "examples": [
+                {
+                  "word": "理解",
+                  "meaning": "understand"
+                },
+                {
+                  "word": "解説",
+                  "meaning": "an explanation"
+                },
+                {
+                  "word": "解答",
+                  "meaning": "an answer"
+                },
+                {
+                  "word": "分解",
+                  "meaning": "take apart"
+                }
+              ]
+            },
+            {
+              "kanji": "協",
+              "hiragana": "きょう",
+              "meaning": "cooperation",
+              "examples": [
+                {
+                  "word": "協力",
+                  "meaning": "cooperation"
+                }
+              ]
+            },
+            {
+              "kanji": "願",
+              "hiragana": "ねがう",
+              "meaning": "wish; request",
+              "examples": [
+                {
+                  "word": "願う",
+                  "meaning": "wish"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "kanjis": [
+            {
+              "kanji": "観",
+              "hiragana": "かん",
+              "meaning": "sightseeing; view",
+              "examples": [
+                {
+                  "word": "観光",
+                  "meaning": "sightseeing"
+                },
+                {
+                  "word": "観客",
+                  "meaning": "spectator; audience"
+                }
+              ]
+            },
+            {
+              "kanji": "園",
+              "hiragana": "えん",
+              "meaning": "garden; park",
+              "examples": [
+                {
+                  "word": "動物園",
+                  "meaning": "a zoo"
+                }
+              ]
+            },
+            {
+              "kanji": "港",
+              "hiragana": "こう・みなと",
+              "meaning": "port; harbor",
+              "examples": [
+                {
+                  "word": "空港",
+                  "meaning": "an airport"
+                },
+                {
+                  "word": "○○港",
+                  "meaning": "○○ port"
+                },
+                {
+                  "word": "港",
+                  "meaning": "a port"
+                }
+              ]
+            },
+            {
+              "kanji": "遊",
+              "hiragana": "ゆう・あそぶ",
+              "meaning": "play; amusement",
+              "examples": [
+                {
+                  "word": "遊園地",
+                  "meaning": "an amusement park"
+                },
+                {
+                  "word": "遊ぶ",
+                  "meaning": "play"
+                }
+              ]
+            },
+            {
+              "kanji": "美",
+              "hiragana": "び・うつくしい",
+              "meaning": "beauty; beautiful",
+              "examples": [
+                {
+                  "word": "美術館",
+                  "meaning": "a museum"
+                },
+                {
+                  "word": "美しい",
+                  "meaning": "beautiful"
+                },
+                {
+                  "word": "美人",
+                  "meaning": "a beautiful woman"
+                }
+              ]
+            },
+            {
+              "kanji": "術",
+              "hiragana": "じゅつ",
+              "meaning": "art; technique; skill",
+              "examples": [
+                {
+                  "word": "美術",
+                  "meaning": "(fine) art"
+                },
+                {
+                  "word": "手術",
+                  "meaning": "surgery; operation"
+                },
+                {
+                  "word": "技術",
+                  "meaning": "technique; technology"
+                }
+              ]
+            },
+            {
+              "kanji": "神",
+              "hiragana": "しん・じん・かみ",
+              "meaning": "god; deity; shrine",
+              "examples": [
+                {
+                  "word": "神社",
+                  "meaning": "a shrine"
+                },
+                {
+                  "word": "神様",
+                  "meaning": "a god"
+                },
+                {
+                  "word": "神経質(な)",
+                  "meaning": "nervous"
+                }
+              ]
+            },
+            {
+              "kanji": "寺",
+              "hiragana": "じ・てら",
+              "meaning": "temple",
+              "examples": [
+                {
+                  "word": "○○寺",
+                  "meaning": "○○ Temple"
+                },
+                {
+                  "word": "お寺",
+                  "meaning": "a temple"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "kanjis": [
+            {
+              "kanji": "役",
+              "hiragana": "やく",
+              "meaning": "role; duty; useful",
+              "examples": [
+                {
+                  "word": "市役所",
+                  "meaning": "the city office"
+                },
+                {
+                  "word": "役員",
+                  "meaning": "an officer; member"
+                },
+                {
+                  "word": "役に立つ",
+                  "meaning": "useful"
+                }
+              ]
+            },
+            {
+              "kanji": "郵",
+              "hiragana": "ゆう",
+              "meaning": "mail; postal",
+              "examples": [
+                {
+                  "word": "郵便",
+                  "meaning": "mail"
+                }
+              ]
+            },
+            {
+              "kanji": "局",
+              "hiragana": "きょく",
+              "meaning": "office; bureau",
+              "examples": [
+                {
+                  "word": "郵便局",
+                  "meaning": "a post office"
+                },
+                {
+                  "word": "薬局",
+                  "meaning": "a drug store"
+                }
+              ]
+            },
+            {
+              "kanji": "交",
+              "hiragana": "こう",
+              "meaning": "exchange; intersect",
+              "examples": [
+                {
+                  "word": "交番",
+                  "meaning": "a police box"
+                },
+                {
+                  "word": "交換",
+                  "meaning": "exchange"
+                },
+                {
+                  "word": "交通",
+                  "meaning": "transport"
+                }
+              ]
+            },
+            {
+              "kanji": "差",
+              "hiragana": "さ・さす",
+              "meaning": "difference; hand in",
+              "examples": [
+                {
+                  "word": "差",
+                  "meaning": "difference"
+                },
+                {
+                  "word": "差し出す",
+                  "meaning": "hand in"
+                },
+                {
+                  "word": "差出人",
+                  "meaning": "a sender"
+                }
+              ]
+            },
+            {
+              "kanji": "点",
+              "hiragana": "てん",
+              "meaning": "point; score",
+              "examples": [
+                {
+                  "word": "交差点",
+                  "meaning": "an intersection"
+                },
+                {
+                  "word": "～点",
+                  "meaning": "... points"
+                },
+                {
+                  "word": "点数",
+                  "meaning": "score; points"
+                }
+              ]
+            },
+            {
+              "kanji": "橋",
+              "hiragana": "きょう・はし",
+              "meaning": "bridge",
+              "examples": [
+                {
+                  "word": "歩道橋",
+                  "meaning": "a foot bridge"
+                },
+                {
+                  "word": "橋",
+                  "meaning": "a bridge"
+                }
+              ]
+            },
+            {
+              "kanji": "公",
+              "hiragana": "こう",
+              "meaning": "public; official",
+              "examples": [
+                {
+                  "word": "公園",
+                  "meaning": "a park"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "kanjis": [
+            {
+              "kanji": "受",
+              "hiragana": "じゅ・うける",
+              "meaning": "receive; accept",
+              "examples": [
+                {
+                  "word": "受信",
+                  "meaning": "receive"
+                },
+                {
+                  "word": "受ける",
+                  "meaning": "receive"
+                },
+                {
+                  "word": "受験",
+                  "meaning": "an entrance examination"
+                }
+              ]
+            },
+            {
+              "kanji": "付",
+              "hiragana": "つける・つく",
+              "meaning": "attach; put on",
+              "examples": [
+                {
+                  "word": "付ける",
+                  "meaning": "put on"
+                },
+                {
+                  "word": "受付",
+                  "meaning": "a reception"
+                },
+                {
+                  "word": "片付ける",
+                  "meaning": "tidy up"
+                },
+                {
+                  "word": "付く",
+                  "meaning": "stick to"
+                }
+              ]
+            },
+            {
+              "kanji": "科",
+              "hiragana": "か",
+              "meaning": "department; subject; science",
+              "examples": [
+                {
+                  "word": "科学",
+                  "meaning": "science"
+                },
+                {
+                  "word": "内科",
+                  "meaning": "internal medicine"
+                },
+                {
+                  "word": "外科",
+                  "meaning": "surgery department"
+                },
+                {
+                  "word": "教科書",
+                  "meaning": "a textbook"
+                }
+              ]
+            },
+            {
+              "kanji": "鼻",
+              "hiragana": "はな",
+              "meaning": "nose",
+              "examples": [
+                {
+                  "word": "耳鼻科",
+                  "meaning": "ears and nose department"
+                },
+                {
+                  "word": "鼻",
+                  "meaning": "a nose"
+                }
+              ]
+            },
+            {
+              "kanji": "婦",
+              "hiragana": "ふ",
+              "meaning": "woman; wife",
+              "examples": [
+                {
+                  "word": "婦人",
+                  "meaning": "a woman"
+                },
+                {
+                  "word": "主婦",
+                  "meaning": "a housewife"
+                },
+                {
+                  "word": "産婦人科",
+                  "meaning": "obstetrics and gynecology department"
+                }
+              ]
+            },
+            {
+              "kanji": "形",
+              "hiragana": "けい・ぎょう・かたち",
+              "meaning": "form; shape",
+              "examples": [
+                {
+                  "word": "形式",
+                  "meaning": "form; type"
+                },
+                {
+                  "word": "整形外科",
+                  "meaning": "orthopedics department"
+                },
+                {
+                  "word": "人形",
+                  "meaning": "a doll; puppet"
+                },
+                {
+                  "word": "形",
+                  "meaning": "shape; form"
+                }
+              ]
+            },
+            {
+              "kanji": "骨",
+              "hiragana": "こつ・ほね",
+              "meaning": "bone",
+              "examples": [
+                {
+                  "word": "骨折",
+                  "meaning": "a bone fracture"
+                },
+                {
+                  "word": "骨",
+                  "meaning": "a bone"
+                }
+              ]
+            },
+            {
+              "kanji": "折",
+              "hiragana": "せつ・おる・おれる",
+              "meaning": "break; fold",
+              "examples": [
+                {
+                  "word": "右折",
+                  "meaning": "a right turn"
+                },
+                {
+                  "word": "折る",
+                  "meaning": "break; fold (something)"
+                },
+                {
+                  "word": "折れる",
+                  "meaning": "break"
+                },
+                {
+                  "word": "左折",
+                  "meaning": "a left turn"
+                },
+                {
+                  "word": "折り紙",
+                  "meaning": "Japanese art of folding paper"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "kanjis": [
+            {
+              "kanji": "困",
+              "hiragana": "こまる",
+              "meaning": "be in trouble",
+              "examples": [
+                {
+                  "word": "困る",
+                  "meaning": "be in trouble"
+                }
+              ]
+            },
+            {
+              "kanji": "消",
+              "hiragana": "しょう・きえる・けす",
+              "meaning": "extinguish; disappear",
+              "examples": [
+                {
+                  "word": "消防",
+                  "meaning": "fire fighting"
+                },
+                {
+                  "word": "消す",
+                  "meaning": "extinguish"
+                },
+                {
+                  "word": "消える",
+                  "meaning": "be extinguished; disappear"
+                },
+                {
+                  "word": "消しゴム",
+                  "meaning": "an eraser"
+                }
+              ]
+            },
+            {
+              "kanji": "防",
+              "hiragana": "ぼう・ふせぐ",
+              "meaning": "prevent; defend",
+              "examples": [
+                {
+                  "word": "予防",
+                  "meaning": "precaution; prevention"
+                },
+                {
+                  "word": "防ぐ",
+                  "meaning": "prevent"
+                }
+              ]
+            },
+            {
+              "kanji": "救",
+              "hiragana": "きゅう・すくう",
+              "meaning": "save; rescue",
+              "examples": [
+                {
+                  "word": "救急車",
+                  "meaning": "an ambulance"
+                },
+                {
+                  "word": "救う",
+                  "meaning": "save"
+                }
+              ]
+            },
+            {
+              "kanji": "警",
+              "hiragana": "けい",
+              "meaning": "police; warning; alert",
+              "examples": [
+                {
+                  "word": "警官",
+                  "meaning": "a police officer"
+                }
+              ]
+            },
+            {
+              "kanji": "察",
+              "hiragana": "さつ",
+              "meaning": "police; inspect",
+              "examples": [
+                {
+                  "word": "警察",
+                  "meaning": "police"
+                },
+                {
+                  "word": "警察署",
+                  "meaning": "a police station"
+                }
+              ]
+            },
+            {
+              "kanji": "故",
+              "hiragana": "こ",
+              "meaning": "accident; failure",
+              "examples": [
+                {
+                  "word": "事故",
+                  "meaning": "an accident"
+                },
+                {
+                  "word": "故障",
+                  "meaning": "break-down; failure"
+                },
+                {
+                  "word": "故○○",
+                  "meaning": "the late Mr. ..."
+                }
+              ]
+            },
+            {
+              "kanji": "伝",
+              "hiragana": "でん・つたえる",
+              "meaning": "convey; communicate",
+              "examples": [
+                {
+                  "word": "伝言",
+                  "meaning": "a message"
+                },
+                {
+                  "word": "伝える",
+                  "meaning": "convey; communicate"
+                },
+                {
+                  "word": "手伝う",
+                  "meaning": "help"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "kanjis": [
+            {
+              "kanji": "黄",
+              "hiragana": "き",
+              "meaning": "yellow",
+              "examples": [
+                {
+                  "word": "黄色",
+                  "meaning": "yellow"
+                },
+                {
+                  "word": "黄色い",
+                  "meaning": "yellow"
+                }
+              ]
+            },
+            {
+              "kanji": "絵",
+              "hiragana": "かい・え",
+              "meaning": "picture; painting",
+              "examples": [
+                {
+                  "word": "絵画",
+                  "meaning": "a painting"
+                },
+                {
+                  "word": "絵",
+                  "meaning": "a picture"
+                },
+                {
+                  "word": "絵本",
+                  "meaning": "a picture book"
+                }
+              ]
+            },
+            {
+              "kanji": "組",
+              "hiragana": "くみ・くむ",
+              "meaning": "pair; group; assemble",
+              "examples": [
+                {
+                  "word": "～組",
+                  "meaning": "pairs"
+                },
+                {
+                  "word": "組む",
+                  "meaning": "team up"
+                },
+                {
+                  "word": "番組",
+                  "meaning": "a (TV) program"
+                },
+                {
+                  "word": "組み立てる",
+                  "meaning": "put together"
+                }
+              ]
+            },
+            {
+              "kanji": "束",
+              "hiragana": "そく・たば",
+              "meaning": "bundle; bunch",
+              "examples": [
+                {
+                  "word": "約束",
+                  "meaning": "a promise; appointment"
+                },
+                {
+                  "word": "～束",
+                  "meaning": "a bundle; a bunch"
+                },
+                {
+                  "word": "花束",
+                  "meaning": "bunch of flowers"
+                }
+              ]
+            },
+            {
+              "kanji": "授",
+              "hiragana": "じゅ",
+              "meaning": "teach; give",
+              "examples": [
+                {
+                  "word": "授業",
+                  "meaning": "a class"
+                },
+                {
+                  "word": "教授",
+                  "meaning": "a professor"
+                }
+              ]
+            },
+            {
+              "kanji": "渡",
+              "hiragana": "わたる・わたす",
+              "meaning": "cross over; hand over",
+              "examples": [
+                {
+                  "word": "渡る",
+                  "meaning": "cross over"
+                },
+                {
+                  "word": "渡す",
+                  "meaning": "hand over"
+                }
+              ]
+            },
+            {
+              "kanji": "昔",
+              "hiragana": "むかし",
+              "meaning": "long ago; the past",
+              "examples": [
+                {
+                  "word": "昔",
+                  "meaning": "long ago; past"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "days": [
+        {
+          "day": 1,
+          "kanjis": [
+            {
+              "kanji": "要",
+              "hiragana": "よう・いる",
+              "meaning": "need; necessary; important",
+              "examples": [
+                {
+                  "word": "必要(な)",
+                  "meaning": "necessary"
+                },
+                {
+                  "word": "要る",
+                  "meaning": "need"
+                },
+                {
+                  "word": "重要(な)",
+                  "meaning": "important"
+                }
+              ]
+            },
+            {
+              "kanji": "冷",
+              "hiragana": "れい・つめたい・ひやす・ひえる・さめる・さます",
+              "meaning": "cold; cool",
+              "examples": [
+                {
+                  "word": "冷房",
+                  "meaning": "air-conditioning"
+                },
+                {
+                  "word": "冷やす",
+                  "meaning": "cool"
+                },
+                {
+                  "word": "冷める",
+                  "meaning": "cool down"
+                },
+                {
+                  "word": "冷たい",
+                  "meaning": "cold"
+                },
+                {
+                  "word": "冷える",
+                  "meaning": "become cold"
+                },
+                {
+                  "word": "冷ます",
+                  "meaning": "cool something"
+                }
+              ]
+            },
+            {
+              "kanji": "蔵",
+              "hiragana": "ぞう",
+              "meaning": "storehouse; storage",
+              "examples": [
+                {
+                  "word": "冷蔵庫",
+                  "meaning": "a refrigerator"
+                }
+              ]
+            },
+            {
+              "kanji": "凍",
+              "hiragana": "とう・こおる",
+              "meaning": "freeze",
+              "examples": [
+                {
+                  "word": "冷凍庫",
+                  "meaning": "a freezer"
+                },
+                {
+                  "word": "凍る",
+                  "meaning": "freeze"
+                }
+              ]
+            },
+            {
+              "kanji": "庫",
+              "hiragana": "こ",
+              "meaning": "storehouse; garage",
+              "examples": [
+                {
+                  "word": "金庫",
+                  "meaning": "a safe"
+                },
+                {
+                  "word": "車庫",
+                  "meaning": "a garage"
+                }
+              ]
+            },
+            {
+              "kanji": "召",
+              "hiragana": "めす",
+              "meaning": "eat; call (honorific)",
+              "examples": [
+                {
+                  "word": "召し上がる",
+                  "meaning": "eat (polite form)"
+                }
+              ]
+            },
+            {
+              "kanji": "保",
+              "hiragana": "ほ",
+              "meaning": "preserve; keep",
+              "examples": [
+                {
+                  "word": "保存する",
+                  "meaning": "preserve"
+                }
+              ]
+            },
+            {
+              "kanji": "存",
+              "hiragana": "ぞん",
+              "meaning": "exist; know",
+              "examples": [
+                {
+                  "word": "ご存じです",
+                  "meaning": "know (humble form)"
+                },
+                {
+                  "word": "存じません",
+                  "meaning": "I do not know"
+                }
+              ]
+            },
+            {
+              "kanji": "必",
+              "hiragana": "ひつ・かならず",
+              "meaning": "necessary; certainly",
+              "examples": [
+                {
+                  "word": "必要(な)",
+                  "meaning": "necessary"
+                },
+                {
+                  "word": "必ず",
+                  "meaning": "always; certainly"
+                },
+                {
+                  "word": "必死(に)",
+                  "meaning": "desperately"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "kanjis": [
+            {
+              "kanji": "費",
+              "hiragana": "ひ",
+              "meaning": "cost; expense",
+              "examples": [
+                {
+                  "word": "費用",
+                  "meaning": "an expense; cost"
+                },
+                {
+                  "word": "旅費",
+                  "meaning": "travelling expenses"
+                },
+                {
+                  "word": "消費者",
+                  "meaning": "consumers"
+                },
+                {
+                  "word": "会費",
+                  "meaning": "a membership fee"
+                }
+              ]
+            },
+            {
+              "kanji": "期",
+              "hiragana": "き",
+              "meaning": "period; term",
+              "examples": [
+                {
+                  "word": "期間",
+                  "meaning": "a period of time"
+                },
+                {
+                  "word": "長期",
+                  "meaning": "a long period"
+                },
+                {
+                  "word": "定期券",
+                  "meaning": "a commuter pass"
+                },
+                {
+                  "word": "短期",
+                  "meaning": "a short period"
+                }
+              ]
+            },
+            {
+              "kanji": "限",
+              "hiragana": "げん・かぎる",
+              "meaning": "limit; restrict",
+              "examples": [
+                {
+                  "word": "期限",
+                  "meaning": "a time limit"
+                },
+                {
+                  "word": "限る",
+                  "meaning": "limit; restrict"
+                },
+                {
+                  "word": "限度",
+                  "meaning": "a limit"
+                },
+                {
+                  "word": "限定",
+                  "meaning": "limitation"
+                }
+              ]
+            },
+            {
+              "kanji": "製",
+              "hiragana": "せい",
+              "meaning": "made in; manufacture",
+              "examples": [
+                {
+                  "word": "○○製",
+                  "meaning": "made in/of ○○"
+                },
+                {
+                  "word": "製品",
+                  "meaning": "a product"
+                }
+              ]
+            },
+            {
+              "kanji": "造",
+              "hiragana": "ぞう・つくる",
+              "meaning": "make; manufacture",
+              "examples": [
+                {
+                  "word": "製造",
+                  "meaning": "manufacture"
+                },
+                {
+                  "word": "造る",
+                  "meaning": "make"
+                }
+              ]
+            },
+            {
+              "kanji": "賞",
+              "hiragana": "しょう",
+              "meaning": "prize; award",
+              "examples": [
+                {
+                  "word": "賞",
+                  "meaning": "a prize"
+                },
+                {
+                  "word": "賞金",
+                  "meaning": "prize money"
+                },
+                {
+                  "word": "賞味期限",
+                  "meaning": "best before"
+                },
+                {
+                  "word": "賞品",
+                  "meaning": "a prize"
+                }
+              ]
+            },
+            {
+              "kanji": "法",
+              "hiragana": "ほう",
+              "meaning": "method; way; law",
+              "examples": [
+                {
+                  "word": "方法",
+                  "meaning": "a method; way"
+                },
+                {
+                  "word": "文法",
+                  "meaning": "grammar"
+                }
+              ]
+            },
+            {
+              "kanji": "温",
+              "hiragana": "おん・あたたかい",
+              "meaning": "temperature; warm",
+              "examples": [
+                {
+                  "word": "温度",
+                  "meaning": "temperature"
+                },
+                {
+                  "word": "温かい",
+                  "meaning": "warm"
+                },
+                {
+                  "word": "気温",
+                  "meaning": "temperature"
+                },
+                {
+                  "word": "常温",
+                  "meaning": "normal temperature"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "kanjis": [
+            {
+              "kanji": "販",
+              "hiragana": "はん",
+              "meaning": "sell; sales",
+              "examples": [
+                {
+                  "word": "販売",
+                  "meaning": "sell"
+                },
+                {
+                  "word": "自動販売機",
+                  "meaning": "a vending machine"
+                }
+              ]
+            },
+            {
+              "kanji": "機",
+              "hiragana": "き",
+              "meaning": "machine; opportunity",
+              "examples": [
+                {
+                  "word": "飛行機",
+                  "meaning": "an airplane"
+                },
+                {
+                  "word": "機械",
+                  "meaning": "a machine"
+                },
+                {
+                  "word": "機会",
+                  "meaning": "an opportunity"
+                }
+              ]
+            },
+            {
+              "kanji": "増",
+              "hiragana": "ぞう・ふえる・ふやす",
+              "meaning": "increase; add",
+              "examples": [
+                {
+                  "word": "増加",
+                  "meaning": "an increase"
+                },
+                {
+                  "word": "増える",
+                  "meaning": "increase"
+                },
+                {
+                  "word": "増やす",
+                  "meaning": "increase; add"
+                }
+              ]
+            },
+            {
+              "kanji": "減",
+              "hiragana": "げん・へる・へらす",
+              "meaning": "decrease; reduce",
+              "examples": [
+                {
+                  "word": "減少",
+                  "meaning": "a decrease"
+                },
+                {
+                  "word": "減る",
+                  "meaning": "decrease; reduce"
+                },
+                {
+                  "word": "減らす",
+                  "meaning": "decrease"
+                }
+              ]
+            },
+            {
+              "kanji": "量",
+              "hiragana": "りょう",
+              "meaning": "quantity; amount",
+              "examples": [
+                {
+                  "word": "量",
+                  "meaning": "quantity"
+                },
+                {
+                  "word": "増量",
+                  "meaning": "increase the amount"
+                },
+                {
+                  "word": "数量",
+                  "meaning": "amount"
+                },
+                {
+                  "word": "～減量",
+                  "meaning": "a loss in quantity (weight)"
+                }
+              ]
+            },
+            {
+              "kanji": "氷",
+              "hiragana": "こおり",
+              "meaning": "ice",
+              "examples": [
+                {
+                  "word": "氷",
+                  "meaning": "ice"
+                }
+              ]
+            },
+            {
+              "kanji": "返",
+              "hiragana": "へん・かえす",
+              "meaning": "return; give back",
+              "examples": [
+                {
+                  "word": "返事",
+                  "meaning": "a reply"
+                },
+                {
+                  "word": "返す",
+                  "meaning": "return (something)"
+                },
+                {
+                  "word": "返却",
+                  "meaning": "return"
+                }
+              ]
+            },
+            {
+              "kanji": "湯",
+              "hiragana": "ゆ",
+              "meaning": "hot water",
+              "examples": [
+                {
+                  "word": "(お)湯",
+                  "meaning": "hot water"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "kanjis": [
+            {
+              "kanji": "材",
+              "hiragana": "ざい",
+              "meaning": "material; ingredient",
+              "examples": [
+                {
+                  "word": "材料",
+                  "meaning": "ingredients; materials"
+                },
+                {
+                  "word": "教材",
+                  "meaning": "teaching material"
+                }
+              ]
+            },
+            {
+              "kanji": "卵",
+              "hiragana": "たまご",
+              "meaning": "egg",
+              "examples": [
+                {
+                  "word": "卵",
+                  "meaning": "an egg"
+                },
+                {
+                  "word": "卵焼き",
+                  "meaning": "a Japanese omelet"
+                }
+              ]
+            },
+            {
+              "kanji": "乳",
+              "hiragana": "にゅう",
+              "meaning": "milk",
+              "examples": [
+                {
+                  "word": "牛乳",
+                  "meaning": "milk"
+                }
+              ]
+            },
+            {
+              "kanji": "粉",
+              "hiragana": "こな",
+              "meaning": "powder; flour",
+              "examples": [
+                {
+                  "word": "粉",
+                  "meaning": "powder; flour"
+                },
+                {
+                  "word": "小麦粉",
+                  "meaning": "wheat flour"
+                }
+              ]
+            },
+            {
+              "kanji": "袋",
+              "hiragana": "ふくろ",
+              "meaning": "bag",
+              "examples": [
+                {
+                  "word": "袋",
+                  "meaning": "a bag"
+                },
+                {
+                  "word": "紙袋",
+                  "meaning": "a paper bag"
+                },
+                {
+                  "word": "ごみ袋",
+                  "meaning": "a garbage bag"
+                },
+                {
+                  "word": "手袋",
+                  "meaning": "gloves"
+                },
+                {
+                  "word": "足袋",
+                  "meaning": "tabi (traditional Japanese socks)"
+                }
+              ]
+            },
+            {
+              "kanji": "混",
+              "hiragana": "こん・まぜる",
+              "meaning": "mix; be mixed",
+              "examples": [
+                {
+                  "word": "混雑",
+                  "meaning": "congestion"
+                },
+                {
+                  "word": "混ぜる",
+                  "meaning": "be mixed"
+                }
+              ]
+            },
+            {
+              "kanji": "焼",
+              "hiragana": "やく・やける",
+              "meaning": "roast; grill; bake",
+              "examples": [
+                {
+                  "word": "焼く",
+                  "meaning": "roast; grill"
+                },
+                {
+                  "word": "焼ける",
+                  "meaning": "be burnt; baked"
+                }
+              ]
+            },
+            {
+              "kanji": "表",
+              "hiragana": "ひょう・おもて・あらわす",
+              "meaning": "surface; table; express",
+              "examples": [
+                {
+                  "word": "表",
+                  "meaning": "a table (in written documents)"
+                },
+                {
+                  "word": "発表",
+                  "meaning": "an announcement"
+                },
+                {
+                  "word": "表",
+                  "meaning": "a surface; face"
+                },
+                {
+                  "word": "表す",
+                  "meaning": "show; express"
+                },
+                {
+                  "word": "表面",
+                  "meaning": "a surface"
+                }
+              ]
+            },
+            {
+              "kanji": "裏",
+              "hiragana": "うら",
+              "meaning": "back; reverse",
+              "examples": [
+                {
+                  "word": "裏",
+                  "meaning": "reverse; back"
+                },
+                {
+                  "word": "裏返す",
+                  "meaning": "turnover"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "kanjis": [
+            {
+              "kanji": "留",
+              "hiragana": "りゅう・とめる",
+              "meaning": "stay; keep; reserve",
+              "examples": [
+                {
+                  "word": "留学",
+                  "meaning": "study abroad"
+                },
+                {
+                  "word": "保留",
+                  "meaning": "reservation; suspension"
+                },
+                {
+                  "word": "留守番",
+                  "meaning": "stay at home"
+                },
+                {
+                  "word": "書留",
+                  "meaning": "registration (registered mail)"
+                }
+              ]
+            },
+            {
+              "kanji": "守",
+              "hiragana": "しゅ・す・まもる",
+              "meaning": "protect; defend",
+              "examples": [
+                {
+                  "word": "守備",
+                  "meaning": "defence"
+                },
+                {
+                  "word": "守る",
+                  "meaning": "protect"
+                },
+                {
+                  "word": "留守",
+                  "meaning": "absence"
+                }
+              ]
+            },
+            {
+              "kanji": "濃",
+              "hiragana": "こい",
+              "meaning": "concentrated; dark",
+              "examples": [
+                {
+                  "word": "濃い",
+                  "meaning": "concentrated; dark (color)"
+                }
+              ]
+            },
+            {
+              "kanji": "薄",
+              "hiragana": "うすい",
+              "meaning": "thin; light",
+              "examples": [
+                {
+                  "word": "薄い",
+                  "meaning": "thin (material); light (color); weak (drink)"
+                }
+              ]
+            },
+            {
+              "kanji": "部",
+              "hiragana": "ぶ",
+              "meaning": "part; department",
+              "examples": [
+                {
+                  "word": "部分",
+                  "meaning": "part"
+                },
+                {
+                  "word": "部長",
+                  "meaning": "department head; manager"
+                },
+                {
+                  "word": "学部",
+                  "meaning": "faculty"
+                },
+                {
+                  "word": "○部屋",
+                  "meaning": "a room"
+                }
+              ]
+            },
+            {
+              "kanji": "数",
+              "hiragana": "すう・かず・かぞえる",
+              "meaning": "number; count",
+              "examples": [
+                {
+                  "word": "数字",
+                  "meaning": "number"
+                },
+                {
+                  "word": "数",
+                  "meaning": "a number"
+                },
+                {
+                  "word": "数学",
+                  "meaning": "mathematics"
+                },
+                {
+                  "word": "数える",
+                  "meaning": "count"
+                }
+              ]
+            },
+            {
+              "kanji": "件",
+              "hiragana": "けん",
+              "meaning": "matter; case; incident",
+              "examples": [
+                {
+                  "word": "件名",
+                  "meaning": "subject"
+                },
+                {
+                  "word": "用件",
+                  "meaning": "a business/matter"
+                },
+                {
+                  "word": "事件",
+                  "meaning": "an incident"
+                }
+              ]
+            },
+            {
+              "kanji": "再",
+              "hiragana": "さい・さ",
+              "meaning": "again; re-",
+              "examples": [
+                {
+                  "word": "再入国",
+                  "meaning": "re-enter a country"
+                },
+                {
+                  "word": "再生",
+                  "meaning": "regenerate; recycle"
+                },
+                {
+                  "word": "再ダイヤル",
+                  "meaning": "redial"
+                },
+                {
+                  "word": "再来週",
+                  "meaning": "the week after next"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "kanjis": [
+            {
+              "kanji": "接",
+              "hiragana": "せつ",
+              "meaning": "connect; contact",
+              "examples": [
+                {
+                  "word": "接続",
+                  "meaning": "connect"
+                },
+                {
+                  "word": "面接",
+                  "meaning": "interview"
+                }
+              ]
+            },
+            {
+              "kanji": "続",
+              "hiragana": "ぞく・つづく・つづける",
+              "meaning": "continue",
+              "examples": [
+                {
+                  "word": "接続",
+                  "meaning": "connect"
+                },
+                {
+                  "word": "続く",
+                  "meaning": "continue"
+                },
+                {
+                  "word": "続ける",
+                  "meaning": "continue"
+                }
+              ]
+            },
+            {
+              "kanji": "示",
+              "hiragana": "じ・しめす",
+              "meaning": "show; indicate",
+              "examples": [
+                {
+                  "word": "表示",
+                  "meaning": "indication; expression"
+                },
+                {
+                  "word": "示す",
+                  "meaning": "show; point out"
+                },
+                {
+                  "word": "指示",
+                  "meaning": "a direction; instruction"
+                }
+              ]
+            },
+            {
+              "kanji": "戻",
+              "hiragana": "もどる・もどす",
+              "meaning": "return; put back",
+              "examples": [
+                {
+                  "word": "戻る",
+                  "meaning": "return"
+                },
+                {
+                  "word": "戻す",
+                  "meaning": "return; put back"
+                }
+              ]
+            },
+            {
+              "kanji": "完",
+              "hiragana": "かん",
+              "meaning": "complete; completion",
+              "examples": [
+                {
+                  "word": "完了",
+                  "meaning": "completion"
+                },
+                {
+                  "word": "完全(な)",
+                  "meaning": "perfect; complete"
+                }
+              ]
+            },
+            {
+              "kanji": "了",
+              "hiragana": "りょう",
+              "meaning": "finish; end",
+              "examples": [
+                {
+                  "word": "了解",
+                  "meaning": "understand; agree"
+                },
+                {
+                  "word": "終了",
+                  "meaning": "end; expiration"
+                }
+              ]
+            },
+            {
+              "kanji": "登",
+              "hiragana": "とう・と・のぼる",
+              "meaning": "climb; register",
+              "examples": [
+                {
+                  "word": "登録",
+                  "meaning": "registration"
+                },
+                {
+                  "word": "登る",
+                  "meaning": "climb"
+                },
+                {
+                  "word": "登山",
+                  "meaning": "mountain climbing"
+                }
+              ]
+            },
+            {
+              "kanji": "録",
+              "hiragana": "ろく",
+              "meaning": "record",
+              "examples": [
+                {
+                  "word": "記録",
+                  "meaning": "a record"
+                },
+                {
+                  "word": "録音",
+                  "meaning": "record (sound)"
+                },
+                {
+                  "word": "録画",
+                  "meaning": "record (video)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "kanjis": [
+            {
+              "kanji": "育",
+              "hiragana": "いく・そだつ・そだてる",
+              "meaning": "raise; bring up; grow",
+              "examples": [
+                {
+                  "word": "教育",
+                  "meaning": "education"
+                },
+                {
+                  "word": "育てる",
+                  "meaning": "raise; bring up"
+                },
+                {
+                  "word": "育つ",
+                  "meaning": "grow"
+                }
+              ]
+            },
+            {
+              "kanji": "種",
+              "hiragana": "しゅ・たね",
+              "meaning": "type; kind; seed",
+              "examples": [
+                {
+                  "word": "種類",
+                  "meaning": "type; kind"
+                },
+                {
+                  "word": "種",
+                  "meaning": "a seed"
+                }
+              ]
+            },
+            {
+              "kanji": "類",
+              "hiragana": "るい",
+              "meaning": "kind; class; category",
+              "examples": [
+                {
+                  "word": "書類",
+                  "meaning": "a document"
+                },
+                {
+                  "word": "分類",
+                  "meaning": "classification"
+                },
+                {
+                  "word": "人類",
+                  "meaning": "the human race"
+                }
+              ]
+            },
+            {
+              "kanji": "師",
+              "hiragana": "し",
+              "meaning": "teacher; master; specialist",
+              "examples": [
+                {
+                  "word": "教師",
+                  "meaning": "a teacher"
+                },
+                {
+                  "word": "看護師",
+                  "meaning": "a nurse"
+                },
+                {
+                  "word": "医師",
+                  "meaning": "a doctor"
+                }
+              ]
+            },
+            {
+              "kanji": "妻",
+              "hiragana": "さい・つま",
+              "meaning": "wife",
+              "examples": [
+                {
+                  "word": "夫婦",
+                  "meaning": "husband and wife"
+                },
+                {
+                  "word": "妻",
+                  "meaning": "wife"
+                }
+              ]
+            },
+            {
+              "kanji": "馬",
+              "hiragana": "ば・うま",
+              "meaning": "horse",
+              "examples": [
+                {
+                  "word": "馬",
+                  "meaning": "a horse"
+                },
+                {
+                  "word": "乗馬",
+                  "meaning": "horse riding"
+                }
+              ]
+            },
+            {
+              "kanji": "石",
+              "hiragana": "せき・いし",
+              "meaning": "stone",
+              "examples": [
+                {
+                  "word": "石けん",
+                  "meaning": "soap"
+                },
+                {
+                  "word": "石",
+                  "meaning": "stone"
+                },
+                {
+                  "word": "石油",
+                  "meaning": "oil (petroleum)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "days": [
+        {
+          "day": 1,
+          "kanjis": [
+            {
+              "kanji": "砂",
+              "hiragana": "さ・すな",
+              "meaning": "sand",
+              "examples": [
+                {
+                  "word": "砂糖",
+                  "meaning": "sugar"
+                },
+                {
+                  "word": "砂",
+                  "meaning": "sand"
+                }
+              ]
+            },
+            {
+              "kanji": "塩",
+              "hiragana": "えん・しお",
+              "meaning": "salt",
+              "examples": [
+                {
+                  "word": "食塩",
+                  "meaning": "table salt"
+                },
+                {
+                  "word": "塩",
+                  "meaning": "salt"
+                }
+              ]
+            },
+            {
+              "kanji": "油",
+              "hiragana": "ゆ・あぶら",
+              "meaning": "oil",
+              "examples": [
+                {
+                  "word": "しょう油",
+                  "meaning": "soy sauce"
+                },
+                {
+                  "word": "灯油",
+                  "meaning": "kerosene"
+                },
+                {
+                  "word": "石油",
+                  "meaning": "oil (petroleum)"
+                },
+                {
+                  "word": "油",
+                  "meaning": "oil"
+                }
+              ]
+            },
+            {
+              "kanji": "緑",
+              "hiragana": "りょく・みどり",
+              "meaning": "green",
+              "examples": [
+                {
+                  "word": "緑茶",
+                  "meaning": "green tea"
+                },
+                {
+                  "word": "緑(色)",
+                  "meaning": "green"
+                }
+              ]
+            },
+            {
+              "kanji": "紅",
+              "hiragana": "こう・べに",
+              "meaning": "red; crimson",
+              "examples": [
+                {
+                  "word": "紅茶",
+                  "meaning": "tea"
+                },
+                {
+                  "word": "口紅",
+                  "meaning": "lipstick"
+                }
+              ]
+            },
+            {
+              "kanji": "冊",
+              "hiragana": "さつ",
+              "meaning": "counter for books",
+              "examples": [
+                {
+                  "word": "～冊",
+                  "meaning": "counter for books"
+                },
+                {
+                  "word": "冊数",
+                  "meaning": "the number of copies"
+                }
+              ]
+            },
+            {
+              "kanji": "個",
+              "hiragana": "こ",
+              "meaning": "counter for individual objects",
+              "examples": [
+                {
+                  "word": "～個",
+                  "meaning": "counter of general objects"
+                },
+                {
+                  "word": "個人",
+                  "meaning": "individual (person)"
+                },
+                {
+                  "word": "個数",
+                  "meaning": "the number of items"
+                },
+                {
+                  "word": "団体",
+                  "meaning": "a group"
+                }
+              ]
+            },
+            {
+              "kanji": "枚",
+              "hiragana": "まい",
+              "meaning": "counter for flat objects",
+              "examples": [
+                {
+                  "word": "～枚",
+                  "meaning": "counter for flat objects"
+                },
+                {
+                  "word": "枚数",
+                  "meaning": "the number of sheets/copies"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "kanjis": [
+            {
+              "kanji": "告",
+              "hiragana": "こく",
+              "meaning": "advertisement; announce",
+              "examples": [
+                {
+                  "word": "広告",
+                  "meaning": "an advertisement"
+                }
+              ]
+            },
+            {
+              "kanji": "利",
+              "hiragana": "り",
+              "meaning": "convenient; use; benefit",
+              "examples": [
+                {
+                  "word": "便利(な)",
+                  "meaning": "convenient"
+                },
+                {
+                  "word": "利用",
+                  "meaning": "use"
+                }
+              ]
+            },
+            {
+              "kanji": "割",
+              "hiragana": "わる・われる",
+              "meaning": "divide; ratio; discount",
+              "examples": [
+                {
+                  "word": "割る",
+                  "meaning": "break"
+                },
+                {
+                  "word": "割れる",
+                  "meaning": "crack; cleave"
+                },
+                {
+                  "word": "割合",
+                  "meaning": "a ratio; a percentage"
+                },
+                {
+                  "word": "割引",
+                  "meaning": "a discount"
+                }
+              ]
+            },
+            {
+              "kanji": "倍",
+              "hiragana": "ばい",
+              "meaning": "times; double",
+              "examples": [
+                {
+                  "word": "～倍",
+                  "meaning": "... times (quantity, e.g. twice as many)"
+                },
+                {
+                  "word": "倍",
+                  "meaning": "= 2倍"
+                }
+              ]
+            },
+            {
+              "kanji": "値",
+              "hiragana": "ね",
+              "meaning": "price; value",
+              "examples": [
+                {
+                  "word": "値段",
+                  "meaning": "a price"
+                },
+                {
+                  "word": "値上げ",
+                  "meaning": "a price increase"
+                },
+                {
+                  "word": "値下げ",
+                  "meaning": "a price reduction"
+                }
+              ]
+            },
+            {
+              "kanji": "商",
+              "hiragana": "しょう",
+              "meaning": "commerce; goods; shop",
+              "examples": [
+                {
+                  "word": "商品",
+                  "meaning": "goods"
+                },
+                {
+                  "word": "商店",
+                  "meaning": "a shop"
+                }
+              ]
+            },
+            {
+              "kanji": "支",
+              "hiragana": "し",
+              "meaning": "branch; support",
+              "examples": [
+                {
+                  "word": "支店",
+                  "meaning": "a branch"
+                },
+                {
+                  "word": "支社",
+                  "meaning": "a branch office"
+                },
+                {
+                  "word": "本店",
+                  "meaning": "the main branch of a store"
+                },
+                {
+                  "word": "本社",
+                  "meaning": "the head office"
+                }
+              ]
+            },
+            {
+              "kanji": "払",
+              "hiragana": "はらう",
+              "meaning": "pay",
+              "examples": [
+                {
+                  "word": "払う",
+                  "meaning": "pay"
+                },
+                {
+                  "word": "支払い",
+                  "meaning": "a payment"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "kanjis": [
+            {
+              "kanji": "米",
+              "hiragana": "べい・こめ",
+              "meaning": "rice; America",
+              "examples": [
+                {
+                  "word": "米国",
+                  "meaning": "the United States of America"
+                },
+                {
+                  "word": "米",
+                  "meaning": "rice"
+                }
+              ]
+            },
+            {
+              "kanji": "級",
+              "hiragana": "きゅう",
+              "meaning": "grade; class; level",
+              "examples": [
+                {
+                  "word": "高級",
+                  "meaning": "high class/grade"
+                },
+                {
+                  "word": "上級",
+                  "meaning": "advanced level"
+                },
+                {
+                  "word": "中級",
+                  "meaning": "intermediate level"
+                }
+              ]
+            },
+            {
+              "kanji": "残",
+              "hiragana": "ざん・のこる・のこす",
+              "meaning": "remain; leave behind",
+              "examples": [
+                {
+                  "word": "残業",
+                  "meaning": "overtime work"
+                },
+                {
+                  "word": "残る",
+                  "meaning": "remain"
+                },
+                {
+                  "word": "残り",
+                  "meaning": "the remainder"
+                },
+                {
+                  "word": "残す",
+                  "meaning": "leave; leave behind"
+                }
+              ]
+            },
+            {
+              "kanji": "型",
+              "hiragana": "かた",
+              "meaning": "type; model; form",
+              "examples": [
+                {
+                  "word": "大型",
+                  "meaning": "large; jumbo"
+                },
+                {
+                  "word": "新型",
+                  "meaning": "new-model"
+                },
+                {
+                  "word": "小型",
+                  "meaning": "small-sized"
+                }
+              ]
+            },
+            {
+              "kanji": "税",
+              "hiragana": "ぜい",
+              "meaning": "tax",
+              "examples": [
+                {
+                  "word": "消費税",
+                  "meaning": "consumption tax"
+                },
+                {
+                  "word": "税金",
+                  "meaning": "a tax"
+                }
+              ]
+            },
+            {
+              "kanji": "込",
+              "hiragana": "こむ",
+              "meaning": "crowd; be included",
+              "examples": [
+                {
+                  "word": "込む",
+                  "meaning": "congest; crowd"
+                },
+                {
+                  "word": "振り込む",
+                  "meaning": "transfer money to a person's account"
+                },
+                {
+                  "word": "税込",
+                  "meaning": "tax included"
+                }
+              ]
+            },
+            {
+              "kanji": "価",
+              "hiragana": "か",
+              "meaning": "price; value",
+              "examples": [
+                {
+                  "word": "価格",
+                  "meaning": "a price"
+                },
+                {
+                  "word": "定価",
+                  "meaning": "a fixed price"
+                }
+              ]
+            },
+            {
+              "kanji": "格",
+              "hiragana": "かく",
+              "meaning": "grade; status; price",
+              "examples": [
+                {
+                  "word": "合格",
+                  "meaning": "pass an exam"
+                },
+                {
+                  "word": "格安",
+                  "meaning": "a bargain"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "kanjis": [
+            {
+              "kanji": "申",
+              "hiragana": "しん・もうす",
+              "meaning": "apply; say (humble)",
+              "examples": [
+                {
+                  "word": "申し込む",
+                  "meaning": "apply"
+                },
+                {
+                  "word": "申告",
+                  "meaning": "a declaration"
+                },
+                {
+                  "word": "申す",
+                  "meaning": "say (humble form)"
+                },
+                {
+                  "word": "申込書",
+                  "meaning": "an application form"
+                },
+                {
+                  "word": "申請",
+                  "meaning": "application"
+                },
+                {
+                  "word": "申し上げる",
+                  "meaning": "say (very humble form)"
+                }
+              ]
+            },
+            {
+              "kanji": "記",
+              "hiragana": "き",
+              "meaning": "record; write",
+              "examples": [
+                {
+                  "word": "記入",
+                  "meaning": "entry"
+                },
+                {
+                  "word": "記号",
+                  "meaning": "a sign; a symbol"
+                },
+                {
+                  "word": "日記",
+                  "meaning": "a diary; journal"
+                },
+                {
+                  "word": "記事",
+                  "meaning": "an article"
+                }
+              ]
+            },
+            {
+              "kanji": "例",
+              "hiragana": "れい・たとえる",
+              "meaning": "example",
+              "examples": [
+                {
+                  "word": "例",
+                  "meaning": "an example"
+                },
+                {
+                  "word": "例えば",
+                  "meaning": "for example"
+                }
+              ]
+            },
+            {
+              "kanji": "齢",
+              "hiragana": "れい",
+              "meaning": "age",
+              "examples": [
+                {
+                  "word": "年齢",
+                  "meaning": "age"
+                },
+                {
+                  "word": "高齢",
+                  "meaning": "old age"
+                }
+              ]
+            },
+            {
+              "kanji": "歳",
+              "hiragana": "さい",
+              "meaning": "years old",
+              "examples": [
+                {
+                  "word": "～歳",
+                  "meaning": "... years old"
+                },
+                {
+                  "word": "二十歳",
+                  "meaning": "20 years old"
+                }
+              ]
+            },
+            {
+              "kanji": "性",
+              "hiragana": "せい",
+              "meaning": "sex; gender; nature",
+              "examples": [
+                {
+                  "word": "性別",
+                  "meaning": "sex; gender"
+                },
+                {
+                  "word": "女性",
+                  "meaning": "woman"
+                },
+                {
+                  "word": "性格",
+                  "meaning": "personality"
+                },
+                {
+                  "word": "男性",
+                  "meaning": "man"
+                }
+              ]
+            },
+            {
+              "kanji": "連",
+              "hiragana": "れん・つれる",
+              "meaning": "connect; take along",
+              "examples": [
+                {
+                  "word": "連休",
+                  "meaning": "a holiday"
+                },
+                {
+                  "word": "連れて行く",
+                  "meaning": "take someone to ..."
+                },
+                {
+                  "word": "連れて来る",
+                  "meaning": "bring someone to ..."
+                }
+              ]
+            },
+            {
+              "kanji": "絡",
+              "hiragana": "らく",
+              "meaning": "contact; connection",
+              "examples": [
+                {
+                  "word": "連絡",
+                  "meaning": "contact; connection"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "kanjis": [
+            {
+              "kanji": "届",
+              "hiragana": "とどける・とどく",
+              "meaning": "deliver; arrive",
+              "examples": [
+                {
+                  "word": "届ける",
+                  "meaning": "deliver"
+                },
+                {
+                  "word": "届く",
+                  "meaning": "arrive (mail)"
+                }
+              ]
+            },
+            {
+              "kanji": "宅",
+              "hiragana": "たく",
+              "meaning": "home; residence",
+              "examples": [
+                {
+                  "word": "自宅",
+                  "meaning": "one's house/home"
+                },
+                {
+                  "word": "お宅",
+                  "meaning": "house/home (respectful)"
+                },
+                {
+                  "word": "宅配",
+                  "meaning": "deliver to someone's house"
+                }
+              ]
+            },
+            {
+              "kanji": "配",
+              "hiragana": "はい・くばる",
+              "meaning": "deliver; distribute",
+              "examples": [
+                {
+                  "word": "配達",
+                  "meaning": "delivery"
+                },
+                {
+                  "word": "心配",
+                  "meaning": "anxiety; worry"
+                },
+                {
+                  "word": "配る",
+                  "meaning": "distribute"
+                },
+                {
+                  "word": "配送料",
+                  "meaning": "a shipping charge"
+                }
+              ]
+            },
+            {
+              "kanji": "希",
+              "hiragana": "き",
+              "meaning": "hope",
+              "examples": [
+                {
+                  "word": "希望",
+                  "meaning": "hope"
+                }
+              ]
+            },
+            {
+              "kanji": "望",
+              "hiragana": "ぼう・のぞむ",
+              "meaning": "hope; desire",
+              "examples": [
+                {
+                  "word": "失望",
+                  "meaning": "despair"
+                },
+                {
+                  "word": "望む",
+                  "meaning": "want; hope for"
+                }
+              ]
+            },
+            {
+              "kanji": "荷",
+              "hiragana": "か・に",
+              "meaning": "luggage; load",
+              "examples": [
+                {
+                  "word": "入荷",
+                  "meaning": "receipt of goods"
+                },
+                {
+                  "word": "荷物",
+                  "meaning": "luggage"
+                },
+                {
+                  "word": "出荷",
+                  "meaning": "shipment"
+                },
+                {
+                  "word": "手荷物",
+                  "meaning": "hand luggage"
+                }
+              ]
+            },
+            {
+              "kanji": "換",
+              "hiragana": "かん・かえる",
+              "meaning": "exchange; replace",
+              "examples": [
+                {
+                  "word": "交換",
+                  "meaning": "exchange"
+                },
+                {
+                  "word": "乗り換え",
+                  "meaning": "changing trains"
+                },
+                {
+                  "word": "代金引換",
+                  "meaning": "cash on delivery"
+                },
+                {
+                  "word": "引き換え",
+                  "meaning": "exchange"
+                }
+              ]
+            },
+            {
+              "kanji": "額",
+              "hiragana": "がく",
+              "meaning": "amount; sum of money",
+              "examples": [
+                {
+                  "word": "金額",
+                  "meaning": "an amount/sum (of money)"
+                },
+                {
+                  "word": "半額",
+                  "meaning": "half price"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "kanjis": [
+            {
+              "kanji": "在",
+              "hiragana": "ざい",
+              "meaning": "presence; be located",
+              "examples": [
+                {
+                  "word": "不在",
+                  "meaning": "absence"
+                },
+                {
+                  "word": "現在",
+                  "meaning": "present (time)"
+                }
+              ]
+            },
+            {
+              "kanji": "取",
+              "hiragana": "とる",
+              "meaning": "take; receive",
+              "examples": [
+                {
+                  "word": "取る",
+                  "meaning": "take"
+                },
+                {
+                  "word": "受け取る",
+                  "meaning": "receive; take"
+                },
+                {
+                  "word": "受取人",
+                  "meaning": "a recipient"
+                }
+              ]
+            },
+            {
+              "kanji": "預",
+              "hiragana": "あずける",
+              "meaning": "entrust; deposit",
+              "examples": [
+                {
+                  "word": "預金",
+                  "meaning": "a money deposit"
+                },
+                {
+                  "word": "預ける",
+                  "meaning": "entrust"
+                }
+              ]
+            },
+            {
+              "kanji": "衣",
+              "hiragana": "い",
+              "meaning": "clothing",
+              "examples": [
+                {
+                  "word": "衣類",
+                  "meaning": "clothing"
+                },
+                {
+                  "word": "衣服",
+                  "meaning": "clothes"
+                }
+              ]
+            },
+            {
+              "kanji": "参",
+              "hiragana": "さん・まいる",
+              "meaning": "participate; go (humble)",
+              "examples": [
+                {
+                  "word": "参加",
+                  "meaning": "participate"
+                },
+                {
+                  "word": "参る",
+                  "meaning": "go/come (humble form)"
+                },
+                {
+                  "word": "参考書",
+                  "meaning": "a reference book"
+                }
+              ]
+            },
+            {
+              "kanji": "達",
+              "hiragana": "たつ・たち",
+              "meaning": "attain; plural suffix",
+              "examples": [
+                {
+                  "word": "上達",
+                  "meaning": "make progress"
+                },
+                {
+                  "word": "友達",
+                  "meaning": "a friend"
+                },
+                {
+                  "word": "速達",
+                  "meaning": "a special delivery"
+                }
+              ]
+            },
+            {
+              "kanji": "勤",
+              "hiragana": "きん・つとめる",
+              "meaning": "work; commute",
+              "examples": [
+                {
+                  "word": "通勤",
+                  "meaning": "commuting to work"
+                },
+                {
+                  "word": "勤める",
+                  "meaning": "work; be employed"
+                }
+              ]
+            },
+            {
+              "kanji": "帯",
+              "hiragana": "たい・おび",
+              "meaning": "belt; band; time zone",
+              "examples": [
+                {
+                  "word": "携帯(電話)",
+                  "meaning": "a cell phone/mobile phone"
+                },
+                {
+                  "word": "帯",
+                  "meaning": "a belt/sash"
+                },
+                {
+                  "word": "時間帯",
+                  "meaning": "a time zone; a time slot"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "kanjis": [
+            {
+              "kanji": "細",
+              "hiragana": "ほそい・こまかい",
+              "meaning": "thin; fine; small",
+              "examples": [
+                {
+                  "word": "細い",
+                  "meaning": "fine/thin"
+                },
+                {
+                  "word": "細かい",
+                  "meaning": "fine/small"
+                }
+              ]
+            },
+            {
+              "kanji": "戸",
+              "hiragana": "と",
+              "meaning": "door; household",
+              "examples": [
+                {
+                  "word": "戸",
+                  "meaning": "a door"
+                },
+                {
+                  "word": "戸棚",
+                  "meaning": "a closet; a cupboard"
+                },
+                {
+                  "word": "雨戸",
+                  "meaning": "a sliding storm door"
+                }
+              ]
+            },
+            {
+              "kanji": "湖",
+              "hiragana": "こ・みずうみ",
+              "meaning": "lake",
+              "examples": [
+                {
+                  "word": "びわ湖",
+                  "meaning": "Lake Biwa"
+                },
+                {
+                  "word": "湖",
+                  "meaning": "a lake"
+                }
+              ]
+            },
+            {
+              "kanji": "船",
+              "hiragana": "せん・ふね・ふな",
+              "meaning": "boat; ship",
+              "examples": [
+                {
+                  "word": "風船",
+                  "meaning": "a balloon"
+                },
+                {
+                  "word": "船",
+                  "meaning": "a boat; ship"
+                },
+                {
+                  "word": "船長",
+                  "meaning": "a captain"
+                },
+                {
+                  "word": "船便",
+                  "meaning": "surface/sea mail"
+                }
+              ]
+            },
+            {
+              "kanji": "角",
+              "hiragana": "かく・かど",
+              "meaning": "angle; corner",
+              "examples": [
+                {
+                  "word": "角度",
+                  "meaning": "an angle"
+                },
+                {
+                  "word": "四角い",
+                  "meaning": "square"
+                },
+                {
+                  "word": "三角形",
+                  "meaning": "a triangle"
+                },
+                {
+                  "word": "角",
+                  "meaning": "a corner"
+                }
+              ]
+            },
+            {
+              "kanji": "夫",
+              "hiragana": "ふ・ふう・おっと",
+              "meaning": "husband",
+              "examples": [
+                {
+                  "word": "夫婦",
+                  "meaning": "husband and wife"
+                },
+                {
+                  "word": "夫婦",
+                  "meaning": "a married couple"
+                },
+                {
+                  "word": "夫",
+                  "meaning": "a husband"
+                }
+              ]
+            },
+            {
+              "kanji": "苦",
+              "hiragana": "く・にがい・くるしい",
+              "meaning": "bitter; difficult; painful",
+              "examples": [
+                {
+                  "word": "苦労",
+                  "meaning": "troubles; hardships"
+                },
+                {
+                  "word": "苦い",
+                  "meaning": "bitter"
+                },
+                {
+                  "word": "苦しい",
+                  "meaning": "distressful; trying"
+                },
+                {
+                  "word": "苦手(な)",
+                  "meaning": "a weak point"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "days": [
+        {
+          "day": 1,
+          "kanjis": [
+            {
+              "kanji": "礼",
+              "hiragana": "れい",
+              "meaning": "thanks; gratitude; gift",
+              "examples": [
+                {
+                  "word": "お礼",
+                  "meaning": "thanks"
+                }
+              ]
+            },
+            {
+              "kanji": "伺",
+              "hiragana": "うかがう",
+              "meaning": "visit; ask (humble)",
+              "examples": [
+                {
+                  "word": "伺う",
+                  "meaning": "visit; ask (humble form)"
+                }
+              ]
+            },
+            {
+              "kanji": "遅",
+              "hiragana": "ち・おそい・おくれる",
+              "meaning": "late; slow",
+              "examples": [
+                {
+                  "word": "遅刻",
+                  "meaning": "tardiness"
+                },
+                {
+                  "word": "遅い",
+                  "meaning": "slow"
+                },
+                {
+                  "word": "遅れる",
+                  "meaning": "be late"
+                }
+              ]
+            },
+            {
+              "kanji": "失",
+              "hiragana": "しつ",
+              "meaning": "lose; failure; mistake",
+              "examples": [
+                {
+                  "word": "失礼(な)",
+                  "meaning": "rudeness"
+                },
+                {
+                  "word": "失敗",
+                  "meaning": "failure; mistake"
+                },
+                {
+                  "word": "失礼する",
+                  "meaning": "be excused"
+                }
+              ]
+            },
+            {
+              "kanji": "汗",
+              "hiragana": "あせ",
+              "meaning": "sweat",
+              "examples": [
+                {
+                  "word": "汗",
+                  "meaning": "perspiration; sweat"
+                },
+                {
+                  "word": "汗をかく",
+                  "meaning": "sweat"
+                }
+              ]
+            },
+            {
+              "kanji": "念",
+              "hiragana": "ねん",
+              "meaning": "feeling; thought; regret",
+              "examples": [
+                {
+                  "word": "残念(な)",
+                  "meaning": "regret; disappointment"
+                },
+                {
+                  "word": "記念",
+                  "meaning": "commemoration"
+                }
+              ]
+            },
+            {
+              "kanji": "涙",
+              "hiragana": "なみだ",
+              "meaning": "tear; tears",
+              "examples": [
+                {
+                  "word": "涙",
+                  "meaning": "tear(s)"
+                },
+                {
+                  "word": "涙を流す",
+                  "meaning": "weep"
+                }
+              ]
+            },
+            {
+              "kanji": "笑",
+              "hiragana": "わらう・えむ",
+              "meaning": "laugh; smile",
+              "examples": [
+                {
+                  "word": "笑う",
+                  "meaning": "laugh; smile"
+                },
+                {
+                  "word": "笑顔",
+                  "meaning": "smile; smiling face"
+                },
+                {
+                  "word": "笑い",
+                  "meaning": "laughter"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "kanjis": [
+            {
+              "kanji": "調",
+              "hiragana": "ちょう・しらべる",
+              "meaning": "condition; investigate; adjust",
+              "examples": [
+                {
+                  "word": "調子",
+                  "meaning": "condition"
+                },
+                {
+                  "word": "調べる",
+                  "meaning": "look up something; investigate"
+                },
+                {
+                  "word": "強調",
+                  "meaning": "emphasis; stress"
+                }
+              ]
+            },
+            {
+              "kanji": "査",
+              "hiragana": "さ",
+              "meaning": "investigation; inspection",
+              "examples": [
+                {
+                  "word": "調査",
+                  "meaning": "an investigation; inquiry"
+                }
+              ]
+            },
+            {
+              "kanji": "移",
+              "hiragana": "い・うつる・うつす",
+              "meaning": "move; transfer",
+              "examples": [
+                {
+                  "word": "移動",
+                  "meaning": "move; transfer"
+                },
+                {
+                  "word": "移る",
+                  "meaning": "move; shift"
+                },
+                {
+                  "word": "移す",
+                  "meaning": "move/shift (something)"
+                }
+              ]
+            },
+            {
+              "kanji": "難",
+              "hiragana": "なん・むずかしい",
+              "meaning": "difficult; hardship",
+              "examples": [
+                {
+                  "word": "困難(な)",
+                  "meaning": "difficulty"
+                },
+                {
+                  "word": "難しい",
+                  "meaning": "difficult"
+                },
+                {
+                  "word": "難問",
+                  "meaning": "a difficult problem"
+                }
+              ]
+            },
+            {
+              "kanji": "簡",
+              "hiragana": "かん",
+              "meaning": "simple; easy",
+              "examples": [
+                {
+                  "word": "簡単(な)",
+                  "meaning": "easy"
+                }
+              ]
+            },
+            {
+              "kanji": "単",
+              "hiragana": "たん",
+              "meaning": "single; unit",
+              "examples": [
+                {
+                  "word": "単語",
+                  "meaning": "vocabulary"
+                },
+                {
+                  "word": "単位",
+                  "meaning": "a unit; credit"
+                }
+              ]
+            },
+            {
+              "kanji": "感",
+              "hiragana": "かん",
+              "meaning": "feel; sensation",
+              "examples": [
+                {
+                  "word": "感じる",
+                  "meaning": "feel"
+                },
+                {
+                  "word": "感動",
+                  "meaning": "inspiration"
+                }
+              ]
+            },
+            {
+              "kanji": "想",
+              "hiragana": "そう",
+              "meaning": "thought; idea; impression",
+              "examples": [
+                {
+                  "word": "感想",
+                  "meaning": "impressions; thoughts"
+                },
+                {
+                  "word": "予想",
+                  "meaning": "anticipation; forecast"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "kanjis": [
+            {
+              "kanji": "練",
+              "hiragana": "れん",
+              "meaning": "practice; train",
+              "examples": [
+                {
+                  "word": "練習",
+                  "meaning": "practice"
+                }
+              ]
+            },
+            {
+              "kanji": "最",
+              "hiragana": "さい・もっとも",
+              "meaning": "most; best; utmost",
+              "examples": [
+                {
+                  "word": "最近",
+                  "meaning": "recently"
+                },
+                {
+                  "word": "最後",
+                  "meaning": "last; end"
+                },
+                {
+                  "word": "最初",
+                  "meaning": "first; beginning"
+                },
+                {
+                  "word": "最も",
+                  "meaning": "most"
+                }
+              ]
+            },
+            {
+              "kanji": "適",
+              "hiragana": "てき",
+              "meaning": "suitable; appropriate",
+              "examples": [
+                {
+                  "word": "適当(な)",
+                  "meaning": "correct; appropriate"
+                },
+                {
+                  "word": "快適(な)",
+                  "meaning": "comfortable"
+                }
+              ]
+            },
+            {
+              "kanji": "選",
+              "hiragana": "せん・えらぶ",
+              "meaning": "choose; select",
+              "examples": [
+                {
+                  "word": "選挙",
+                  "meaning": "an election"
+                },
+                {
+                  "word": "選ぶ",
+                  "meaning": "choose"
+                },
+                {
+                  "word": "選手",
+                  "meaning": "a player; an athlete"
+                }
+              ]
+            },
+            {
+              "kanji": "違",
+              "hiragana": "ちがう・ちがえる",
+              "meaning": "differ; be wrong",
+              "examples": [
+                {
+                  "word": "違う",
+                  "meaning": "different; wrong"
+                },
+                {
+                  "word": "間違い",
+                  "meaning": "a mistake"
+                },
+                {
+                  "word": "間違う",
+                  "meaning": "make a mistake"
+                },
+                {
+                  "word": "間違える",
+                  "meaning": "make a mistake"
+                }
+              ]
+            },
+            {
+              "kanji": "直",
+              "hiragana": "ちょく・なおる・なおす",
+              "meaning": "straight; fix; repair",
+              "examples": [
+                {
+                  "word": "直線",
+                  "meaning": "a straight line"
+                },
+                {
+                  "word": "直る",
+                  "meaning": "be repaired"
+                },
+                {
+                  "word": "直接",
+                  "meaning": "direct"
+                },
+                {
+                  "word": "直す",
+                  "meaning": "fix"
+                }
+              ]
+            },
+            {
+              "kanji": "復",
+              "hiragana": "ふく",
+              "meaning": "review; restore; recover",
+              "examples": [
+                {
+                  "word": "復習",
+                  "meaning": "review"
+                },
+                {
+                  "word": "回復",
+                  "meaning": "recovery; recuperation"
+                },
+                {
+                  "word": "往復",
+                  "meaning": "a round trip"
+                }
+              ]
+            },
+            {
+              "kanji": "辞",
+              "hiragana": "じ・やめる",
+              "meaning": "dictionary; resign",
+              "examples": [
+                {
+                  "word": "辞書",
+                  "meaning": "a dictionary"
+                },
+                {
+                  "word": "辞める",
+                  "meaning": "resign; retire"
+                }
+              ]
+            },
+            {
+              "kanji": "宿",
+              "hiragana": "しゅく・やど",
+              "meaning": "homework; lodging; inn",
+              "examples": [
+                {
+                  "word": "宿題",
+                  "meaning": "a homework"
+                },
+                {
+                  "word": "宿",
+                  "meaning": "an inn; a hotel"
+                },
+                {
+                  "word": "下宿",
+                  "meaning": "lodgings"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "kanjis": [
+            {
+              "kanji": "昨",
+              "hiragana": "さく",
+              "meaning": "yesterday; last",
+              "examples": [
+                {
+                  "word": "昨日",
+                  "meaning": "yesterday"
+                },
+                {
+                  "word": "昨夜",
+                  "meaning": "last night"
+                },
+                {
+                  "word": "昨年",
+                  "meaning": "last year"
+                }
+              ]
+            },
+            {
+              "kanji": "君",
+              "hiragana": "くん・きみ",
+              "meaning": "you; honorific for a boy/man",
+              "examples": [
+                {
+                  "word": "○○君",
+                  "meaning": "honorific appended to names of males younger than oneself"
+                },
+                {
+                  "word": "君",
+                  "meaning": "you"
+                }
+              ]
+            },
+            {
+              "kanji": "結",
+              "hiragana": "けつ・むすぶ",
+              "meaning": "tie; connect; conclude",
+              "examples": [
+                {
+                  "word": "結構(な)",
+                  "meaning": "splendid; nice"
+                },
+                {
+                  "word": "結局",
+                  "meaning": "after all"
+                },
+                {
+                  "word": "結ぶ",
+                  "meaning": "tie; connect; conclude"
+                }
+              ]
+            },
+            {
+              "kanji": "婚",
+              "hiragana": "こん",
+              "meaning": "marriage",
+              "examples": [
+                {
+                  "word": "結婚",
+                  "meaning": "a marriage"
+                },
+                {
+                  "word": "婚約",
+                  "meaning": "an engagement"
+                },
+                {
+                  "word": "新婚旅行",
+                  "meaning": "a honeymoon"
+                }
+              ]
+            },
+            {
+              "kanji": "祝",
+              "hiragana": "しゅく・いわう",
+              "meaning": "celebrate; congratulate",
+              "examples": [
+                {
+                  "word": "祝日",
+                  "meaning": "a holiday/festival day"
+                },
+                {
+                  "word": "祝う",
+                  "meaning": "celebrate; congratulate"
+                },
+                {
+                  "word": "お祝い",
+                  "meaning": "celebration/congratulation"
+                }
+              ]
+            },
+            {
+              "kanji": "曲",
+              "hiragana": "きょく・まがる・まげる",
+              "meaning": "song; bend; curve",
+              "examples": [
+                {
+                  "word": "曲",
+                  "meaning": "a piece of music"
+                },
+                {
+                  "word": "曲がる",
+                  "meaning": "bend; turn"
+                },
+                {
+                  "word": "曲線",
+                  "meaning": "a curve"
+                },
+                {
+                  "word": "曲げる",
+                  "meaning": "bend"
+                }
+              ]
+            },
+            {
+              "kanji": "奥",
+              "hiragana": "おく",
+              "meaning": "inner part; another person's wife",
+              "examples": [
+                {
+                  "word": "奥さん",
+                  "meaning": "another person's wife"
+                },
+                {
+                  "word": "奥",
+                  "meaning": "innermost"
+                }
+              ]
+            },
+            {
+              "kanji": "寝",
+              "hiragana": "ねる",
+              "meaning": "sleep; lie down",
+              "examples": [
+                {
+                  "word": "寝る",
+                  "meaning": "sleep"
+                },
+                {
+                  "word": "昼寝",
+                  "meaning": "a nap"
+                },
+                {
+                  "word": "寝坊",
+                  "meaning": "late riser; sleepyhead"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "kanjis": [
+            {
+              "kanji": "痛",
+              "hiragana": "つう・いたい",
+              "meaning": "pain; painful",
+              "examples": [
+                {
+                  "word": "頭痛",
+                  "meaning": "a headache"
+                },
+                {
+                  "word": "痛い",
+                  "meaning": "sore; painful"
+                },
+                {
+                  "word": "腹痛",
+                  "meaning": "stomach ache"
+                }
+              ]
+            },
+            {
+              "kanji": "熱",
+              "hiragana": "ねつ・あつい",
+              "meaning": "heat; fever; hot",
+              "examples": [
+                {
+                  "word": "熱",
+                  "meaning": "heat; fever"
+                },
+                {
+                  "word": "熱い",
+                  "meaning": "hot"
+                },
+                {
+                  "word": "熱心(な)",
+                  "meaning": "enthusiasm; zeal"
+                }
+              ]
+            },
+            {
+              "kanji": "虫",
+              "hiragana": "むし",
+              "meaning": "insect; bug",
+              "examples": [
+                {
+                  "word": "虫",
+                  "meaning": "an insect"
+                }
+              ]
+            },
+            {
+              "kanji": "歯",
+              "hiragana": "し・は",
+              "meaning": "tooth; teeth",
+              "examples": [
+                {
+                  "word": "歯科",
+                  "meaning": "dentistry"
+                },
+                {
+                  "word": "歯",
+                  "meaning": "teeth"
+                },
+                {
+                  "word": "歯医者",
+                  "meaning": "a dentist"
+                },
+                {
+                  "word": "虫歯",
+                  "meaning": "a decayed tooth"
+                }
+              ]
+            },
+            {
+              "kanji": "治",
+              "hiragana": "じ・なおる・なおす",
+              "meaning": "cure; heal; govern",
+              "examples": [
+                {
+                  "word": "政治",
+                  "meaning": "politics; government"
+                },
+                {
+                  "word": "治療",
+                  "meaning": "a treatment"
+                },
+                {
+                  "word": "治る",
+                  "meaning": "heal"
+                },
+                {
+                  "word": "治す",
+                  "meaning": "cure"
+                }
+              ]
+            },
+            {
+              "kanji": "汚",
+              "hiragana": "きたない・よごれる",
+              "meaning": "dirty; become dirty",
+              "examples": [
+                {
+                  "word": "汚い",
+                  "meaning": "dirty"
+                },
+                {
+                  "word": "汚れる",
+                  "meaning": "become dirty"
+                }
+              ]
+            },
+            {
+              "kanji": "並",
+              "hiragana": "ならぶ・ならべる",
+              "meaning": "line up; arrange",
+              "examples": [
+                {
+                  "word": "並ぶ",
+                  "meaning": "stand in a line"
+                },
+                {
+                  "word": "並べる",
+                  "meaning": "line up; set up"
+                },
+                {
+                  "word": "歯並び",
+                  "meaning": "the alignment of your teeth"
+                }
+              ]
+            },
+            {
+              "kanji": "他",
+              "hiragana": "た・ほか",
+              "meaning": "other; another",
+              "examples": [
+                {
+                  "word": "他の",
+                  "meaning": "other"
+                },
+                {
+                  "word": "その他",
+                  "meaning": "other"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "kanjis": [
+            {
+              "kanji": "身",
+              "hiragana": "しん・み",
+              "meaning": "body; oneself; status",
+              "examples": [
+                {
+                  "word": "身長",
+                  "meaning": "height"
+                },
+                {
+                  "word": "身分",
+                  "meaning": "social status"
+                },
+                {
+                  "word": "独身",
+                  "meaning": "single; unmarried"
+                },
+                {
+                  "word": "刺身",
+                  "meaning": "sashimi (sliced raw fish)"
+                }
+              ]
+            },
+            {
+              "kanji": "酒",
+              "hiragana": "しゅ・さけ・さか",
+              "meaning": "alcohol; sake",
+              "examples": [
+                {
+                  "word": "日本酒",
+                  "meaning": "sake"
+                },
+                {
+                  "word": "お酒",
+                  "meaning": "alcohol; liquor"
+                },
+                {
+                  "word": "料理酒",
+                  "meaning": "cooking sake"
+                },
+                {
+                  "word": "酒屋",
+                  "meaning": "a liquor store"
+                }
+              ]
+            },
+            {
+              "kanji": "吸",
+              "hiragana": "きゅう・すう",
+              "meaning": "breathe; inhale; suck",
+              "examples": [
+                {
+                  "word": "呼吸",
+                  "meaning": "breathing; respiration"
+                },
+                {
+                  "word": "吸う",
+                  "meaning": "breathe; inhale"
+                }
+              ]
+            },
+            {
+              "kanji": "欲",
+              "hiragana": "よく・ほしい",
+              "meaning": "want; desire",
+              "examples": [
+                {
+                  "word": "食欲",
+                  "meaning": "appetite"
+                },
+                {
+                  "word": "欲しい",
+                  "meaning": "want"
+                },
+                {
+                  "word": "意欲",
+                  "meaning": "a will; eagerness; motivation"
+                }
+              ]
+            },
+            {
+              "kanji": "眠",
+              "hiragana": "みん・ねむい・ねむる",
+              "meaning": "sleep; sleepy",
+              "examples": [
+                {
+                  "word": "睡眠",
+                  "meaning": "sleep"
+                },
+                {
+                  "word": "眠い",
+                  "meaning": "sleepy"
+                },
+                {
+                  "word": "眠る",
+                  "meaning": "sleep"
+                }
+              ]
+            },
+            {
+              "kanji": "疲",
+              "hiragana": "つかれる",
+              "meaning": "get tired; exhaust",
+              "examples": [
+                {
+                  "word": "疲れる",
+                  "meaning": "get tired; exhaust"
+                }
+              ]
+            },
+            {
+              "kanji": "息",
+              "hiragana": "いき",
+              "meaning": "breath",
+              "examples": [
+                {
+                  "word": "息",
+                  "meaning": "a breath"
+                },
+                {
+                  "word": "息子",
+                  "meaning": "a son"
+                },
+                {
+                  "word": "息切れ",
+                  "meaning": "be short of breath"
+                }
+              ]
+            },
+            {
+              "kanji": "呼",
+              "hiragana": "こ・よぶ",
+              "meaning": "call; summon",
+              "examples": [
+                {
+                  "word": "呼吸",
+                  "meaning": "breathing; respiration"
+                },
+                {
+                  "word": "呼ぶ",
+                  "meaning": "call"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "kanjis": [
+            {
+              "kanji": "厚",
+              "hiragana": "あつい",
+              "meaning": "thick",
+              "examples": [
+                {
+                  "word": "厚い",
+                  "meaning": "thick"
+                }
+              ]
+            },
+            {
+              "kanji": "泣",
+              "hiragana": "なく",
+              "meaning": "cry; weep",
+              "examples": [
+                {
+                  "word": "泣く",
+                  "meaning": "cry; weep"
+                }
+              ]
+            },
+            {
+              "kanji": "鳴",
+              "hiragana": "なく・なる",
+              "meaning": "chirp; ring; sound",
+              "examples": [
+                {
+                  "word": "鳴く",
+                  "meaning": "chirp; croak; bleat (etc.)"
+                },
+                {
+                  "word": "鳴る",
+                  "meaning": "ring; chime"
+                }
+              ]
+            },
+            {
+              "kanji": "初",
+              "hiragana": "しょ・はじめ・はじめて",
+              "meaning": "first; beginning",
+              "examples": [
+                {
+                  "word": "最初",
+                  "meaning": "first; beginning"
+                },
+                {
+                  "word": "初め",
+                  "meaning": "the beginning"
+                },
+                {
+                  "word": "初級",
+                  "meaning": "beginning level"
+                },
+                {
+                  "word": "初めて",
+                  "meaning": "first time"
+                }
+              ]
+            },
+            {
+              "kanji": "泊",
+              "hiragana": "はく・とまる・とめる",
+              "meaning": "stay overnight; lodge",
+              "examples": [
+                {
+                  "word": "宿泊",
+                  "meaning": "lodging"
+                },
+                {
+                  "word": "泊まる",
+                  "meaning": "stay"
+                },
+                {
+                  "word": "泊める",
+                  "meaning": "accommodate"
+                }
+              ]
+            },
+            {
+              "kanji": "葉",
+              "hiragana": "よう・は",
+              "meaning": "leaf",
+              "examples": [
+                {
+                  "word": "紅葉",
+                  "meaning": "autumn leaves"
+                },
+                {
+                  "word": "葉",
+                  "meaning": "a leaf"
+                },
+                {
+                  "word": "言葉",
+                  "meaning": "word; language"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "days": [
+        {
+          "day": 1,
+          "kanjis": [
+            {
+              "kanji": "報",
+              "hiragana": "ほう",
+              "meaning": "report; forecast",
+              "examples": [
+                {
+                  "word": "予報",
+                  "meaning": "a forecast"
+                },
+                {
+                  "word": "報告",
+                  "meaning": "a report"
+                }
+              ]
+            },
+            {
+              "kanji": "晴",
+              "hiragana": "はれる",
+              "meaning": "be sunny; clear weather",
+              "examples": [
+                {
+                  "word": "晴れる",
+                  "meaning": "be sunny"
+                },
+                {
+                  "word": "晴れ",
+                  "meaning": "fine weather"
+                }
+              ]
+            },
+            {
+              "kanji": "雲",
+              "hiragana": "くも",
+              "meaning": "cloud",
+              "examples": [
+                {
+                  "word": "雲",
+                  "meaning": "clouds"
+                }
+              ]
+            },
+            {
+              "kanji": "吹",
+              "hiragana": "ふく",
+              "meaning": "blow",
+              "examples": [
+                {
+                  "word": "吹く",
+                  "meaning": "blow"
+                }
+              ]
+            },
+            {
+              "kanji": "暖",
+              "hiragana": "だん・あたたかい",
+              "meaning": "warm; warmth",
+              "examples": [
+                {
+                  "word": "暖房",
+                  "meaning": "a heater"
+                },
+                {
+                  "word": "暖かい",
+                  "meaning": "warm"
+                }
+              ]
+            },
+            {
+              "kanji": "雪",
+              "hiragana": "ゆき",
+              "meaning": "snow",
+              "examples": [
+                {
+                  "word": "雪",
+                  "meaning": "snow"
+                }
+              ]
+            },
+            {
+              "kanji": "震",
+              "hiragana": "しん",
+              "meaning": "earthquake; shake",
+              "examples": [
+                {
+                  "word": "地震",
+                  "meaning": "an earthquake"
+                },
+                {
+                  "word": "震度",
+                  "meaning": "seismic intensity"
+                }
+              ]
+            },
+            {
+              "kanji": "波",
+              "hiragana": "は・なみ",
+              "meaning": "wave",
+              "examples": [
+                {
+                  "word": "電波",
+                  "meaning": "electromagnetic wave"
+                },
+                {
+                  "word": "波",
+                  "meaning": "a wave"
+                },
+                {
+                  "word": "津波",
+                  "meaning": "tsunami"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "kanjis": [
+            {
+              "kanji": "求",
+              "hiragana": "きゅう・もとめる",
+              "meaning": "demand; request; seek",
+              "examples": [
+                {
+                  "word": "要求",
+                  "meaning": "a demand; request"
+                },
+                {
+                  "word": "請求書",
+                  "meaning": "a bill; invoice"
+                },
+                {
+                  "word": "求人",
+                  "meaning": "Help Wanted"
+                },
+                {
+                  "word": "求める",
+                  "meaning": "demand; request"
+                }
+              ]
+            },
+            {
+              "kanji": "募",
+              "hiragana": "ぼ",
+              "meaning": "recruit; collect applications",
+              "examples": [
+                {
+                  "word": "募集",
+                  "meaning": "recruitment"
+                }
+              ]
+            },
+            {
+              "kanji": "職",
+              "hiragana": "しょく",
+              "meaning": "job; occupation",
+              "examples": [
+                {
+                  "word": "職場",
+                  "meaning": "a work place"
+                },
+                {
+                  "word": "転職",
+                  "meaning": "change your job"
+                },
+                {
+                  "word": "職業",
+                  "meaning": "an occupation; profession"
+                },
+                {
+                  "word": "職員",
+                  "meaning": "employees"
+                }
+              ]
+            },
+            {
+              "kanji": "容",
+              "hiragana": "よう",
+              "meaning": "contents; appearance",
+              "examples": [
+                {
+                  "word": "美容院",
+                  "meaning": "a hairdresser"
+                },
+                {
+                  "word": "内容",
+                  "meaning": "contents; substance"
+                }
+              ]
+            },
+            {
+              "kanji": "技",
+              "hiragana": "ぎ",
+              "meaning": "skill; technique",
+              "examples": [
+                {
+                  "word": "技術",
+                  "meaning": "technique; technology"
+                },
+                {
+                  "word": "技術者",
+                  "meaning": "a technician"
+                }
+              ]
+            },
+            {
+              "kanji": "般",
+              "hiragana": "はん",
+              "meaning": "general; ordinary",
+              "examples": [
+                {
+                  "word": "一般",
+                  "meaning": "general; average"
+                },
+                {
+                  "word": "一般に",
+                  "meaning": "in general"
+                }
+              ]
+            },
+            {
+              "kanji": "務",
+              "hiragana": "む",
+              "meaning": "duties; work",
+              "examples": [
+                {
+                  "word": "事務",
+                  "meaning": "office work"
+                },
+                {
+                  "word": "事務所",
+                  "meaning": "an office"
+                },
+                {
+                  "word": "公務員",
+                  "meaning": "a civil servant; government employee"
+                },
+                {
+                  "word": "税務署",
+                  "meaning": "tax office"
+                }
+              ]
+            },
+            {
+              "kanji": "課",
+              "hiragana": "か",
+              "meaning": "section; lesson; department",
+              "examples": [
+                {
+                  "word": "第1課",
+                  "meaning": "Lesson one"
+                },
+                {
+                  "word": "課長",
+                  "meaning": "a section chief"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "kanjis": [
+            {
+              "kanji": "球",
+              "hiragana": "きゅう",
+              "meaning": "ball; sphere",
+              "examples": [
+                {
+                  "word": "地球",
+                  "meaning": "the earth"
+                },
+                {
+                  "word": "電球",
+                  "meaning": "a light bulb"
+                },
+                {
+                  "word": "野球",
+                  "meaning": "baseball"
+                }
+              ]
+            },
+            {
+              "kanji": "決",
+              "hiragana": "けつ・きめる・きまる",
+              "meaning": "decide; be decided",
+              "examples": [
+                {
+                  "word": "決して",
+                  "meaning": "by no means"
+                },
+                {
+                  "word": "決める",
+                  "meaning": "decide (something)"
+                },
+                {
+                  "word": "決定",
+                  "meaning": "a decision"
+                },
+                {
+                  "word": "決まる",
+                  "meaning": "be decided"
+                }
+              ]
+            },
+            {
+              "kanji": "勝",
+              "hiragana": "しょう・かつ",
+              "meaning": "win; victory",
+              "examples": [
+                {
+                  "word": "優勝",
+                  "meaning": "a victory; championship"
+                },
+                {
+                  "word": "勝つ",
+                  "meaning": "win"
+                },
+                {
+                  "word": "決勝",
+                  "meaning": "final game"
+                }
+              ]
+            },
+            {
+              "kanji": "対",
+              "hiragana": "たい",
+              "meaning": "opposite; versus",
+              "examples": [
+                {
+                  "word": "1対2",
+                  "meaning": "(a score of) one to two"
+                },
+                {
+                  "word": "反対",
+                  "meaning": "opposite"
+                }
+              ]
+            },
+            {
+              "kanji": "流",
+              "hiragana": "ながれる・ながす",
+              "meaning": "flow; current",
+              "examples": [
+                {
+                  "word": "流れる",
+                  "meaning": "flow"
+                },
+                {
+                  "word": "流す",
+                  "meaning": "let (water, etc.) flow"
+                }
+              ]
+            },
+            {
+              "kanji": "負",
+              "hiragana": "ふ・まける",
+              "meaning": "lose; be defeated",
+              "examples": [
+                {
+                  "word": "勝負",
+                  "meaning": "a match; contest; game"
+                },
+                {
+                  "word": "負ける",
+                  "meaning": "lose"
+                }
+              ]
+            },
+            {
+              "kanji": "投",
+              "hiragana": "とう・なげる",
+              "meaning": "throw; pitch",
+              "examples": [
+                {
+                  "word": "投手",
+                  "meaning": "(baseball) pitcher"
+                },
+                {
+                  "word": "投げる",
+                  "meaning": "throw"
+                }
+              ]
+            },
+            {
+              "kanji": "果",
+              "hiragana": "か",
+              "meaning": "result; fruit",
+              "examples": [
+                {
+                  "word": "結果",
+                  "meaning": "a result"
+                },
+                {
+                  "word": "果物",
+                  "meaning": "fruit"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "kanjis": [
+            {
+              "kanji": "戦",
+              "hiragana": "せん・たたかう",
+              "meaning": "war; fight",
+              "examples": [
+                {
+                  "word": "戦後",
+                  "meaning": "after the war"
+                },
+                {
+                  "word": "戦う",
+                  "meaning": "fight"
+                },
+                {
+                  "word": "戦争",
+                  "meaning": "war"
+                }
+              ]
+            },
+            {
+              "kanji": "経",
+              "hiragana": "けい・けいけん",
+              "meaning": "experience; manage",
+              "examples": [
+                {
+                  "word": "経験",
+                  "meaning": "an experience"
+                },
+                {
+                  "word": "経営",
+                  "meaning": "management"
+                }
+              ]
+            },
+            {
+              "kanji": "済",
+              "hiragana": "さい・すむ",
+              "meaning": "finish; settle; economy",
+              "examples": [
+                {
+                  "word": "経済",
+                  "meaning": "economy"
+                },
+                {
+                  "word": "済む",
+                  "meaning": "finish"
+                }
+              ]
+            },
+            {
+              "kanji": "成",
+              "hiragana": "せい",
+              "meaning": "become; growth; completion",
+              "examples": [
+                {
+                  "word": "成長",
+                  "meaning": "growth"
+                },
+                {
+                  "word": "完成",
+                  "meaning": "completion"
+                }
+              ]
+            },
+            {
+              "kanji": "貿",
+              "hiragana": "ぼう",
+              "meaning": "trade",
+              "examples": [
+                {
+                  "word": "貿易",
+                  "meaning": "trade"
+                }
+              ]
+            },
+            {
+              "kanji": "易",
+              "hiragana": "えき・やさしい",
+              "meaning": "trade; easy; simple",
+              "examples": [
+                {
+                  "word": "貿易",
+                  "meaning": "trade"
+                },
+                {
+                  "word": "易しい",
+                  "meaning": "easy; plain; simple"
+                }
+              ]
+            },
+            {
+              "kanji": "輸",
+              "hiragana": "ゆ",
+              "meaning": "transport; export; import",
+              "examples": [
+                {
+                  "word": "輸出",
+                  "meaning": "export"
+                },
+                {
+                  "word": "輸送",
+                  "meaning": "transport"
+                },
+                {
+                  "word": "輸入",
+                  "meaning": "import"
+                }
+              ]
+            },
+            {
+              "kanji": "相",
+              "hiragana": "そう・しょう・あい",
+              "meaning": "mutual; consultation; partner",
+              "examples": [
+                {
+                  "word": "相談",
+                  "meaning": "consultation"
+                },
+                {
+                  "word": "相手",
+                  "meaning": "an opponent; competitor"
+                },
+                {
+                  "word": "首相",
+                  "meaning": "prime minister"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "kanjis": [
+            {
+              "kanji": "化",
+              "hiragana": "か",
+              "meaning": "change; transform; -ize",
+              "examples": [
+                {
+                  "word": "文化",
+                  "meaning": "culture"
+                },
+                {
+                  "word": "化学",
+                  "meaning": "chemistry"
+                },
+                {
+                  "word": "○○化",
+                  "meaning": "-ize (change something into something else)"
+                },
+                {
+                  "word": "化粧",
+                  "meaning": "makeup"
+                }
+              ]
+            },
+            {
+              "kanji": "比",
+              "hiragana": "くらべる",
+              "meaning": "compare",
+              "examples": [
+                {
+                  "word": "比べる",
+                  "meaning": "compare"
+                }
+              ]
+            },
+            {
+              "kanji": "原",
+              "hiragana": "げん",
+              "meaning": "origin; source; raw material",
+              "examples": [
+                {
+                  "word": "原料",
+                  "meaning": "(raw) material"
+                },
+                {
+                  "word": "原因",
+                  "meaning": "a cause"
+                }
+              ]
+            },
+            {
+              "kanji": "因",
+              "hiragana": "いん",
+              "meaning": "cause; factor",
+              "examples": [
+                {
+                  "word": "原因",
+                  "meaning": "a cause"
+                }
+              ]
+            },
+            {
+              "kanji": "際",
+              "hiragana": "さい",
+              "meaning": "occasion; international",
+              "examples": [
+                {
+                  "word": "国際(の)",
+                  "meaning": "international"
+                },
+                {
+                  "word": "交際",
+                  "meaning": "association; dealings (with)"
+                }
+              ]
+            },
+            {
+              "kanji": "議",
+              "hiragana": "ぎ",
+              "meaning": "discussion; meeting",
+              "examples": [
+                {
+                  "word": "会議",
+                  "meaning": "a meeting"
+                },
+                {
+                  "word": "議員",
+                  "meaning": "a member of an assembly"
+                }
+              ]
+            },
+            {
+              "kanji": "活",
+              "hiragana": "かつ",
+              "meaning": "life; activity",
+              "examples": [
+                {
+                  "word": "生活",
+                  "meaning": "life; livelihood"
+                },
+                {
+                  "word": "活動",
+                  "meaning": "activity"
+                }
+              ]
+            },
+            {
+              "kanji": "変",
+              "hiragana": "へん・かわる・かえる",
+              "meaning": "change; become different",
+              "examples": [
+                {
+                  "word": "大変(な)",
+                  "meaning": "very; serious"
+                },
+                {
+                  "word": "変わる",
+                  "meaning": "change"
+                },
+                {
+                  "word": "変化",
+                  "meaning": "a change"
+                },
+                {
+                  "word": "変える",
+                  "meaning": "change (something)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "kanjis": [
+            {
+              "kanji": "政",
+              "hiragana": "せい",
+              "meaning": "politics; government",
+              "examples": [
+                {
+                  "word": "政治",
+                  "meaning": "politics"
+                },
+                {
+                  "word": "政治家",
+                  "meaning": "a politician"
+                }
+              ]
+            },
+            {
+              "kanji": "府",
+              "hiragana": "ふ",
+              "meaning": "government; administrative office",
+              "examples": [
+                {
+                  "word": "政府",
+                  "meaning": "a government; administration"
+                },
+                {
+                  "word": "都道府県",
+                  "meaning": "prefectures"
+                }
+              ]
+            },
+            {
+              "kanji": "改",
+              "hiragana": "かい・あらためる",
+              "meaning": "reform; revise; change",
+              "examples": [
+                {
+                  "word": "改正",
+                  "meaning": "an amendment"
+                },
+                {
+                  "word": "改める",
+                  "meaning": "change; revise"
+                }
+              ]
+            },
+            {
+              "kanji": "否",
+              "hiragana": "ひ",
+              "meaning": "no; denial",
+              "examples": [
+                {
+                  "word": "否定",
+                  "meaning": "negation"
+                }
+              ]
+            },
+            {
+              "kanji": "的",
+              "hiragana": "てき",
+              "meaning": "target; purpose; -like",
+              "examples": [
+                {
+                  "word": "否定的(な)",
+                  "meaning": "negative"
+                },
+                {
+                  "word": "国際的(な)",
+                  "meaning": "international"
+                },
+                {
+                  "word": "目的",
+                  "meaning": "an aim; purpose"
+                },
+                {
+                  "word": "個人的(な)",
+                  "meaning": "personal"
+                }
+              ]
+            },
+            {
+              "kanji": "実",
+              "hiragana": "じつ",
+              "meaning": "real; actual; truth",
+              "examples": [
+                {
+                  "word": "実際に",
+                  "meaning": "practice; actual conditions"
+                },
+                {
+                  "word": "実験",
+                  "meaning": "an experiment"
+                },
+                {
+                  "word": "実は",
+                  "meaning": "to tell the truth"
+                }
+              ]
+            },
+            {
+              "kanji": "欠",
+              "hiragana": "けつ・かける",
+              "meaning": "lack; shortage; defect",
+              "examples": [
+                {
+                  "word": "欠点",
+                  "meaning": "a shortcoming"
+                },
+                {
+                  "word": "欠ける",
+                  "meaning": "chip; lack"
+                },
+                {
+                  "word": "欠席",
+                  "meaning": "absence"
+                }
+              ]
+            },
+            {
+              "kanji": "専",
+              "hiragana": "せん",
+              "meaning": "specialty; exclusive",
+              "examples": [
+                {
+                  "word": "専門",
+                  "meaning": "specialty"
+                },
+                {
+                  "word": "専門家",
+                  "meaning": "an expert"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "kanjis": [
+            {
+              "kanji": "亡",
+              "hiragana": "ぼう・なくなる",
+              "meaning": "death; die",
+              "examples": [
+                {
+                  "word": "死亡",
+                  "meaning": "death"
+                },
+                {
+                  "word": "亡くなる",
+                  "meaning": "die"
+                }
+              ]
+            },
+            {
+              "kanji": "忙",
+              "hiragana": "ぼう・いそがしい",
+              "meaning": "busy",
+              "examples": [
+                {
+                  "word": "多忙(な)",
+                  "meaning": "busy"
+                },
+                {
+                  "word": "忙しい",
+                  "meaning": "busy"
+                }
+              ]
+            },
+            {
+              "kanji": "忘",
+              "hiragana": "ぼう・わすれる",
+              "meaning": "forget",
+              "examples": [
+                {
+                  "word": "忘年会",
+                  "meaning": "end of year party"
+                },
+                {
+                  "word": "忘れる",
+                  "meaning": "forget"
+                },
+                {
+                  "word": "忘れ物",
+                  "meaning": "thing left behind (lost property)"
+                }
+              ]
+            },
+            {
+              "kanji": "祭",
+              "hiragana": "さい・まつり",
+              "meaning": "festival; hold a festival",
+              "examples": [
+                {
+                  "word": "文化祭",
+                  "meaning": "a school festival"
+                },
+                {
+                  "word": "(お)祭り",
+                  "meaning": "a festival"
+                }
+              ]
+            },
+            {
+              "kanji": "労",
+              "hiragana": "ろう",
+              "meaning": "labor; hardship",
+              "examples": [
+                {
+                  "word": "苦労",
+                  "meaning": "troubles; hardships"
+                },
+                {
+                  "word": "労働者",
+                  "meaning": "a labourer"
+                }
+              ]
+            },
+            {
+              "kanji": "加",
+              "hiragana": "か・くわえる",
+              "meaning": "add; increase",
+              "examples": [
+                {
+                  "word": "参加",
+                  "meaning": "participate"
+                },
+                {
+                  "word": "加える",
+                  "meaning": "add to"
+                },
+                {
+                  "word": "増加",
+                  "meaning": "increase"
+                }
+              ]
+            },
+            {
+              "kanji": "情",
+              "hiragana": "じょう",
+              "meaning": "feeling; information; circumstances",
+              "examples": [
+                {
+                  "word": "情報",
+                  "meaning": "information"
+                },
+                {
+                  "word": "事情",
+                  "meaning": "circumstance"
+                },
+                {
+                  "word": "表情",
+                  "meaning": "a facial expression"
+                },
+                {
+                  "word": "感情",
+                  "meaning": "emotions"
+                }
+              ]
+            },
+            {
+              "kanji": "反",
+              "hiragana": "はん",
+              "meaning": "opposite; against",
+              "examples": [
+                {
+                  "word": "反対",
+                  "meaning": "opposite"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

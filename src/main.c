@@ -1,10 +1,14 @@
 #include <Raven.h>
 
+// NOTE: This is the json library from: "https://github.com/DaveGamble/cJSON". Clanker for doc
+
 #include <stdbool.h>
 #include <stdint.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include "cJSON.h"
+#include "jsonreader.h"
 
 
 // NOTE: This part here is windows bullshit, this makes sure that in release mode, it compile fine, normally, u don't need this in command line apps
@@ -24,9 +28,19 @@ int WINAPI WinMain(
 #endif
 
 static Rid windowID;
+static SouMatome root = {0};
+static cJSON* json = NULL;
 
+static void initsoumatome() {
+	if (!parse_soumatome(json, &root))
+	{
+		printf("Failed to populate SouMatome!\n");
 
-// NOTE: 
+		cJSON_Delete(json);
+		exit(1);
+	}
+}
+
 // NOTE: void name(Rid, const char*, void*). sender is the widget that triggered this callback. char* action is the action name like click, change etc(u may have to consult offical doc fAll button callbacks have to be this signatureor this), void* userdata is custom data registered with callback
 
 static void on_quit(Rid sender, const char* action, void* user_data) {
@@ -51,10 +65,11 @@ static void toggle_chapter_menu(Rid sender, const char* action, void* user_data)
 static void populate_chapters(Rid chapter_menu) {
 	// Populate the chapter menu with buttons for each chapter
 	for (int i = 1; i <= 20; ++i) {
-		char button_name[20];
-		snprintf(button_name, sizeof(button_name), "chapter_%d", i);
+		char button_name[40];
+		snprintf(button_name, sizeof(button_name), "備chapter_%d", i);
         // NOTE: this function takes widget id and char*, not another widget
-		Rmenu_add_item(chapter_menu, button_name);
+		Rid menu = Rmenu_add_item(chapter_menu, button_name);
+		Rmenu_item_set_clicked_callback(menu, NULL, NULL);
 	}
 }
 
@@ -73,6 +88,13 @@ static void switcher_index_to_1(Rid sender, const char* action, void* user_data)
 
 
 int main(void) {
+	json = cJSON_Parse(parseJson("assets/data/soumatome_n3_kanji_with_examples.json"));
+	if(!json) {
+		printf("Failed to parse json\n");
+		return 1;
+	}
+	initsoumatome();
+
     if (!Rinit(R_BACKEND_VULKAN)) return 1;
     Raction_bind("app.quit", on_quit, NULL);
     Raction_bind("chapter_menu.toggle", toggle_chapter_menu, NULL);
