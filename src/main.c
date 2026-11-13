@@ -9,7 +9,7 @@
 #include <string.h>
 #include "cJSON.h"
 #include "jsonreader.h"
-
+#include <time.h>
 
 // NOTE: This part here is windows bullshit, this makes sure that in release mode, it compile fine, normally, u don't need this in command line apps
 #ifdef _WIN32
@@ -48,7 +48,26 @@ static void on_quit(Rid sender, const char* action, void* user_data) {
     (void)user_data;
     Rquit(0);
 }
+//currently only implemented for testing and day/week selection will be implemented later
+static void refresh_kanji(Rid sender, const char* action, void* user_data) {
+	(void)sender;
+	(void)user_data;
+	int week_index = rand() % 6;
+	int day_index = rand() % 6;
+	int kanji_len = sizeof(root.weeks[week_index].days[day_index].kanjis);//somehow this work. fix this if you know this is not a best way to do this.
+	int index = rand() % kanji_len;
+	//json part
+	char* kanji = root.weeks[week_index].days[day_index].kanjis[index].kanji;
+	char* hiragana = root.weeks[week_index].days[day_index].kanjis[index].hiragana;
+	char* meaning = root.weeks[week_index].days[day_index].kanjis[index].meaning;
+	Rlabel_set_text(Rwidget_find(windowID, "kanji"), kanji);
+	//i need you to make this better for handling text since raw hardcoded storage is not good.
+	char answer_text[256];
+	snprintf(answer_text, sizeof(answer_text), "%s, %s", hiragana, meaning);
 
+	Rlabel_set_text(Rwidget_find(windowID, "meaning"), answer_text);
+
+}
 
 static void toggle_chapter_menu(Rid sender, const char* action, void* user_data) {
     (void)sender;
@@ -66,44 +85,51 @@ static void populate_chapters(Rid chapter_menu) {
 	// Populate the chapter menu with buttons for each chapter
 	for (int i = 1; i <= 20; ++i) {
 		char button_name[40];
-		snprintf(button_name, sizeof(button_name), "備chapter_%d", i);
+		snprintf(button_name, sizeof(button_name), "chapter_%d", i);
         // NOTE: this function takes widget id and char*, not another widget
 		Rid menu = Rmenu_add_item(chapter_menu, button_name);
 		Rmenu_item_set_clicked_callback(menu, NULL, NULL);
 	}
 }
-
 static void switcher_index_to_0(Rid sender, const char* action, void* user_data) {
 	(void)sender;
 	(void)user_data;
+	refresh_kanji(R_INVALID_ID, NULL, NULL);
 	Rid switcher = Rwidget_find(windowID, "button_switcher");
+	Rid meaning_widget = Rwidget_find(windowID, "meaning");
+	Rwidget_set_visibility(meaning_widget, R_HIDDEN);
 	Rswitcher_set_index(switcher, 0);
 }
 static void switcher_index_to_1(Rid sender, const char* action, void* user_data) {
 	(void)sender;
 	(void)user_data;
 	Rid switcher = Rwidget_find(windowID, "button_switcher");
+	Rid meaning_widget = Rwidget_find(windowID, "meaning");
+	Rwidget_set_visibility(meaning_widget, R_VISIBLE);
 	Rswitcher_set_index(switcher, 1);
 }
 
 
 int main(void) {
+	srand(time(NULL));
 	json = cJSON_Parse(parseJson("assets/data/soumatome_n3_kanji_with_examples.json"));
 	if(!json) {
 		printf("Failed to parse json\n");
 		return 1;
 	}
 	initsoumatome();
-
     if (!Rinit(R_BACKEND_VULKAN)) return 1;
+	//events here
     Raction_bind("app.quit", on_quit, NULL);
     Raction_bind("chapter_menu.toggle", toggle_chapter_menu, NULL);
 	Raction_bind("switcher.index.0", switcher_index_to_0, NULL);
 	Raction_bind("switcher.index.1", switcher_index_to_1, NULL);
+
     windowID = Rwindow_create_from_xml_file("./assets/window.xml");
     if (windowID == R_INVALID_ID)  return 1; 
 
-    //populate_chapters(Rwidget_find(windowID, "chapter_menu"));
+	//tests here
+	refresh_kanji(R_INVALID_ID, NULL, NULL);
 	populate_chapters(Rwidget_find(windowID, "chapter_menu"));
 	
 
