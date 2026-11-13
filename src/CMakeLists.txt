@@ -9,7 +9,7 @@ file(GLOB_RECURSE SOURCES CONFIGURE_DEPENDS
 )
 
 # 2. Define the executable (using the project name from root)
-add_executable(${PROJECT_NAME} ${SOURCES} ${CMAKE_SOURCE_DIR}/Dependencies/qrgen/qrcodegen.c ${CMAKE_SOURCE_DIR}/Dependencies/cjson/CJSON.c ${CMAKE_SOURCE_DIR}/resources/app.rc )
+add_executable(${PROJECT_NAME} ${SOURCES} ${CMAKE_SOURCE_DIR}/Dependencies/qrgen/qrcodegen.c ${CMAKE_SOURCE_DIR}/resources/app.rc )
 
 # NOTE: This line forces cmake to generate exe file without a console popping up in release mode.
 target_link_options(${PROJECT_NAME} PRIVATE
