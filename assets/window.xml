@@ -10,15 +10,22 @@
 				<Label Text="Kanji" Slot.Row="0" TextSize="100" Name="kanji" TextAlign="Center" Slot.VAlign="Center"/>
 				<Label Width="100" Text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers " Slot.Row="1" Height="500" Wrap="true" TextSize="20" TextAlign="Center" Slot.Padding="10"/>
 			</Grid>
-			<Menu Text="Chapters" Slot.HAlign="Left" Width="400" Slot.VAlign="Fill" Metric.FontSize="25" Name="chapter_menu" MinWidth="300" Visibility="Collapsed">
-				<MenuItem Text="Item"/>
-			</Menu>
+			<ScrollBox Slot.HAlign="Left" Material="Solid" Width="400" Spacing="0" ScrollBoth="false" Orientation="Vertical" Slot.Padding="10,0" Slot.VAlign="Top">
+				<Menu Text="Menu" Material="Glass" Metric.FontSize="24" Metric.RowHeight="40" Name="chapter_menu" Visibility="Collapsed">
+					<MenuItem Text="Item"/>
+					<MenuItem Text="Item"/>
+					<MenuItem Text="Item"/>
+					<MenuItem Text="Item"/>
+					<MenuItem Text="Item"/>
+					<MenuItem Text="Item"/>
+				</Menu>
+			</ScrollBox>
 		</Overlay>
-		<Switcher Index="0" Slot.VAlign="Bottom">
-			<Button Text="Reveal" Height="50"/>
+		<Switcher Index="0" Slot.VAlign="Bottom" Name="button_switcher">
+			<Button Text="Reveal" Height="50" OnClicked="switcher.index.1"/>
 			<UniformGrid Columns="2">
-				<Button Text="Previous" Height="50" Text="Previous"/>
-				<Button Text="Next" Height="50" Text="Next"/>
+				<Button Text="Previous" Height="50" Text="Previous" OnClicked="switcher.index.0"/>
+				<Button Text="Next" Height="50" Text="Next" OnClicked="switcher.index.0"/>
 			</UniformGrid>
 		</Switcher>
 	</VBox>

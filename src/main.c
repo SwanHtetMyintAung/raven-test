@@ -26,8 +26,8 @@ int WINAPI WinMain(
 static Rid windowID;
 
 
-// NOTE: All button callbacks have to be this signature
-// NOTE: void name(Rid, const char*, void*). sender is the widget that triggered this callback. char* action is the action name like click, change etc(u may have to consult offical doc for this), void* userdata is custom data registered with callback
+// NOTE: 
+// NOTE: void name(Rid, const char*, void*). sender is the widget that triggered this callback. char* action is the action name like click, change etc(u may have to consult offical doc fAll button callbacks have to be this signatureor this), void* userdata is custom data registered with callback
 
 static void on_quit(Rid sender, const char* action, void* user_data) {
     (void)sender;
@@ -50,19 +50,34 @@ static void toggle_chapter_menu(Rid sender, const char* action, void* user_data)
 }
 static void populate_chapters(Rid chapter_menu) {
 	// Populate the chapter menu with buttons for each chapter
-	for (int i = 1; i <= 5; ++i) {
+	for (int i = 1; i <= 20; ++i) {
 		char button_name[20];
 		snprintf(button_name, sizeof(button_name), "chapter_%d", i);
-		printf("Creating button: %s\n", button_name);   
-		Rid button = Rbutton_create(button_name);
         // NOTE: this function takes widget id and char*, not another widget
-		Rmenu_add_item(chapter_menu, "test");
+		Rmenu_add_item(chapter_menu, button_name);
 	}
 }
+
+static void switcher_index_to_0(Rid sender, const char* action, void* user_data) {
+	(void)sender;
+	(void)user_data;
+	Rid switcher = Rwidget_find(windowID, "button_switcher");
+	Rswitcher_set_index(switcher, 0);
+}
+static void switcher_index_to_1(Rid sender, const char* action, void* user_data) {
+	(void)sender;
+	(void)user_data;
+	Rid switcher = Rwidget_find(windowID, "button_switcher");
+	Rswitcher_set_index(switcher, 1);
+}
+
+
 int main(void) {
     if (!Rinit(R_BACKEND_VULKAN)) return 1;
     Raction_bind("app.quit", on_quit, NULL);
     Raction_bind("chapter_menu.toggle", toggle_chapter_menu, NULL);
+	Raction_bind("switcher.index.0", switcher_index_to_0, NULL);
+	Raction_bind("switcher.index.1", switcher_index_to_1, NULL);
     windowID = Rwindow_create_from_xml_file("./assets/window.xml");
     if (windowID == R_INVALID_ID)  return 1; 
 
