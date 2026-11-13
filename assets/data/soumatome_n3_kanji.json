@@ -1,0 +1,1924 @@
+{
+  "weeks": [
+    {
+      "week": 1,
+      "days": [
+        {
+          "day": 1,
+          "kanjis": [
+            {
+              "kanji": "駐",
+              "hiragana": "ちゅう",
+              "meaning": "park; stop a vehicle"
+            },
+            {
+              "kanji": "無",
+              "hiragana": "む・ない",
+              "meaning": "none; without"
+            },
+            {
+              "kanji": "満",
+              "hiragana": "まん",
+              "meaning": "full; satisfied"
+            },
+            {
+              "kanji": "向",
+              "hiragana": "こう・むこう・むかう・むき",
+              "meaning": "direction; face toward"
+            },
+            {
+              "kanji": "禁",
+              "hiragana": "きん",
+              "meaning": "prohibit; forbid"
+            },
+            {
+              "kanji": "関",
+              "hiragana": "かん",
+              "meaning": "connection; relation; concern"
+            },
+            {
+              "kanji": "係",
+              "hiragana": "けい・かかり",
+              "meaning": "person in charge; relation"
+            },
+            {
+              "kanji": "断",
+              "hiragana": "だん・ことわる",
+              "meaning": "refuse; cut off"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "kanjis": [
+            {
+              "kanji": "横",
+              "hiragana": "おう・よこ",
+              "meaning": "side; horizontal"
+            },
+            {
+              "kanji": "押",
+              "hiragana": "おす・おさえる",
+              "meaning": "push; hold down"
+            },
+            {
+              "kanji": "式",
+              "hiragana": "しき",
+              "meaning": "form; ceremony; formula"
+            },
+            {
+              "kanji": "信",
+              "hiragana": "しん",
+              "meaning": "believe; trust"
+            },
+            {
+              "kanji": "号",
+              "hiragana": "ごう",
+              "meaning": "number; sign"
+            },
+            {
+              "kanji": "確",
+              "hiragana": "かく・たしか・たしかめる",
+              "meaning": "certain; confirm; accurate"
+            },
+            {
+              "kanji": "認",
+              "hiragana": "にん・みとめる",
+              "meaning": "recognize; admit; approve"
+            },
+            {
+              "kanji": "飛",
+              "hiragana": "ひ・とぶ",
+              "meaning": "fly"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "kanjis": [
+            {
+              "kanji": "非",
+              "hiragana": "ひ",
+              "meaning": "emergency; non-; not"
+            },
+            {
+              "kanji": "常",
+              "hiragana": "じょう",
+              "meaning": "usual; ordinary"
+            },
+            {
+              "kanji": "階",
+              "hiragana": "かい",
+              "meaning": "floor; storey"
+            },
+            {
+              "kanji": "段",
+              "hiragana": "だん",
+              "meaning": "step; stairs"
+            },
+            {
+              "kanji": "箱",
+              "hiragana": "はこ",
+              "meaning": "box"
+            },
+            {
+              "kanji": "危",
+              "hiragana": "き・あぶない",
+              "meaning": "danger; dangerous"
+            },
+            {
+              "kanji": "険",
+              "hiragana": "けん",
+              "meaning": "danger; risk"
+            },
+            {
+              "kanji": "捨",
+              "hiragana": "すてる",
+              "meaning": "throw away"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "kanjis": [
+            {
+              "kanji": "線",
+              "hiragana": "せん",
+              "meaning": "line"
+            },
+            {
+              "kanji": "面",
+              "hiragana": "めん",
+              "meaning": "surface; face; area"
+            },
+            {
+              "kanji": "普",
+              "hiragana": "ふ",
+              "meaning": "ordinary; common"
+            },
+            {
+              "kanji": "各",
+              "hiragana": "かく",
+              "meaning": "each; every"
+            },
+            {
+              "kanji": "次",
+              "hiragana": "じ・つぎ",
+              "meaning": "next; following"
+            },
+            {
+              "kanji": "快",
+              "hiragana": "かい",
+              "meaning": "pleasant; comfortable; rapid"
+            },
+            {
+              "kanji": "速",
+              "hiragana": "そく・はやい",
+              "meaning": "speed; fast"
+            },
+            {
+              "kanji": "過",
+              "hiragana": "か・すぎる",
+              "meaning": "pass; past; exceed"
+            },
+            {
+              "kanji": "鉄",
+              "hiragana": "てつ",
+              "meaning": "iron; steel"
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "kanjis": [
+            {
+              "kanji": "指",
+              "hiragana": "し・ゆび",
+              "meaning": "finger; point; specify"
+            },
+            {
+              "kanji": "定",
+              "hiragana": "てい",
+              "meaning": "set; decide; stable"
+            },
+            {
+              "kanji": "席",
+              "hiragana": "せき",
+              "meaning": "seat"
+            },
+            {
+              "kanji": "由",
+              "hiragana": "ゆう",
+              "meaning": "reason; cause; freedom"
+            },
+            {
+              "kanji": "番",
+              "hiragana": "ばん",
+              "meaning": "number; turn"
+            },
+            {
+              "kanji": "窓",
+              "hiragana": "まど",
+              "meaning": "window"
+            },
+            {
+              "kanji": "側",
+              "hiragana": "がわ・かわ",
+              "meaning": "side"
+            },
+            {
+              "kanji": "路",
+              "hiragana": "ろ",
+              "meaning": "road; route"
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "kanjis": [
+            {
+              "kanji": "停",
+              "hiragana": "てい",
+              "meaning": "stop; station"
+            },
+            {
+              "kanji": "整",
+              "hiragana": "せい",
+              "meaning": "arrange; tidy"
+            },
+            {
+              "kanji": "券",
+              "hiragana": "けん",
+              "meaning": "ticket; coupon"
+            },
+            {
+              "kanji": "現",
+              "hiragana": "げん・あらわれる",
+              "meaning": "present; appear; cash"
+            },
+            {
+              "kanji": "両",
+              "hiragana": "りょう",
+              "meaning": "both"
+            },
+            {
+              "kanji": "替",
+              "hiragana": "かえる・かわる",
+              "meaning": "exchange; change"
+            },
+            {
+              "kanji": "優",
+              "hiragana": "ゆう・やさしい",
+              "meaning": "kind; gentle; superior"
+            },
+            {
+              "kanji": "座",
+              "hiragana": "ざ・すわる",
+              "meaning": "seat; sit"
+            },
+            {
+              "kanji": "降",
+              "hiragana": "こう・おりる・ふる",
+              "meaning": "get off; fall"
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "kanjis": [
+            {
+              "kanji": "未",
+              "hiragana": "み",
+              "meaning": "not yet; future; undecided"
+            },
+            {
+              "kanji": "末",
+              "hiragana": "まつ",
+              "meaning": "end; final; weekend"
+            },
+            {
+              "kanji": "若",
+              "hiragana": "わかい",
+              "meaning": "young"
+            },
+            {
+              "kanji": "晩",
+              "hiragana": "ばん",
+              "meaning": "evening; night"
+            },
+            {
+              "kanji": "島",
+              "hiragana": "とう・しま",
+              "meaning": "island"
+            },
+            {
+              "kanji": "皿",
+              "hiragana": "さら",
+              "meaning": "plate; dish"
+            },
+            {
+              "kanji": "血",
+              "hiragana": "けつ・ち",
+              "meaning": "blood"
+            },
+            {
+              "kanji": "助",
+              "hiragana": "じょ・たすける",
+              "meaning": "help; rescue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "days": [
+        {
+          "day": 1,
+          "kanjis": [
+            {
+              "kanji": "準",
+              "hiragana": "じゅん",
+              "meaning": "preparation; standard"
+            },
+            {
+              "kanji": "備",
+              "hiragana": "び・そなえる",
+              "meaning": "prepare; provide"
+            },
+            {
+              "kanji": "営",
+              "hiragana": "えい",
+              "meaning": "business; operate"
+            },
+            {
+              "kanji": "閉",
+              "hiragana": "へい・しまる・しめる",
+              "meaning": "close; shut"
+            },
+            {
+              "kanji": "案",
+              "hiragana": "あん",
+              "meaning": "plan; proposal; information"
+            },
+            {
+              "kanji": "内",
+              "hiragana": "ない・うち",
+              "meaning": "inside; within"
+            },
+            {
+              "kanji": "予",
+              "hiragana": "よ",
+              "meaning": "beforehand; schedule; forecast"
+            },
+            {
+              "kanji": "約",
+              "hiragana": "やく",
+              "meaning": "promise; appointment; reservation"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "kanjis": [
+            {
+              "kanji": "煙",
+              "hiragana": "えん・けむり",
+              "meaning": "smoke"
+            },
+            {
+              "kanji": "当",
+              "hiragana": "とう・あたる",
+              "meaning": "hit; apply; natural"
+            },
+            {
+              "kanji": "全",
+              "hiragana": "ぜん",
+              "meaning": "all; whole; entire"
+            },
+            {
+              "kanji": "客",
+              "hiragana": "きゃく",
+              "meaning": "customer; guest"
+            },
+            {
+              "kanji": "様",
+              "hiragana": "よう・さま",
+              "meaning": "appearance; manner; honorific"
+            },
+            {
+              "kanji": "解",
+              "hiragana": "かい",
+              "meaning": "understand; explain; solve"
+            },
+            {
+              "kanji": "協",
+              "hiragana": "きょう",
+              "meaning": "cooperation"
+            },
+            {
+              "kanji": "願",
+              "hiragana": "ねがう",
+              "meaning": "wish; request"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "kanjis": [
+            {
+              "kanji": "観",
+              "hiragana": "かん",
+              "meaning": "sightseeing; view"
+            },
+            {
+              "kanji": "園",
+              "hiragana": "えん",
+              "meaning": "garden; park"
+            },
+            {
+              "kanji": "港",
+              "hiragana": "こう・みなと",
+              "meaning": "port; harbor"
+            },
+            {
+              "kanji": "遊",
+              "hiragana": "ゆう・あそぶ",
+              "meaning": "play; amusement"
+            },
+            {
+              "kanji": "美",
+              "hiragana": "び・うつくしい",
+              "meaning": "beauty; beautiful"
+            },
+            {
+              "kanji": "術",
+              "hiragana": "じゅつ",
+              "meaning": "art; technique; skill"
+            },
+            {
+              "kanji": "神",
+              "hiragana": "しん・じん・かみ",
+              "meaning": "god; deity; shrine"
+            },
+            {
+              "kanji": "寺",
+              "hiragana": "じ・てら",
+              "meaning": "temple"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "kanjis": [
+            {
+              "kanji": "役",
+              "hiragana": "やく",
+              "meaning": "role; duty; useful"
+            },
+            {
+              "kanji": "郵",
+              "hiragana": "ゆう",
+              "meaning": "mail; postal"
+            },
+            {
+              "kanji": "局",
+              "hiragana": "きょく",
+              "meaning": "office; bureau"
+            },
+            {
+              "kanji": "交",
+              "hiragana": "こう",
+              "meaning": "exchange; intersect"
+            },
+            {
+              "kanji": "差",
+              "hiragana": "さ・さす",
+              "meaning": "difference; hand in"
+            },
+            {
+              "kanji": "点",
+              "hiragana": "てん",
+              "meaning": "point; score"
+            },
+            {
+              "kanji": "橋",
+              "hiragana": "きょう・はし",
+              "meaning": "bridge"
+            },
+            {
+              "kanji": "公",
+              "hiragana": "こう",
+              "meaning": "public; official"
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "kanjis": [
+            {
+              "kanji": "受",
+              "hiragana": "じゅ・うける",
+              "meaning": "receive; accept"
+            },
+            {
+              "kanji": "付",
+              "hiragana": "つける・つく",
+              "meaning": "attach; put on"
+            },
+            {
+              "kanji": "科",
+              "hiragana": "か",
+              "meaning": "department; subject; science"
+            },
+            {
+              "kanji": "鼻",
+              "hiragana": "はな",
+              "meaning": "nose"
+            },
+            {
+              "kanji": "婦",
+              "hiragana": "ふ",
+              "meaning": "woman; wife"
+            },
+            {
+              "kanji": "形",
+              "hiragana": "けい・ぎょう・かたち",
+              "meaning": "form; shape"
+            },
+            {
+              "kanji": "骨",
+              "hiragana": "こつ・ほね",
+              "meaning": "bone"
+            },
+            {
+              "kanji": "折",
+              "hiragana": "せつ・おる・おれる",
+              "meaning": "break; fold"
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "kanjis": [
+            {
+              "kanji": "困",
+              "hiragana": "こまる",
+              "meaning": "be in trouble"
+            },
+            {
+              "kanji": "消",
+              "hiragana": "しょう・きえる・けす",
+              "meaning": "extinguish; disappear"
+            },
+            {
+              "kanji": "防",
+              "hiragana": "ぼう・ふせぐ",
+              "meaning": "prevent; defend"
+            },
+            {
+              "kanji": "救",
+              "hiragana": "きゅう・すくう",
+              "meaning": "save; rescue"
+            },
+            {
+              "kanji": "警",
+              "hiragana": "けい",
+              "meaning": "police; warning; alert"
+            },
+            {
+              "kanji": "察",
+              "hiragana": "さつ",
+              "meaning": "police; inspect"
+            },
+            {
+              "kanji": "故",
+              "hiragana": "こ",
+              "meaning": "accident; failure"
+            },
+            {
+              "kanji": "伝",
+              "hiragana": "でん・つたえる",
+              "meaning": "convey; communicate"
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "kanjis": [
+            {
+              "kanji": "黄",
+              "hiragana": "き",
+              "meaning": "yellow"
+            },
+            {
+              "kanji": "絵",
+              "hiragana": "かい・え",
+              "meaning": "picture; painting"
+            },
+            {
+              "kanji": "組",
+              "hiragana": "くみ・くむ",
+              "meaning": "pair; group; assemble"
+            },
+            {
+              "kanji": "束",
+              "hiragana": "そく・たば",
+              "meaning": "bundle; bunch"
+            },
+            {
+              "kanji": "授",
+              "hiragana": "じゅ",
+              "meaning": "teach; give"
+            },
+            {
+              "kanji": "渡",
+              "hiragana": "わたる・わたす",
+              "meaning": "cross over; hand over"
+            },
+            {
+              "kanji": "昔",
+              "hiragana": "むかし",
+              "meaning": "long ago; the past"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "days": [
+        {
+          "day": 1,
+          "kanjis": [
+            {
+              "kanji": "要",
+              "hiragana": "よう・いる",
+              "meaning": "need; necessary; important"
+            },
+            {
+              "kanji": "冷",
+              "hiragana": "れい・つめたい・ひやす・ひえる・さめる・さます",
+              "meaning": "cold; cool"
+            },
+            {
+              "kanji": "蔵",
+              "hiragana": "ぞう",
+              "meaning": "storehouse; storage"
+            },
+            {
+              "kanji": "凍",
+              "hiragana": "とう・こおる",
+              "meaning": "freeze"
+            },
+            {
+              "kanji": "庫",
+              "hiragana": "こ",
+              "meaning": "storehouse; garage"
+            },
+            {
+              "kanji": "召",
+              "hiragana": "めす",
+              "meaning": "eat; call (honorific)"
+            },
+            {
+              "kanji": "保",
+              "hiragana": "ほ",
+              "meaning": "preserve; keep"
+            },
+            {
+              "kanji": "存",
+              "hiragana": "ぞん",
+              "meaning": "exist; know"
+            },
+            {
+              "kanji": "必",
+              "hiragana": "ひつ・かならず",
+              "meaning": "necessary; certainly"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "kanjis": [
+            {
+              "kanji": "費",
+              "hiragana": "ひ",
+              "meaning": "cost; expense"
+            },
+            {
+              "kanji": "期",
+              "hiragana": "き",
+              "meaning": "period; term"
+            },
+            {
+              "kanji": "限",
+              "hiragana": "げん・かぎる",
+              "meaning": "limit; restrict"
+            },
+            {
+              "kanji": "製",
+              "hiragana": "せい",
+              "meaning": "made in; manufacture"
+            },
+            {
+              "kanji": "造",
+              "hiragana": "ぞう・つくる",
+              "meaning": "make; manufacture"
+            },
+            {
+              "kanji": "賞",
+              "hiragana": "しょう",
+              "meaning": "prize; award"
+            },
+            {
+              "kanji": "法",
+              "hiragana": "ほう",
+              "meaning": "method; way; law"
+            },
+            {
+              "kanji": "温",
+              "hiragana": "おん・あたたかい",
+              "meaning": "temperature; warm"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "kanjis": [
+            {
+              "kanji": "販",
+              "hiragana": "はん",
+              "meaning": "sell; sales"
+            },
+            {
+              "kanji": "機",
+              "hiragana": "き",
+              "meaning": "machine; opportunity"
+            },
+            {
+              "kanji": "増",
+              "hiragana": "ぞう・ふえる・ふやす",
+              "meaning": "increase; add"
+            },
+            {
+              "kanji": "減",
+              "hiragana": "げん・へる・へらす",
+              "meaning": "decrease; reduce"
+            },
+            {
+              "kanji": "量",
+              "hiragana": "りょう",
+              "meaning": "quantity; amount"
+            },
+            {
+              "kanji": "氷",
+              "hiragana": "こおり",
+              "meaning": "ice"
+            },
+            {
+              "kanji": "返",
+              "hiragana": "へん・かえす",
+              "meaning": "return; give back"
+            },
+            {
+              "kanji": "湯",
+              "hiragana": "ゆ",
+              "meaning": "hot water"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "kanjis": [
+            {
+              "kanji": "材",
+              "hiragana": "ざい",
+              "meaning": "material; ingredient"
+            },
+            {
+              "kanji": "卵",
+              "hiragana": "たまご",
+              "meaning": "egg"
+            },
+            {
+              "kanji": "乳",
+              "hiragana": "にゅう",
+              "meaning": "milk"
+            },
+            {
+              "kanji": "粉",
+              "hiragana": "こな",
+              "meaning": "powder; flour"
+            },
+            {
+              "kanji": "袋",
+              "hiragana": "ふくろ",
+              "meaning": "bag"
+            },
+            {
+              "kanji": "混",
+              "hiragana": "こん・まぜる",
+              "meaning": "mix; be mixed"
+            },
+            {
+              "kanji": "焼",
+              "hiragana": "やく・やける",
+              "meaning": "roast; grill; bake"
+            },
+            {
+              "kanji": "表",
+              "hiragana": "ひょう・おもて・あらわす",
+              "meaning": "surface; table; express"
+            },
+            {
+              "kanji": "裏",
+              "hiragana": "うら",
+              "meaning": "back; reverse"
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "kanjis": [
+            {
+              "kanji": "留",
+              "hiragana": "りゅう・とめる",
+              "meaning": "stay; keep; reserve"
+            },
+            {
+              "kanji": "守",
+              "hiragana": "しゅ・す・まもる",
+              "meaning": "protect; defend"
+            },
+            {
+              "kanji": "濃",
+              "hiragana": "こい",
+              "meaning": "concentrated; dark"
+            },
+            {
+              "kanji": "薄",
+              "hiragana": "うすい",
+              "meaning": "thin; light"
+            },
+            {
+              "kanji": "部",
+              "hiragana": "ぶ",
+              "meaning": "part; department"
+            },
+            {
+              "kanji": "数",
+              "hiragana": "すう・かず・かぞえる",
+              "meaning": "number; count"
+            },
+            {
+              "kanji": "件",
+              "hiragana": "けん",
+              "meaning": "matter; case; incident"
+            },
+            {
+              "kanji": "再",
+              "hiragana": "さい・さ",
+              "meaning": "again; re-"
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "kanjis": [
+            {
+              "kanji": "接",
+              "hiragana": "せつ",
+              "meaning": "connect; contact"
+            },
+            {
+              "kanji": "続",
+              "hiragana": "ぞく・つづく・つづける",
+              "meaning": "continue"
+            },
+            {
+              "kanji": "示",
+              "hiragana": "じ・しめす",
+              "meaning": "show; indicate"
+            },
+            {
+              "kanji": "戻",
+              "hiragana": "もどる・もどす",
+              "meaning": "return; put back"
+            },
+            {
+              "kanji": "完",
+              "hiragana": "かん",
+              "meaning": "complete; completion"
+            },
+            {
+              "kanji": "了",
+              "hiragana": "りょう",
+              "meaning": "finish; end"
+            },
+            {
+              "kanji": "登",
+              "hiragana": "とう・と・のぼる",
+              "meaning": "climb; register"
+            },
+            {
+              "kanji": "録",
+              "hiragana": "ろく",
+              "meaning": "record"
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "kanjis": [
+            {
+              "kanji": "育",
+              "hiragana": "いく・そだつ・そだてる",
+              "meaning": "raise; bring up; grow"
+            },
+            {
+              "kanji": "種",
+              "hiragana": "しゅ・たね",
+              "meaning": "type; kind; seed"
+            },
+            {
+              "kanji": "類",
+              "hiragana": "るい",
+              "meaning": "kind; class; category"
+            },
+            {
+              "kanji": "師",
+              "hiragana": "し",
+              "meaning": "teacher; master; specialist"
+            },
+            {
+              "kanji": "妻",
+              "hiragana": "さい・つま",
+              "meaning": "wife"
+            },
+            {
+              "kanji": "馬",
+              "hiragana": "ば・うま",
+              "meaning": "horse"
+            },
+            {
+              "kanji": "石",
+              "hiragana": "せき・いし",
+              "meaning": "stone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "days": [
+        {
+          "day": 1,
+          "kanjis": [
+            {
+              "kanji": "砂",
+              "hiragana": "さ・すな",
+              "meaning": "sand"
+            },
+            {
+              "kanji": "塩",
+              "hiragana": "えん・しお",
+              "meaning": "salt"
+            },
+            {
+              "kanji": "油",
+              "hiragana": "ゆ・あぶら",
+              "meaning": "oil"
+            },
+            {
+              "kanji": "緑",
+              "hiragana": "りょく・みどり",
+              "meaning": "green"
+            },
+            {
+              "kanji": "紅",
+              "hiragana": "こう・べに",
+              "meaning": "red; crimson"
+            },
+            {
+              "kanji": "冊",
+              "hiragana": "さつ",
+              "meaning": "counter for books"
+            },
+            {
+              "kanji": "個",
+              "hiragana": "こ",
+              "meaning": "counter for individual objects"
+            },
+            {
+              "kanji": "枚",
+              "hiragana": "まい",
+              "meaning": "counter for flat objects"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "kanjis": [
+            {
+              "kanji": "告",
+              "hiragana": "こく",
+              "meaning": "advertisement; announce"
+            },
+            {
+              "kanji": "利",
+              "hiragana": "り",
+              "meaning": "convenient; use; benefit"
+            },
+            {
+              "kanji": "割",
+              "hiragana": "わる・われる",
+              "meaning": "divide; ratio; discount"
+            },
+            {
+              "kanji": "倍",
+              "hiragana": "ばい",
+              "meaning": "times; double"
+            },
+            {
+              "kanji": "値",
+              "hiragana": "ね",
+              "meaning": "price; value"
+            },
+            {
+              "kanji": "商",
+              "hiragana": "しょう",
+              "meaning": "commerce; goods; shop"
+            },
+            {
+              "kanji": "支",
+              "hiragana": "し",
+              "meaning": "branch; support"
+            },
+            {
+              "kanji": "払",
+              "hiragana": "はらう",
+              "meaning": "pay"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "kanjis": [
+            {
+              "kanji": "米",
+              "hiragana": "べい・こめ",
+              "meaning": "rice; America"
+            },
+            {
+              "kanji": "級",
+              "hiragana": "きゅう",
+              "meaning": "grade; class; level"
+            },
+            {
+              "kanji": "残",
+              "hiragana": "ざん・のこる・のこす",
+              "meaning": "remain; leave behind"
+            },
+            {
+              "kanji": "型",
+              "hiragana": "かた",
+              "meaning": "type; model; form"
+            },
+            {
+              "kanji": "税",
+              "hiragana": "ぜい",
+              "meaning": "tax"
+            },
+            {
+              "kanji": "込",
+              "hiragana": "こむ",
+              "meaning": "crowd; be included"
+            },
+            {
+              "kanji": "価",
+              "hiragana": "か",
+              "meaning": "price; value"
+            },
+            {
+              "kanji": "格",
+              "hiragana": "かく",
+              "meaning": "grade; status; price"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "kanjis": [
+            {
+              "kanji": "申",
+              "hiragana": "しん・もうす",
+              "meaning": "apply; say (humble)"
+            },
+            {
+              "kanji": "記",
+              "hiragana": "き",
+              "meaning": "record; write"
+            },
+            {
+              "kanji": "例",
+              "hiragana": "れい・たとえる",
+              "meaning": "example"
+            },
+            {
+              "kanji": "齢",
+              "hiragana": "れい",
+              "meaning": "age"
+            },
+            {
+              "kanji": "歳",
+              "hiragana": "さい",
+              "meaning": "years old"
+            },
+            {
+              "kanji": "性",
+              "hiragana": "せい",
+              "meaning": "sex; gender; nature"
+            },
+            {
+              "kanji": "連",
+              "hiragana": "れん・つれる",
+              "meaning": "connect; take along"
+            },
+            {
+              "kanji": "絡",
+              "hiragana": "らく",
+              "meaning": "contact; connection"
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "kanjis": [
+            {
+              "kanji": "届",
+              "hiragana": "とどける・とどく",
+              "meaning": "deliver; arrive"
+            },
+            {
+              "kanji": "宅",
+              "hiragana": "たく",
+              "meaning": "home; residence"
+            },
+            {
+              "kanji": "配",
+              "hiragana": "はい・くばる",
+              "meaning": "deliver; distribute"
+            },
+            {
+              "kanji": "希",
+              "hiragana": "き",
+              "meaning": "hope"
+            },
+            {
+              "kanji": "望",
+              "hiragana": "ぼう・のぞむ",
+              "meaning": "hope; desire"
+            },
+            {
+              "kanji": "荷",
+              "hiragana": "か・に",
+              "meaning": "luggage; load"
+            },
+            {
+              "kanji": "換",
+              "hiragana": "かん・かえる",
+              "meaning": "exchange; replace"
+            },
+            {
+              "kanji": "額",
+              "hiragana": "がく",
+              "meaning": "amount; sum of money"
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "kanjis": [
+            {
+              "kanji": "在",
+              "hiragana": "ざい",
+              "meaning": "presence; be located"
+            },
+            {
+              "kanji": "取",
+              "hiragana": "とる",
+              "meaning": "take; receive"
+            },
+            {
+              "kanji": "預",
+              "hiragana": "あずける",
+              "meaning": "entrust; deposit"
+            },
+            {
+              "kanji": "衣",
+              "hiragana": "い",
+              "meaning": "clothing"
+            },
+            {
+              "kanji": "参",
+              "hiragana": "さん・まいる",
+              "meaning": "participate; go (humble)"
+            },
+            {
+              "kanji": "達",
+              "hiragana": "たつ・たち",
+              "meaning": "attain; plural suffix"
+            },
+            {
+              "kanji": "勤",
+              "hiragana": "きん・つとめる",
+              "meaning": "work; commute"
+            },
+            {
+              "kanji": "帯",
+              "hiragana": "たい・おび",
+              "meaning": "belt; band; time zone"
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "kanjis": [
+            {
+              "kanji": "細",
+              "hiragana": "ほそい・こまかい",
+              "meaning": "thin; fine; small"
+            },
+            {
+              "kanji": "戸",
+              "hiragana": "と",
+              "meaning": "door; household"
+            },
+            {
+              "kanji": "湖",
+              "hiragana": "こ・みずうみ",
+              "meaning": "lake"
+            },
+            {
+              "kanji": "船",
+              "hiragana": "せん・ふね・ふな",
+              "meaning": "boat; ship"
+            },
+            {
+              "kanji": "角",
+              "hiragana": "かく・かど",
+              "meaning": "angle; corner"
+            },
+            {
+              "kanji": "夫",
+              "hiragana": "ふ・ふう・おっと",
+              "meaning": "husband"
+            },
+            {
+              "kanji": "苦",
+              "hiragana": "く・にがい・くるしい",
+              "meaning": "bitter; difficult; painful"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "days": [
+        {
+          "day": 1,
+          "kanjis": [
+            {
+              "kanji": "礼",
+              "hiragana": "れい",
+              "meaning": "thanks; gratitude; gift"
+            },
+            {
+              "kanji": "伺",
+              "hiragana": "うかがう",
+              "meaning": "visit; ask (humble)"
+            },
+            {
+              "kanji": "遅",
+              "hiragana": "ち・おそい・おくれる",
+              "meaning": "late; slow"
+            },
+            {
+              "kanji": "失",
+              "hiragana": "しつ",
+              "meaning": "lose; failure; mistake"
+            },
+            {
+              "kanji": "汗",
+              "hiragana": "あせ",
+              "meaning": "sweat"
+            },
+            {
+              "kanji": "念",
+              "hiragana": "ねん",
+              "meaning": "feeling; thought; regret"
+            },
+            {
+              "kanji": "涙",
+              "hiragana": "なみだ",
+              "meaning": "tear; tears"
+            },
+            {
+              "kanji": "笑",
+              "hiragana": "わらう・えむ",
+              "meaning": "laugh; smile"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "kanjis": [
+            {
+              "kanji": "調",
+              "hiragana": "ちょう・しらべる",
+              "meaning": "condition; investigate; adjust"
+            },
+            {
+              "kanji": "査",
+              "hiragana": "さ",
+              "meaning": "investigation; inspection"
+            },
+            {
+              "kanji": "移",
+              "hiragana": "い・うつる・うつす",
+              "meaning": "move; transfer"
+            },
+            {
+              "kanji": "難",
+              "hiragana": "なん・むずかしい",
+              "meaning": "difficult; hardship"
+            },
+            {
+              "kanji": "簡",
+              "hiragana": "かん",
+              "meaning": "simple; easy"
+            },
+            {
+              "kanji": "単",
+              "hiragana": "たん",
+              "meaning": "single; unit"
+            },
+            {
+              "kanji": "感",
+              "hiragana": "かん",
+              "meaning": "feel; sensation"
+            },
+            {
+              "kanji": "想",
+              "hiragana": "そう",
+              "meaning": "thought; idea; impression"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "kanjis": [
+            {
+              "kanji": "練",
+              "hiragana": "れん",
+              "meaning": "practice; train"
+            },
+            {
+              "kanji": "最",
+              "hiragana": "さい・もっとも",
+              "meaning": "most; best; utmost"
+            },
+            {
+              "kanji": "適",
+              "hiragana": "てき",
+              "meaning": "suitable; appropriate"
+            },
+            {
+              "kanji": "選",
+              "hiragana": "せん・えらぶ",
+              "meaning": "choose; select"
+            },
+            {
+              "kanji": "違",
+              "hiragana": "ちがう・ちがえる",
+              "meaning": "differ; be wrong"
+            },
+            {
+              "kanji": "直",
+              "hiragana": "ちょく・なおる・なおす",
+              "meaning": "straight; fix; repair"
+            },
+            {
+              "kanji": "復",
+              "hiragana": "ふく",
+              "meaning": "review; restore; recover"
+            },
+            {
+              "kanji": "辞",
+              "hiragana": "じ・やめる",
+              "meaning": "dictionary; resign"
+            },
+            {
+              "kanji": "宿",
+              "hiragana": "しゅく・やど",
+              "meaning": "homework; lodging; inn"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "kanjis": [
+            {
+              "kanji": "昨",
+              "hiragana": "さく",
+              "meaning": "yesterday; last"
+            },
+            {
+              "kanji": "君",
+              "hiragana": "くん・きみ",
+              "meaning": "you; honorific for a boy/man"
+            },
+            {
+              "kanji": "結",
+              "hiragana": "けつ・むすぶ",
+              "meaning": "tie; connect; conclude"
+            },
+            {
+              "kanji": "婚",
+              "hiragana": "こん",
+              "meaning": "marriage"
+            },
+            {
+              "kanji": "祝",
+              "hiragana": "しゅく・いわう",
+              "meaning": "celebrate; congratulate"
+            },
+            {
+              "kanji": "曲",
+              "hiragana": "きょく・まがる・まげる",
+              "meaning": "song; bend; curve"
+            },
+            {
+              "kanji": "奥",
+              "hiragana": "おく",
+              "meaning": "inner part; another person's wife"
+            },
+            {
+              "kanji": "寝",
+              "hiragana": "ねる",
+              "meaning": "sleep; lie down"
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "kanjis": [
+            {
+              "kanji": "痛",
+              "hiragana": "つう・いたい",
+              "meaning": "pain; painful"
+            },
+            {
+              "kanji": "熱",
+              "hiragana": "ねつ・あつい",
+              "meaning": "heat; fever; hot"
+            },
+            {
+              "kanji": "虫",
+              "hiragana": "むし",
+              "meaning": "insect; bug"
+            },
+            {
+              "kanji": "歯",
+              "hiragana": "し・は",
+              "meaning": "tooth; teeth"
+            },
+            {
+              "kanji": "治",
+              "hiragana": "じ・なおる・なおす",
+              "meaning": "cure; heal; govern"
+            },
+            {
+              "kanji": "汚",
+              "hiragana": "きたない・よごれる",
+              "meaning": "dirty; become dirty"
+            },
+            {
+              "kanji": "並",
+              "hiragana": "ならぶ・ならべる",
+              "meaning": "line up; arrange"
+            },
+            {
+              "kanji": "他",
+              "hiragana": "た・ほか",
+              "meaning": "other; another"
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "kanjis": [
+            {
+              "kanji": "身",
+              "hiragana": "しん・み",
+              "meaning": "body; oneself; status"
+            },
+            {
+              "kanji": "酒",
+              "hiragana": "しゅ・さけ・さか",
+              "meaning": "alcohol; sake"
+            },
+            {
+              "kanji": "吸",
+              "hiragana": "きゅう・すう",
+              "meaning": "breathe; inhale; suck"
+            },
+            {
+              "kanji": "欲",
+              "hiragana": "よく・ほしい",
+              "meaning": "want; desire"
+            },
+            {
+              "kanji": "眠",
+              "hiragana": "みん・ねむい・ねむる",
+              "meaning": "sleep; sleepy"
+            },
+            {
+              "kanji": "疲",
+              "hiragana": "つかれる",
+              "meaning": "get tired; exhaust"
+            },
+            {
+              "kanji": "息",
+              "hiragana": "いき",
+              "meaning": "breath"
+            },
+            {
+              "kanji": "呼",
+              "hiragana": "こ・よぶ",
+              "meaning": "call; summon"
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "kanjis": [
+            {
+              "kanji": "厚",
+              "hiragana": "あつい",
+              "meaning": "thick"
+            },
+            {
+              "kanji": "泣",
+              "hiragana": "なく",
+              "meaning": "cry; weep"
+            },
+            {
+              "kanji": "鳴",
+              "hiragana": "なく・なる",
+              "meaning": "chirp; ring; sound"
+            },
+            {
+              "kanji": "初",
+              "hiragana": "しょ・はじめ・はじめて",
+              "meaning": "first; beginning"
+            },
+            {
+              "kanji": "泊",
+              "hiragana": "はく・とまる・とめる",
+              "meaning": "stay overnight; lodge"
+            },
+            {
+              "kanji": "葉",
+              "hiragana": "よう・は",
+              "meaning": "leaf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "days": [
+        {
+          "day": 1,
+          "kanjis": [
+            {
+              "kanji": "報",
+              "hiragana": "ほう",
+              "meaning": "report; forecast"
+            },
+            {
+              "kanji": "晴",
+              "hiragana": "はれる",
+              "meaning": "be sunny; clear weather"
+            },
+            {
+              "kanji": "雲",
+              "hiragana": "くも",
+              "meaning": "cloud"
+            },
+            {
+              "kanji": "吹",
+              "hiragana": "ふく",
+              "meaning": "blow"
+            },
+            {
+              "kanji": "暖",
+              "hiragana": "だん・あたたかい",
+              "meaning": "warm; warmth"
+            },
+            {
+              "kanji": "雪",
+              "hiragana": "ゆき",
+              "meaning": "snow"
+            },
+            {
+              "kanji": "震",
+              "hiragana": "しん",
+              "meaning": "earthquake; shake"
+            },
+            {
+              "kanji": "波",
+              "hiragana": "は・なみ",
+              "meaning": "wave"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "kanjis": [
+            {
+              "kanji": "求",
+              "hiragana": "きゅう・もとめる",
+              "meaning": "demand; request; seek"
+            },
+            {
+              "kanji": "募",
+              "hiragana": "ぼ",
+              "meaning": "recruit; collect applications"
+            },
+            {
+              "kanji": "職",
+              "hiragana": "しょく",
+              "meaning": "job; occupation"
+            },
+            {
+              "kanji": "容",
+              "hiragana": "よう",
+              "meaning": "contents; appearance"
+            },
+            {
+              "kanji": "技",
+              "hiragana": "ぎ",
+              "meaning": "skill; technique"
+            },
+            {
+              "kanji": "般",
+              "hiragana": "はん",
+              "meaning": "general; ordinary"
+            },
+            {
+              "kanji": "務",
+              "hiragana": "む",
+              "meaning": "duties; work"
+            },
+            {
+              "kanji": "課",
+              "hiragana": "か",
+              "meaning": "section; lesson; department"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "kanjis": [
+            {
+              "kanji": "球",
+              "hiragana": "きゅう",
+              "meaning": "ball; sphere"
+            },
+            {
+              "kanji": "決",
+              "hiragana": "けつ・きめる・きまる",
+              "meaning": "decide; be decided"
+            },
+            {
+              "kanji": "勝",
+              "hiragana": "しょう・かつ",
+              "meaning": "win; victory"
+            },
+            {
+              "kanji": "対",
+              "hiragana": "たい",
+              "meaning": "opposite; versus"
+            },
+            {
+              "kanji": "流",
+              "hiragana": "ながれる・ながす",
+              "meaning": "flow; current"
+            },
+            {
+              "kanji": "負",
+              "hiragana": "ふ・まける",
+              "meaning": "lose; be defeated"
+            },
+            {
+              "kanji": "投",
+              "hiragana": "とう・なげる",
+              "meaning": "throw; pitch"
+            },
+            {
+              "kanji": "果",
+              "hiragana": "か",
+              "meaning": "result; fruit"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "kanjis": [
+            {
+              "kanji": "戦",
+              "hiragana": "せん・たたかう",
+              "meaning": "war; fight"
+            },
+            {
+              "kanji": "経",
+              "hiragana": "けい・けいけん",
+              "meaning": "experience; manage"
+            },
+            {
+              "kanji": "済",
+              "hiragana": "さい・すむ",
+              "meaning": "finish; settle; economy"
+            },
+            {
+              "kanji": "成",
+              "hiragana": "せい",
+              "meaning": "become; growth; completion"
+            },
+            {
+              "kanji": "貿",
+              "hiragana": "ぼう",
+              "meaning": "trade"
+            },
+            {
+              "kanji": "易",
+              "hiragana": "えき・やさしい",
+              "meaning": "trade; easy; simple"
+            },
+            {
+              "kanji": "輸",
+              "hiragana": "ゆ",
+              "meaning": "transport; export; import"
+            },
+            {
+              "kanji": "相",
+              "hiragana": "そう・しょう・あい",
+              "meaning": "mutual; consultation; partner"
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "kanjis": [
+            {
+              "kanji": "化",
+              "hiragana": "か",
+              "meaning": "change; transform; -ize"
+            },
+            {
+              "kanji": "比",
+              "hiragana": "くらべる",
+              "meaning": "compare"
+            },
+            {
+              "kanji": "原",
+              "hiragana": "げん",
+              "meaning": "origin; source; raw material"
+            },
+            {
+              "kanji": "因",
+              "hiragana": "いん",
+              "meaning": "cause; factor"
+            },
+            {
+              "kanji": "際",
+              "hiragana": "さい",
+              "meaning": "occasion; international"
+            },
+            {
+              "kanji": "議",
+              "hiragana": "ぎ",
+              "meaning": "discussion; meeting"
+            },
+            {
+              "kanji": "活",
+              "hiragana": "かつ",
+              "meaning": "life; activity"
+            },
+            {
+              "kanji": "変",
+              "hiragana": "へん・かわる・かえる",
+              "meaning": "change; become different"
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "kanjis": [
+            {
+              "kanji": "政",
+              "hiragana": "せい",
+              "meaning": "politics; government"
+            },
+            {
+              "kanji": "府",
+              "hiragana": "ふ",
+              "meaning": "government; administrative office"
+            },
+            {
+              "kanji": "改",
+              "hiragana": "かい・あらためる",
+              "meaning": "reform; revise; change"
+            },
+            {
+              "kanji": "否",
+              "hiragana": "ひ",
+              "meaning": "no; denial"
+            },
+            {
+              "kanji": "的",
+              "hiragana": "てき",
+              "meaning": "target; purpose; -like"
+            },
+            {
+              "kanji": "実",
+              "hiragana": "じつ",
+              "meaning": "real; actual; truth"
+            },
+            {
+              "kanji": "欠",
+              "hiragana": "けつ・かける",
+              "meaning": "lack; shortage; defect"
+            },
+            {
+              "kanji": "専",
+              "hiragana": "せん",
+              "meaning": "specialty; exclusive"
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "kanjis": [
+            {
+              "kanji": "亡",
+              "hiragana": "ぼう・なくなる",
+              "meaning": "death; die"
+            },
+            {
+              "kanji": "忙",
+              "hiragana": "ぼう・いそがしい",
+              "meaning": "busy"
+            },
+            {
+              "kanji": "忘",
+              "hiragana": "ぼう・わすれる",
+              "meaning": "forget"
+            },
+            {
+              "kanji": "祭",
+              "hiragana": "さい・まつり",
+              "meaning": "festival; hold a festival"
+            },
+            {
+              "kanji": "労",
+              "hiragana": "ろう",
+              "meaning": "labor; hardship"
+            },
+            {
+              "kanji": "加",
+              "hiragana": "か・くわえる",
+              "meaning": "add; increase"
+            },
+            {
+              "kanji": "情",
+              "hiragana": "じょう",
+              "meaning": "feeling; information; circumstances"
+            },
+            {
+              "kanji": "反",
+              "hiragana": "はん",
+              "meaning": "opposite; against"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
