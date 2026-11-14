@@ -20,6 +20,58 @@ target_link_options(${PROJECT_NAME} PRIVATE
 set_target_properties(${PROJECT_NAME} PROPERTIES
     VS_DEBUGGER_WORKING_DIRECTORY "${CMAKE_BINARY_DIR}/${PROJECT_NAME}/$<CONFIG>-$<PLATFORM_ID>"
 )
+
+set(XML_EMBED_SCRIPT
+    "${CMAKE_SOURCE_DIR}/emb_xml.py"
+)
+
+set(XML_SOURCE
+    "${CMAKE_SOURCE_DIR}/assets/window.xml"
+)
+
+set(XML_GENERATED_DIR
+    "${CMAKE_CURRENT_BINARY_DIR}/generated/Release"
+)
+
+set(XML_GENERATED_HEADER
+    "${XML_GENERATED_DIR}/window_embedded.h"
+)
+
+add_custom_command(
+    OUTPUT "${XML_GENERATED_HEADER}"
+
+    COMMAND "${CMAKE_COMMAND}" -E make_directory
+            "${XML_GENERATED_DIR}"
+
+    COMMAND "${Python3_EXECUTABLE}"
+            "${XML_EMBED_SCRIPT}"
+            --source "${XML_SOURCE}"
+            --output "${XML_GENERATED_HEADER}"
+
+    MAIN_DEPENDENCY "${XML_SOURCE}"
+
+    DEPENDS
+        "${XML_EMBED_SCRIPT}"
+
+    COMMENT "Embedding window.xml into C header..."
+
+    VERBATIM
+)
+
+# Only add the generated header to Release builds.
+target_sources(${PROJECT_NAME} PRIVATE
+    "$<$<CONFIG:Release>:${XML_GENERATED_HEADER}>"
+)
+
+# Make the generated header discoverable by #include.
+target_include_directories(${PROJECT_NAME} PRIVATE
+    "$<$<CONFIG:Release>:${XML_GENERATED_DIR}>"
+)
+
+# Custom compile definition for the embedded XML build.
+target_compile_definitions(${PROJECT_NAME} PRIVATE
+    "$<$<CONFIG:Release>:APP_EMBED_XML>"
+)
 # 3. Include directories
 # We use PARENT_SCOPE or absolute paths to find the Dependencies folder
 # NOTE: This is include path, you put the directory of header here when you want the compiler to automatically find the header files, not necessary for now
