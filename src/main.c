@@ -118,8 +118,23 @@ static void next_kanji(
 
     size_t count = cvector_size(day->kanjis);
 
-    if (selected_kanji_index + 1 >= count)
-        return;
+    if (selected_kanji_index + 1 >= count) {//final kanji
+        if (selected_day_index + 1 >= cvector_size(week->days)) {//final day
+            if (selected_week_index + 1 >= cvector_size(week)) {//final week
+                return;
+            }
+            else {
+                selected_week_index++;
+                selected_day_index = 0;
+                selected_kanji_index = 0;
+            }
+        }
+        else {
+			selected_day_index++;
+            selected_kanji_index = 0;
+        }
+        
+    }
 
     selected_kanji_index++;
 
@@ -142,14 +157,36 @@ static void previous_kanji(
     (void)action;
     (void)user_data;
 
-    if (selected_kanji_index == 0)
-        return;
+    if (selected_kanji_index == 0) {
 
-    selected_kanji_index--;
+        // First kanji of the first day
+        if (selected_day_index == 0) {
+
+            // First kanji of the first week
+            if (selected_week_index == 0) {
+                return;
+            }
+
+            // Move to previous week
+            selected_week_index--;
+
+            selected_day_index =
+                cvector_size(root.weeks[selected_week_index].days) - 1;
+        }
+        else {
+            // Move to previous day
+            selected_day_index--;
+        }
+
+        // Select the last kanji of the previous day
+        selected_kanji_index = 0;
+    }
+    else {
+        selected_kanji_index--;
+    }
 
     refresh_kanji(R_INVALID_ID, NULL, NULL);
 
-    // Return to the question side.
     Rid switcher = Rwidget_find(windowID, "button_switcher");
     Rid meaning = Rwidget_find(windowID, "meaning");
 
@@ -267,6 +304,18 @@ static void refresh_kanji(
     );
 
     Rlabel_set_text(meaning_widget, answer_text);
+
+
+    Rid week_day_label = Rwidget_find(windowID, "week_day");
+    char text[40];
+    snprintf(
+        text,
+        40,
+        "Week %zu Day %zu",
+        selected_week_index + 1,
+        selected_day_index + 1
+    );
+    Rlabel_set_text(week_day_label, text);
 }
 
 static void toggle_chapter_menu(
@@ -277,6 +326,7 @@ static void toggle_chapter_menu(
     (void)sender;
     (void)action;
     (void)user_data;
+
 
     Rid list = Rwidget_find(windowID, "chapter_list");
 
