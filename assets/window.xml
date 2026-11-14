@@ -4,17 +4,17 @@
 		<HBox>
 			<Button Text="☰ Chapters" Slot.Padding="10" MinWidth="200" OnClicked="chapter_menu.toggle" Slot.HAlign="Left" Slot.VAlign="Top" Material="FrostedGlass"/>
 			<Spacer Width="16" Height="16" Slot.Fill="2"/>
-			<Label Text="WEEK, DAY" Width="100" Slot.Padding="10" MinWidth="200" Name="week_day" TextAlign="Center" TextSize="17" Slot.VAlign="Top" Material="FrostedGlass"/>
+			<Label Text="WEEK, DAY" Width="100" Slot.Padding="10" MinWidth="200" Name="week_day" TextAlign="Center" Slot.VAlign="Top" Material="FrostedGlass" TextSize="25"/>
 		</HBox>
-		<Overlay Slot.Fill="2">
-			<Grid Spacing="0" Columns="1" Rows="2" Slot.Fill="2">
-				<Label Text="Kanji" Slot.Row="0" TextSize="100" Name="kanji" TextAlign="Center" Slot.VAlign="Center" Visibility="Visible" Slot.Padding="0,50" Wrap="true" Slot.HAlign="Center"/>
-				<VBox Slot.Row="1" Height="500" Spacing="20">
+		<Overlay>
+			<Grid Spacing="0" Columns="1" Rows="2" >
+				<Label Text="Kanji" Slot.Row="0" TextSize="100" Name="kanji" TextAlign="Center" Slot.VAlign="Center" Visibility="Visible" Slot.Padding="0,50" Wrap="true" Slot.HAlign="Center" Material="Glass"/>
+				<VBox Slot.Row="1" Height="700" Spacing="20">
 					<Border Name="meaning_container" Material="Glass" Slot.VAlign="Center" Slot.HAlign="Center" Padding="10">
-						<Label Text="Lorem ipsum, or lher design elements." Slot.Row="1" Wrap="true" TextSize="20" Name="meaning" Visibility="Visible" TextAlign="Center" Slot.VAlign="Center" MaxWidth="700" Slot.HAlign="Center" Slot.Padding="5,10"/>
+						<Label Text="Lorem ipsum, or lher design elements." Slot.Row="1" Wrap="true" TextSize="30" Name="meaning" Visibility="Visible" TextAlign="Center" Slot.VAlign="Center" MaxWidth="700" Slot.HAlign="Center" Slot.Padding="5,10"/>
 					</Border>
 					<Border Name="example_container" Padding="10" Material="Glass" Slot.HAlign="Center" Slot.VAlign="Center">
-						<Label Text="example" TextAlign="Left" Name="example" Visibility="Visible" TextSize="20" Slot.HAlign="Center"/>
+						<Label Text="example" TextAlign="Left" Name="example" Visibility="Visible" TextSize="30" Slot.HAlign="Center"/>
 					</Border>
 				</VBox>
 			</Grid>

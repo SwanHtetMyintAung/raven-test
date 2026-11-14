@@ -307,7 +307,7 @@ static void refresh_kanji(
     int offset = snprintf(
         meaning_text,
         sizeof(meaning_text),
-        "%s, %s\n",
+        "%s, %s",
         kanji->hiragana,
         kanji->meaning
     );
@@ -323,15 +323,30 @@ static void refresh_kanji(
         if (offset >= sizeof(example_text))
             break;
 
-        int written = snprintf(
-            example_text + example_offset,
-            sizeof(example_text) - example_offset,
-            "\n%zu. %s: %s = %s",
-            i + 1,
-            example->word,
-            example->hiragana,
-            example->meaning
-        );
+        int written;
+        
+        if (i == example_count - 1) {
+            written = snprintf(
+                example_text + example_offset,
+                sizeof(example_text) - example_offset,
+                "%zu. %s: %s = %s",
+                i + 1,
+                example->word,
+                example->hiragana,
+                example->meaning
+            );
+        }
+        else {
+            written = snprintf(
+                example_text + example_offset,
+                sizeof(example_text) - example_offset,
+                "%zu. %s: %s = %s\n",
+                i + 1,
+                example->word,
+                example->hiragana,
+                example->meaning
+            );
+        }
 
         if (written < 0)
             break;
