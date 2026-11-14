@@ -10,6 +10,7 @@
 typedef struct
 {
     const char *word;
+    const char *hiragana;
     const char *meaning;
 } Example;
 
@@ -146,10 +147,13 @@ static bool parse_examples(
         example.word =
             json_get_string(item, "word");
 
+        example.hiragana =
+            json_get_string(item, "hira");
+
         example.meaning =
             json_get_string(item, "meaning");
 
-        if (!example.word || !example.meaning)
+        if (!example.word || !example.hiragana || !example.meaning)
             return false;
 
         cvector_push_back(kanji->examples, example);

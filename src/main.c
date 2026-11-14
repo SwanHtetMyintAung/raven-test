@@ -104,6 +104,8 @@ static int on_window_event(
     return R_FALSE;
 }
 
+
+
 static void next_kanji(
     Rid sender,
     const char* action,
@@ -118,25 +120,25 @@ static void next_kanji(
 
     size_t count = cvector_size(day->kanjis);
 
-    if (selected_kanji_index + 1 >= count) {//final kanji
-        if (selected_day_index + 1 >= cvector_size(week->days)) {//final day
-            if (selected_week_index + 1 >= cvector_size(week)) {//final week
-                return;
-            }
-            else {
-                selected_week_index++;
-                selected_day_index = 0;
-                selected_kanji_index = 0;
-            }
+    if (selected_kanji_index + 1 < count) {
+        selected_kanji_index++;
+    }
+    else {
+        // Move to the next day.
+        if (selected_day_index + 1 < cvector_size(week->days)) {
+            selected_day_index++;
         }
         else {
-			selected_day_index++;
-            selected_kanji_index = 0;
-        }
-        
-    }
+            // Move to the next week.
+            if (selected_week_index + 1 >= cvector_size(root.weeks))
+                return;
 
-    selected_kanji_index++;
+            selected_week_index++;
+            selected_day_index = 0;
+        }
+
+        selected_kanji_index = 0;
+    }
 
     refresh_kanji(R_INVALID_ID, NULL, NULL);
 
@@ -147,6 +149,7 @@ static void next_kanji(
     Rwidget_set_visibility(meaning, R_HIDDEN);
     Rswitcher_set_index(switcher, 0);
 }
+
 
 static void previous_kanji(
     Rid sender,
@@ -293,18 +296,46 @@ static void refresh_kanji(
 
     Rlabel_set_text(kanji_widget, kanji->kanji);
 
-    char answer_text[512];
+    char answer_text[2048];
 
-    snprintf(
+    int offset = snprintf(
         answer_text,
         sizeof(answer_text),
-        "%s, %s",
+        "%s, %s\n",
         kanji->hiragana,
         kanji->meaning
     );
 
-    Rlabel_set_text(meaning_widget, answer_text);
+    size_t example_count = cvector_size(kanji->examples);
 
+    for (size_t i = 0; i < example_count; i++) {
+        const Example* example = &kanji->examples[i];
+
+        if (offset >= sizeof(answer_text))
+            break;
+
+        int written = snprintf(
+            answer_text + offset,
+            sizeof(answer_text) - offset,
+            "\n%zu. %s: %s = %s",
+            i + 1,
+            example->word,
+            example->hiragana,
+            example->meaning
+        );
+
+        if (written < 0)
+            break;
+
+        if ((size_t)written >= sizeof(answer_text) - offset) {
+            offset = sizeof(answer_text);
+            break;
+        }
+
+        offset += written;
+    }
+
+    Rlabel_set_text(meaning_widget, answer_text);
 
     Rid week_day_label = Rwidget_find(windowID, "week_day");
     char text[40];
@@ -435,7 +466,7 @@ static void switcher_index_to_1(Rid sender, const char* action, void* user_data)
 
 int main(void) {
 	srand(time(NULL));
-	json = cJSON_Parse(parseJson("assets/data/soumatome_n3_kanji_with_examples.json"));
+	json = cJSON_Parse(parseJson("assets/data/soumatome_n3_kanji_with_hiragana.json"));
 	if(!json) {
 		printf("Failed to parse json\n");
 		return 1;
