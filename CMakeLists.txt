@@ -18,7 +18,7 @@ set(CMAKE_CXX_COMPILER "cl.exe" CACHE FILEPATH "C++ compiler" FORCE)
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 set(CMAKE_MSVC_RUNTIME_LIBRARY "MultiThreaded$<$<CONFIG:Debug>:Debug>") 
-
+find_package(Python3 REQUIRED COMPONENTS Interpreter)
 add_subdirectory(Dependencies/Raven)
 
 # NOTE: This create output folder for executable. For example, in debug build, this should

@@ -26,15 +26,15 @@ BEGIN
         BLOCK "040904B0"
         BEGIN
             VALUE "CompanyName", "ThaKhinSoe Enterprise\0"
-            VALUE "FileDescription", "QR Code Generator\0"
+            VALUE "FileDescription", "Kanji Flash Card\0"
             VALUE "FileVersion", "1.0.0.0\0"
-            VALUE "InternalName", "Project Itachi\0"
-            VALUE "LegalCopyright", "Copyright (C) 2026 SoeTheGreat\0"
+            VALUE "InternalName", "Avalanche\0"
+            VALUE "LegalCopyright", "Copyright (C) 2026 SoeTheGreat & Tom Rudy\0"
             VALUE "LegalTrademarks", "\0"
-            VALUE "OriginalFilename", "QrGenerator.exe\0"
-            VALUE "ProductName", "QR Code Generator\0"
+            VALUE "OriginalFilename", "Kanji Review.exe\0"
+            VALUE "ProductName", "Kanji Reviewer\0"
             VALUE "ProductVersion", "1.0.0.0\0"
-            VALUE "Comments", "A complex QR Code Generator application.\0"
+            VALUE "Comments", "A program that review N3 kanjis.\0"
         END
     END
 

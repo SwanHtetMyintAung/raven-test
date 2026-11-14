@@ -1,44 +1,53 @@
-
-
+import argparse
 from pathlib import Path
-
-SOURCE = Path("assets/helloO.xml")
-OUTPUT = Path("src/hello_xml.h")
 
 
 def escape_c(data: bytes) -> str:
     result = []
 
     for b in data:
-        if b == 34:          # "
+        if b == 34:
             result.append(r'\"')
-        elif b == 92:        # \
+        elif b == 92:
             result.append(r'\\')
-        elif b == 10:        # newline
+        elif b == 10:
             result.append(r'\n')
-        elif b == 13:        # carriage return
+        elif b == 13:
             result.append(r'\r')
-        elif b == 9:         # tab
+        elif b == 9:
             result.append(r'\t')
         elif 32 <= b <= 126:
             result.append(chr(b))
         else:
-            # Fixed-width octal escape preserves UTF-8 bytes
             result.append(f'\\{b:03o}')
 
     return ''.join(result)
 
 
 def main():
-    if not SOURCE.exists():
-        raise FileNotFoundError(f"XML file not found: {SOURCE}")
+    parser = argparse.ArgumentParser(
+        description="Embed XML into a C header"
+    )
 
-    data = SOURCE.read_bytes()
-    OUTPUT.parent.mkdir(parents=True, exist_ok=True)
+    parser.add_argument("--source", type=Path, required=True)
+    parser.add_argument("--output", type=Path, required=True)
+
+    args = parser.parse_args()
+
+    source = args.source
+    output = args.output
+
+    if not source.exists():
+        raise FileNotFoundError(
+            f"XML file not found: {source}"
+        )
+
+    data = source.read_bytes()
+    output.parent.mkdir(parents=True, exist_ok=True)
 
     lines = data.splitlines(keepends=True)
 
-    with OUTPUT.open("w", encoding="ascii", newline="\n") as f:
+    with output.open("w", encoding="ascii", newline="\n") as f:
         f.write("#pragma once\n")
         f.write("#include <stddef.h>\n\n")
 
@@ -55,7 +64,7 @@ def main():
         f.write("sizeof(hello_xml) - 1;\n")
 
     print(f"Successfully embedded {len(data)} bytes.")
-    print(f"Output: {OUTPUT}")
+    print(f"Output: {output}")
 
 
 if __name__ == "__main__":
