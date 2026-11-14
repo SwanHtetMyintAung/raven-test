@@ -144,9 +144,11 @@ static void next_kanji(
 
     // Return to the question side.
     Rid switcher = Rwidget_find(windowID, "button_switcher");
-    Rid meaning = Rwidget_find(windowID, "meaning");
+    Rid meaning = Rwidget_find(windowID, "meaning_container");
+	Rid example = Rwidget_find(windowID, "example_container");
 
     Rwidget_set_visibility(meaning, R_HIDDEN);
+	Rwidget_set_visibility(example, R_HIDDEN);
     Rswitcher_set_index(switcher, 0);
 }
 
@@ -190,10 +192,13 @@ static void previous_kanji(
 
     refresh_kanji(R_INVALID_ID, NULL, NULL);
 
+    // Return to the question side.
     Rid switcher = Rwidget_find(windowID, "button_switcher");
-    Rid meaning = Rwidget_find(windowID, "meaning");
+    Rid meaning = Rwidget_find(windowID, "meaning_container");
+    Rid example = Rwidget_find(windowID, "example_container");
 
     Rwidget_set_visibility(meaning, R_HIDDEN);
+    Rwidget_set_visibility(example, R_HIDDEN);
     Rswitcher_set_index(switcher, 0);
 }
 
@@ -293,30 +298,34 @@ static void refresh_kanji(
 
     Rid kanji_widget = Rwidget_find(windowID, "kanji");
     Rid meaning_widget = Rwidget_find(windowID, "meaning");
+    Rid example_widget = Rwidget_find(windowID, "example");
 
     Rlabel_set_text(kanji_widget, kanji->kanji);
 
-    char answer_text[2048];
+    char meaning_text[2048];
 
     int offset = snprintf(
-        answer_text,
-        sizeof(answer_text),
+        meaning_text,
+        sizeof(meaning_text),
         "%s, %s\n",
         kanji->hiragana,
         kanji->meaning
     );
-
+    
+    Rlabel_set_text(meaning_widget, meaning_text);
+	char example_text[2048];
+    size_t example_offset = 0;
     size_t example_count = cvector_size(kanji->examples);
 
     for (size_t i = 0; i < example_count; i++) {
         const Example* example = &kanji->examples[i];
 
-        if (offset >= sizeof(answer_text))
+        if (offset >= sizeof(example_text))
             break;
 
         int written = snprintf(
-            answer_text + offset,
-            sizeof(answer_text) - offset,
+            example_text + example_offset,
+            sizeof(example_text) - example_offset,
             "\n%zu. %s: %s = %s",
             i + 1,
             example->word,
@@ -327,15 +336,15 @@ static void refresh_kanji(
         if (written < 0)
             break;
 
-        if ((size_t)written >= sizeof(answer_text) - offset) {
-            offset = sizeof(answer_text);
+        if ((size_t)written >= sizeof(example_text) - example_offset) {
+            example_offset = sizeof(example_text);
             break;
         }
 
-        offset += written;
+        example_offset += (size_t)written;
     }
 
-    Rlabel_set_text(meaning_widget, answer_text);
+    Rlabel_set_text(example_widget, example_text);
 
     Rid week_day_label = Rwidget_find(windowID, "week_day");
     char text[40];
@@ -445,21 +454,23 @@ static void populate_chapters(Rid chapter_list)
     );
 }
 
-static void switcher_index_to_0(Rid sender, const char* action, void* user_data) {
-	(void)sender;
-	(void)user_data;
-	refresh_kanji(R_INVALID_ID, NULL, NULL);
-	Rid switcher = Rwidget_find(windowID, "button_switcher");
-	Rid meaning_widget = Rwidget_find(windowID, "meaning");
-	Rwidget_set_visibility(meaning_widget, R_HIDDEN);
-	Rswitcher_set_index(switcher, 0);
-}
+//static void switcher_index_to_0(Rid sender, const char* action, void* user_data) {
+//	(void)sender;
+//	(void)user_data;
+//	refresh_kanji(R_INVALID_ID, NULL, NULL);
+//	Rid switcher = Rwidget_find(windowID, "button_switcher");
+//	Rid meaning_widget = Rwidget_find(windowID, "meaning");
+//	Rwidget_set_visibility(meaning_widget, R_HIDDEN);
+//	Rswitcher_set_index(switcher, 0);
+//}
 static void switcher_index_to_1(Rid sender, const char* action, void* user_data) {
 	(void)sender;
 	(void)user_data;
 	Rid switcher = Rwidget_find(windowID, "button_switcher");
-	Rid meaning_widget = Rwidget_find(windowID, "meaning");
+	Rid meaning_widget = Rwidget_find(windowID, "meaning_container");
+	Rid example_widget = Rwidget_find(windowID, "example_container");
 	Rwidget_set_visibility(meaning_widget, R_VISIBLE);
+	Rwidget_set_visibility(example_widget, R_VISIBLE);
 	Rswitcher_set_index(switcher, 1);
 }
 

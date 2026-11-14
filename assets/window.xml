@@ -1,23 +1,31 @@
 <Window Title="FlashCard" Width="520" Height="500">
-	<VBox Spacing="8" Height="844" Color.Window="#000">
+	<Overlay Height="844">
+		<Image Width="96" Height="96" Source="wallpaper.jpg" Stretch="Fill"/>
 		<HBox>
-			<Button Text="☰ Chapters" Slot.Padding="10" MinWidth="200" OnClicked="chapter_menu.toggle"/>
+			<Button Text="☰ Chapters" Slot.Padding="10" MinWidth="200" OnClicked="chapter_menu.toggle" Slot.HAlign="Left" Slot.VAlign="Top" Material="FrostedGlass"/>
 			<Spacer Width="16" Height="16" Slot.Fill="2"/>
-			<Label Text="WEEK, DAY" Width="100" Slot.Padding="10" MinWidth="200" Name="week_day" TextAlign="Center" TextSize="17"/>
+			<Label Text="WEEK, DAY" Width="100" Slot.Padding="10" MinWidth="200" Name="week_day" TextAlign="Center" TextSize="17" Slot.VAlign="Top" Material="FrostedGlass"/>
 		</HBox>
 		<Overlay Slot.Fill="2">
-			<Grid Spacing="8" Columns="1" Rows="2" Slot.Fill="2">
-				<Label Text="Kanji" Slot.Row="0" TextSize="100" Name="kanji" TextAlign="Center" Slot.VAlign="Center" Material="Glass"/>
-				<Label Width="100" Slot.Padding="40, 0, 0, 0" Text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers " Slot.Row="1" Height="500" Wrap="true" TextSize="20" TextAlign="Center" Slot.Padding="10" Name="meaning" Slot.HAlign="Fill" Visibility="Hidden"/>
+			<Grid Spacing="0" Columns="1" Rows="2" Slot.Fill="2">
+				<Label Text="Kanji" Slot.Row="0" TextSize="100" Name="kanji" TextAlign="Center" Slot.VAlign="Center" Visibility="Visible" Slot.Padding="0,50" Wrap="true" Slot.HAlign="Center"/>
+				<VBox Slot.Row="1" Height="500" Spacing="20">
+					<Border Name="meaning_container" Material="Glass" Slot.VAlign="Center" Slot.HAlign="Center" Padding="10">
+						<Label Text="Lorem ipsum, or lher design elements." Slot.Row="1" Wrap="true" TextSize="20" Name="meaning" Visibility="Visible" TextAlign="Center" Slot.VAlign="Center" MaxWidth="700" Slot.HAlign="Center" Slot.Padding="5,10"/>
+					</Border>
+					<Border Name="example_container" Padding="10" Material="Glass" Slot.HAlign="Center" Slot.VAlign="Center">
+						<Label Text="example" TextAlign="Left" Name="example" Visibility="Visible" TextSize="20" Slot.HAlign="Center"/>
+					</Border>
+				</VBox>
 			</Grid>
-			<ListView Name="chapter_list" Width="260" Height="220" Slot.HAlign="Left" Slot.VAlign="Top" Slot.Padding="8" Visibility="Collapsed" Metric.RowHeight="36"/>
+			<ListView Name="chapter_list" Width="260" Height="220" Slot.HAlign="Left" Slot.VAlign="Top" Slot.Padding="8" Visibility="Collapsed" Metric.RowHeight="36" Material="Glass"/>
 		</Overlay>
 		<Switcher Index="0" Slot.VAlign="Bottom" Name="button_switcher">
-			<Button Text="Reveal" Height="50" OnClicked="switcher.index.1"/>
+			<Button Text="Reveal" Height="50" OnClicked="switcher.index.1" Material="Glass"/>
 			<UniformGrid Columns="2">
-				<Button Text="Previous" Height="50" Text="Previous" OnClicked="kanji.previous"/>
-				<Button Text="Next" Height="50" Text="Next" OnClicked="kanji.next"/>
+				<Button Text="Previous" Height="50" Text="Previous" OnClicked="kanji.previous" Material="Glass"/>
+				<Button Text="Next" Height="50" Text="Next" OnClicked="kanji.next" Material="Glass"/>
 			</UniformGrid>
 		</Switcher>
-	</VBox>
+	</Overlay>
 </Window>
